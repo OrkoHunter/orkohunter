@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = ""
+subtitle = "Category: Tech"
 
 # Number of recent posts to list.
 count = 5
@@ -20,6 +20,6 @@ view = 2
 # Filter posts by tag or category.
 #  E.g. to only show posts tagged with `Academic`, set `filter_tag = "Academic"`
 filter_tag = ""
-filter_category = ""
+filter_category = "Tech"
 +++
 
