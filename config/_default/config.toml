@@ -25,6 +25,8 @@ disqusShortname = "orkohunter-net"
 ## Advanced options below ##
 ############################
 
+publishDir = "docs"
+
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 

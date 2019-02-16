@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Himanshu Mishra</title>
+    <link>https://orkohunter.net/categories/tech/</link>
+    <description>Recent content in Tech on Himanshu Mishra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Himanshu Mishra</copyright>
+    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://orkohunter.net/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Peeking over what people search on DC</title>
+      <link>https://orkohunter.net/post/peeking-over-dc-search/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/peeking-over-dc-search/</guid>
+      <description>IS THIS EVEN POSSIBLE?
+ Well, Yeah.
+ BUT YOU PROBABLY NEED TO BE A DC ADMIN TO GET THIS, NO?
+ Nope. Anyone can do it.
+ Holy Schnikes!!!! TELL ME HOW TO DO IT ON DC++!!
+ Lol, come to Linux already!
+Note: I shall not be giving out a one-click solution to monitor DC searches intentionally even if it were possible. But if you are dedicated enough, you can figure things out by reading it.</description>
+    </item>
+    
+    <item>
+      <title>#DeleteFacebook</title>
+      <link>https://orkohunter.net/post/delete-facebook/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/delete-facebook/</guid>
+      <description>After letting Facebook Inc. build a vast profile of me for 9 years, I deleted my facebook account. Privacy is not my only concern, but I personally reacted to how Facebook has affected the way we interact in our real life.
+How?  Downloaded a copy of my data from facebook -&amp;gt; settings This contained all of my messages, photos, videos, and probably a lot more information which I can not consciously recall sharing with Facebook.</description>
+    </item>
+    
+    <item>
+      <title>Design of Public Posts: Twitter vs Facebook</title>
+      <link>https://orkohunter.net/post/twitter-vs-facebook/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/twitter-vs-facebook/</guid>
+      <description>What design tells you about the company’s values
+ Both Facebook and Twitter allow posts to be publicly accessible by people who have not joined the platform. It is good to note that the default setting of Facebook is to be private with posts and Twitter to be open to the web. While managing the Facebook and Twitter account of an organization I am involved in, I noticed a serious design pattern involved in displaying the public posts and their stark differences.</description>
+    </item>
+    
+    <item>
+      <title>Python&#39;s easter eggs and hidden jokes</title>
+      <link>https://orkohunter.net/post/python-easter-eggs/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/python-easter-eggs/</guid>
+      <description>Just when you thought, Python could not be more fun.
+ 1. Hello World &amp;gt;&amp;gt;&amp;gt; import __hello__ Hello World!  2. The classic &amp;gt;&amp;gt;&amp;gt; import this The Zen of Python, by Tim Peters Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren&#39;t special enough to break the rules.</description>
+    </item>
+    
+    <item>
+      <title>Lessons for creating good open source software</title>
+      <link>https://orkohunter.net/post/lessons-open-source/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/lessons-open-source/</guid>
+      <description>I was reading about The Cathedral and the Bazaar, a book by Eric S. Raymond on various (open source) software development methods. The wikipedia page for the book in short, lists few important lessons that he learned and they can not be more true.
+ Every good work of software starts by scratching a developer’s personal itch.
+ Good programmers know what to write. Great ones know what to rewrite (and reuse).</description>
+    </item>
+    
+    <item>
+      <title>Keep : A personal shell command keeper</title>
+      <link>https://orkohunter.net/post/keep/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/keep/</guid>
+      <description>A Meta CLI toolkit  Writwick Wraj loves using the command line. Writwick googles “How to do X in terminal?” and multiple forums and blog posts finally provide him the magical command for the rescue. Problem Solved ! Fast forward couple weeks, Writwick has to do X in terminal, again. Wraj remembers solving this few weeks ago. Let him do a reverse-i-search with Ctrl+R. Nope, can’t remember sh*t. Browser search history?</description>
+    </item>
+    
+    <item>
+      <title>Collection of Linux fortunes ❤</title>
+      <link>https://orkohunter.net/post/linux-fortunes/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/linux-fortunes/</guid>
+      <description>fortune | cowsay &amp;gt; This is about how I maintain the space https://github.com/OrkoHunter/mfdf/blob/master/fortunesfortune is a Unix program which chooses a random message from its database of quotations and displays in the Shell. There are mainly three types of the quotations; literature, fortunes and riddles. I once tried adding fortune in my ~/.zshrc file so that a new fortune would appear whenever I create a new terminal session. There are many other places for making it appear e.</description>
+    </item>
+    
+    <item>
+      <title>Quick guide to git and github (Part 1)</title>
+      <link>https://orkohunter.net/post/quick-guide-to-git-and-github-1/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/quick-guide-to-git-and-github-1/</guid>
+      <description>Before we start, make sure you have an account on GitHub. Go to https://github.com. Pick a username, enter your email id and choose a password. Next, choose unlimited personal repositories for free. In the final step you can give some input to github and voila ! You are now a github user. (If you are redirect from KWoC, use the username there.) There is plethora of git guides over internet, some are really good and some really suck.</description>
+    </item>
+    
+    <item>
+      <title>Google Summer of Code 2016 Report : Stingray</title>
+      <link>https://orkohunter.net/post/gsoc2016-report/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/gsoc2016-report/</guid>
+      <description>It began 5 months ago, in February. Due to my recent interests in Image Processing, I had made few Pull Requests to the scikit-image library, but it did not participate in GSoC. And that, after all those years of consecutive partcipation! (Yes I felt little sad.)
+So, the day when Google announced the list of organizations, I started my “org hunt” ! And by the end of the day, I had sorted out the Python-only projects, which included the project Library of Time Series methods.</description>
+    </item>
+    
+    <item>
+      <title>Losing and Re-Gaining trust on .gitignore</title>
+      <link>https://orkohunter.net/post/losing-and-regaining-truct-on-gitignore/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/losing-and-regaining-truct-on-gitignore/</guid>
+      <description>I would like to share an interesting story of a problem which I’ve faced many times since I started using git. This story is about “losing and re-gaining trust on .gitignore”.
+Event : Create a Python app. Run it, test it and Boom! Now it’s time to push it to GitHub.
+git init . git remote add https://github.com/iamsosmart/notsomuch.git git push -u origin master  Shit, Shit, Shit ! I wasn’t supposed to push the pyc files.</description>
+    </item>
+    
+    <item>
+      <title>What do I do when I’m bored from studying (or not studying) for the exams?</title>
+      <link>https://orkohunter.net/post/ping-me-and-keep/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/ping-me-and-keep/</guid>
+      <description>The semester is about to end and I have no clue of what is going in the end semester examinations. I have been studying good amount of ugly Mathematics but that’s okay. I usually lose my temper studying my other subjects Environmental Science, Biology and Economics. Really? For how long will I have to study “everything”. Sigh.
+So, I either eat or surf when I’m not studying. That’s pretty much of it.</description>
+    </item>
+    
+    <item>
+      <title>Why is Sublime Text not something to be frowned upon?</title>
+      <link>https://orkohunter.net/post/sublime-text/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/post/sublime-text/</guid>
+      <description>There have been people, advisers, and more people, enlightening the fact about “real programmers”, they use emacs or vim.
+‘I use sublime text’, is often misunderstood as ‘I am a novice and I don’t like pure black window’. There is no way this 7 years old editor is going to compete with 39 years old emacs and 15 years old fork of yet another 39 years old editor vi. Nevertheless, there’s much more to come.</description>
+    </item>
+    
+  </channel>
+</rss>
