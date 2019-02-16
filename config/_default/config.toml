@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Himanshu Mishra"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -13,13 +13,13 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = "Himanshu Mishra"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-117726844-1"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "orkohunter-net"
 
 ############################
 ## Advanced options below ##
@@ -58,5 +58,3 @@ preserveTaxonomyNames = true
 [taxonomies]
   tag = "tags"
   category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
