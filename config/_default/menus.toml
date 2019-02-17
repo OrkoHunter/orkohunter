@@ -8,7 +8,7 @@
   url = "#about"
   weight = 1
 
-[[main_right]]
+[[main]]
   name = "Blog"
   url = "/post"
   weight = 3

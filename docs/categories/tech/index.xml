@@ -9,7 +9,7 @@
     <copyright>Himanshu Mishra</copyright>
     <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://orkohunter.net/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://orkohunter.net/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,13 +18,89 @@
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/peeking-over-dc-search/</guid>
-      <description>IS THIS EVEN POSSIBLE?
- Well, Yeah.
- BUT YOU PROBABLY NEED TO BE A DC ADMIN TO GET THIS, NO?
- Nope. Anyone can do it.
- Holy Schnikes!!!! TELL ME HOW TO DO IT ON DC++!!
- Lol, come to Linux already!
-Note: I shall not be giving out a one-click solution to monitor DC searches intentionally even if it were possible. But if you are dedicated enough, you can figure things out by reading it.</description>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;IS THIS EVEN POSSIBLE?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Well, Yeah.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;BUT YOU PROBABLY NEED TO BE A DC ADMIN TO GET THIS, NO?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nope. Anyone can do it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Holy Schnikes!!!! TELL ME HOW TO DO IT ON DC++!!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lol, come to Linux already!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Note: I shall not be giving out a one-click solution to monitor DC searches intentionally even if it were possible. But if you are dedicated enough, you can figure things out by reading it. Also, I’m not the first person to know about this.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Direct_Connect_%28protocol%29&#34; target=&#34;_blank&#34;&gt;What is DC?&lt;/a&gt; It’s a peer-to-peer file sharing protocol. Computers connected with each other can share files among them, and if you are on LAN, you get them on a terrific speed.&lt;/p&gt;
+
+&lt;p&gt;GET TO THE POINT!!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alright, alright.&lt;/p&gt;
+
+&lt;h2 id=&#34;theory&#34;&gt;Theory&lt;/h2&gt;
+
+&lt;p&gt;Let’s say Mr X and I are connected to a DC hub. Let’s say it happens that both of us are online at the same time. Mr X searched for &lt;code&gt;New movies&lt;/code&gt; in their favorite DC client e.g. DC++, LinuxDC++, etc. Their client sends this request to the hub we both are connected, to fetch a search result. The hub then forwards the request to &lt;em&gt;everyone&lt;/em&gt; who is connected to it and returns the index for Mr X to click and download any file from anyone.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;SO GIVE ME THE SCRIPT. OR DO YOU HAVE THE CODE OR A REPOSITORY?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There isn’t really a script or any code. :/&lt;/p&gt;
+
+&lt;h2 id=&#34;exploit&#34;&gt;Exploit&lt;/h2&gt;
+
+&lt;p&gt;Because of the theory, we can sit back, stay connected to the hub and receive a holy large amount of data like&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Who joined/left the hub when, their nick and their IP address&lt;/li&gt;
+&lt;li&gt;What are people searching for and IP address associated with each query&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are in KGP, you can &lt;a href=&#34;https://wiki.metakgp.org/w/IP_allocation&#34; target=&#34;_blank&#34;&gt;trace back the IP addresses to even room numbers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;technology&#34;&gt;Technology&lt;/h2&gt;
+
+&lt;p&gt;Normal DC clients won’t allow us to see these requests. There is a client known as &lt;a href=&#34;https://dev.yorhel.nl/ncdc&#34; target=&#34;_blank&#34;&gt;ncdc&lt;/a&gt; (distributed as a binary) which doesn’t really have a GUI, so you can run it on a terminal (Aah, the feels it gives!)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Use ncdc to connect to the hub&lt;/li&gt;
+&lt;li&gt;Enable logging to a file and set &lt;code&gt;log_debug&lt;/code&gt; to True&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Note: This will generate a lot of data if you’re connected to a large hub and thus make sure you keep clearing the log file&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Use &lt;code&gt;tail -f /path/to/logfile&lt;/code&gt; to see the queries sent by DC&lt;/li&gt;
+&lt;li&gt;Parse the queries and tada!&lt;/li&gt;
+&lt;li&gt;Protip: You can feed &lt;a href=&#34;https://www.elastic.co/products/kibana&#34; target=&#34;_blank&#34;&gt;Kibana&lt;/a&gt; the data and visualize them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You probably will have to set some config in ncdc to change from Passive mode to Active mode or else, some hubs mights ban you. Google properly, read the ncdc documentation and you’ll be fine.&lt;/p&gt;
+
+&lt;p&gt;EDIT: &lt;a href=&#34;https://medium.com/@icyflame&#34; target=&#34;_blank&#34;&gt;Siddharth Kannan&lt;/a&gt; used tcpdump to capture the TCP/IP packets which contains the DC query strings as well. Check out the 107,000 search results he accumulated in a week over here stored as &lt;code&gt;all_packet_info.json&lt;/code&gt;. This is the code he used&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo tcpdump -b -t src 10.109.xx.xx -w incoming-search-`date +%s`.pcap -c 1000;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;live-streaming&#34;&gt;Live Streaming&lt;/h2&gt;
+
+&lt;p&gt;It’s hard. But if you really want to live stream the searches and that to be accessible outside of the campus network, there is a hack. You can have a server hosted somewhere outside the network which is going to stream data to the public. Share the URL of this server to people you want to. Create an endpoint over here which can receive data through POST request. Now, use your laptop from inside the network to constantly send requests on to the server. Make sure to use authentication by headers to avoid exploitation!&lt;/p&gt;
+
+&lt;p&gt;There’s &lt;a href=&#34;https://github.com/OrkoHunter/dc-audio/&#34; target=&#34;_blank&#34;&gt;some&lt;/a&gt; leftover &lt;a href=&#34;https://github.com/OrkoHunter/dctrends&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; if you can find use of them.&lt;/p&gt;
+
+&lt;p&gt;Now you have this, here’s something you need to remember: Don’t be dick. That’s all.&lt;/p&gt;
+
+&lt;p&gt;Happy Hacking! ✨&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,8 +109,45 @@ Note: I shall not be giving out a one-click solution to monitor DC searches inte
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/delete-facebook/</guid>
-      <description>After letting Facebook Inc. build a vast profile of me for 9 years, I deleted my facebook account. Privacy is not my only concern, but I personally reacted to how Facebook has affected the way we interact in our real life.
-How?  Downloaded a copy of my data from facebook -&amp;gt; settings This contained all of my messages, photos, videos, and probably a lot more information which I can not consciously recall sharing with Facebook.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*0l-9QfuqEhDiBumKeTmGuQ.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After letting Facebook Inc. build a vast profile of me for 9 years, I deleted my facebook account. Privacy is not my &lt;em&gt;only&lt;/em&gt; concern, but I &lt;a href=&#34;https://medium.com/@OrkoHunter/the-discovery-of-pseudo-acquaintance-9f903601d916&#34; target=&#34;_blank&#34;&gt;personally reacted&lt;/a&gt; to how Facebook has affected &lt;a href=&#34;https://www.theverge.com/2017/12/20/16800842/facebook-2017-russia-scandal-news-feed-criticism-defectors&#34; target=&#34;_blank&#34;&gt;the way we interact in our real life&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;how&#34;&gt;How?&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Downloaded a copy of my data from facebook -&amp;gt; settings
+This contained all of my messages, photos, videos, and probably a lot more information which I can not consciously recall sharing with Facebook.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Created a dummy facebook account* and added it to the resourceful groups I might miss out important information from.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;*An account without any interaction i.e. No likes, No reactions neither love nor angry, no comments, no photos/videos, no “friends”. A profile to just receive information on email (sent by facebook).&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/help/delete_account&#34; target=&#34;_blank&#34;&gt;https://www.facebook.com/help/delete_account&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;(Going extreme) Blocked Facebook servers on my computer that my computer can never communicate to domain names linked to Facebook servers. See &lt;a href=&#34;https://github.com/jmdugan/blocklists/tree/master/corporations/facebook&#34; target=&#34;_blank&#34;&gt;the list&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;why&#34;&gt;&lt;strong&gt;Why?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&#34;social-concerns&#34;&gt;Social concerns&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;People started using Facebook as LinkedIn by adding Freinds and it blurred the lines of relationships between two individuals — &lt;a href=&#34;https://medium.com/@OrkoHunter/the-discovery-of-pseudo-acquaintance-9f903601d916&#34; target=&#34;_blank&#34;&gt;Article&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Real addiction to unreal things — &lt;a href=&#34;https://youtu.be/3ev7GXzFTPg?t=3m10s&#34; target=&#34;_blank&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook (read &lt;em&gt;Social Media&lt;/em&gt;) promotes Ignorance by thoughtless comments, replies and reactions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;privacy-concerns&#34;&gt;Privacy concerns&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This will suffice — &lt;a href=&#34;https://stallman.org/facebook.html&#34; target=&#34;_blank&#34;&gt;https://stallman.org/facebook.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -43,8 +156,50 @@ How?  Downloaded a copy of my data from facebook -&amp;gt; settings This contain
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/twitter-vs-facebook/</guid>
-      <description>What design tells you about the company’s values
- Both Facebook and Twitter allow posts to be publicly accessible by people who have not joined the platform. It is good to note that the default setting of Facebook is to be private with posts and Twitter to be open to the web. While managing the Facebook and Twitter account of an organization I am involved in, I noticed a serious design pattern involved in displaying the public posts and their stark differences.</description>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;What design tells you about the company’s values&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Both Facebook and Twitter allow posts to be publicly accessible by people who have not joined the platform. It is good to note that the default setting of Facebook is to be private with posts and Twitter to be open to the web. While managing the Facebook and Twitter account of an organization I am involved in, I noticed a serious design pattern involved in displaying the public posts and their stark differences.&lt;/p&gt;
+
+&lt;h4 id=&#34;case-1-stages-of-interacting-with-twitter&#34;&gt;Case 1: Stages of interacting with Twitter&lt;/h4&gt;
+
+&lt;p&gt;If you open a &lt;a href=&#34;https://twitter.com/kossiitkgp/status/954776125573554176&#34; target=&#34;_blank&#34;&gt;public tweet&lt;/a&gt; in incognito mode, or while being logged out, you’ll land on something like this —&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*jYcPCOlsEVbI7WL7oEhE9A.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A Public post on Twitter (viewed while logged out)**Stage 1 **of interaction consists of the &lt;em&gt;content of the tweet&lt;/em&gt; with the highest visibility, followed by who created the tweet, then more details about the tweet. At this point of time, there is no available “Sign Up” button to be clicked. You can now easily close the tab since most of the times, your purpose would be the information contained in the tweet.&lt;/p&gt;
+
+&lt;p&gt;But if you feel engaged and you click on the close button on the top right corner, you’ll land on the profile page of the account which created the tweet, which I call the &lt;strong&gt;Stage 2.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*fgnX8sn_C3B7RBuzTF614g.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stage 2 of a public tweet (while being logged out)You can see that the majority percentage of the web page is covered with the profile information. On the sidebar and header, there are interactive elements which lead you to sign up on the platform. And you would do, if you seem impressed. Let’s have a look at Facebook.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Case 2: Stages of interacting with a public post on Facebook&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you open a &lt;a href=&#34;https://www.facebook.com/kossiitkgp/photos/a.551030724973932.1073741826.524856034258068/1588200897923571/&#34; target=&#34;_blank&#34;&gt;public post&lt;/a&gt; on Facebook, you land on something like this —&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*-sIjEoUp6WckYnrziAf_KQ.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s interesting to notice that much more than half of the area is covered with &lt;strong&gt;ways to either join or log in to Facebook&lt;/strong&gt;. And the Stage 1 has *&lt;strong&gt;zero* information about the post&lt;/strong&gt; (which was the sole purpose of opening that particular URL). The only way to close this banner is to find that tiny ***Not Now ***text below the big Green &lt;em&gt;Create New Account&lt;/em&gt;. An interesting design flaw (whether intentional or by mistake) is that the typography of *Not Now *and &lt;em&gt;Forgotten Account?&lt;/em&gt; is exactly the same, even when the later button is clicked once a hundred times and the former 99 out of 100 times. I think it’s intentional.&lt;/p&gt;
+
+&lt;p&gt;Let’s click on &lt;em&gt;Not Now&lt;/em&gt;, and move the &lt;strong&gt;Stage 2&lt;/strong&gt; of the view.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*DjkjiZQ7_yC_IADORFLO_Q.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stage 2 of the view, after clicking Not Now in Stage 1On this webpage, the area covered with the information about the post is still comparable or maybe less than the &lt;em&gt;engageble area of log in and sign up&lt;/em&gt;. It’s funny to note that there are &lt;strong&gt;five&lt;/strong&gt; interactive buttons on this single web page to Join Facebook.&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusions&#34;&gt;Conclusions:&lt;/h4&gt;
+
+&lt;p&gt;— Facebook’s main focus is on targeting as many people as they can, while Twitter’s main focus does not &lt;em&gt;appear&lt;/em&gt; so. Even if both the products want users, Facebook is &lt;strong&gt;desperately user-hungry&lt;/strong&gt; in public.&lt;/p&gt;
+
+&lt;p&gt;— Content is not respected on Facebook while Twitter values the content over anything else. Eventually content dies out on Facebook while people keep retweeting and referring 5 year old tweets.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thank you for reading. This post is up for suggestions and discussions!&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -53,8 +208,198 @@ How?  Downloaded a copy of my data from facebook -&amp;gt; settings This contain
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/python-easter-eggs/</guid>
-      <description>Just when you thought, Python could not be more fun.
- 1. Hello World &amp;gt;&amp;gt;&amp;gt; import __hello__ Hello World!  2. The classic &amp;gt;&amp;gt;&amp;gt; import this The Zen of Python, by Tim Peters Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren&#39;t special enough to break the rules.</description>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;Just when you thought, Python could not be more fun.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;1-hello-world&#34;&gt;1. Hello World&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-py&#34;&gt;&amp;gt;&amp;gt;&amp;gt; import __hello__
+Hello World!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;2-the-classic&#34;&gt;2. The classic&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; import this
+
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren&#39;t special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you&#39;re Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it&#39;s a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let&#39;s do more of those!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;3-the-missing-line-from-the-classic&#34;&gt;3. The missing line from the classic&lt;/h3&gt;
+
+&lt;p&gt;The Zen of Python was introduced in &lt;a href=&#34;https://www.python.org/dev/peps/pep-0020/#id2&#34; target=&#34;_blank&#34;&gt;PEP 20&lt;/a&gt;. It is supposed to be 20 aphorisms, but only 19 of which have been written down.&lt;/p&gt;
+
+&lt;h3 id=&#34;4-a-simple-life-lesson&#34;&gt;4. A simple life lesson&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-py&#34;&gt;&amp;gt;&amp;gt;&amp;gt; import this
+...
+&amp;gt;&amp;gt;&amp;gt; love = this
+&amp;gt;&amp;gt;&amp;gt; this is love
+True
+&amp;gt;&amp;gt;&amp;gt; love is True
+False
+&amp;gt;&amp;gt;&amp;gt; love is False
+False
+&amp;gt;&amp;gt;&amp;gt; love is not True or False
+True
+&amp;gt;&amp;gt;&amp;gt; love is not True or False; love is love  # FML
+True
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;5-comics-yeah&#34;&gt;5. Comics, yeah.&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-py&#34;&gt;&amp;gt;&amp;gt;&amp;gt; import antigravity
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;6-it-s-not-a-choice-it-defines-who-we-are&#34;&gt;6. It&amp;rsquo;s not a choice, it defines who we are&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-py&#34;&gt;&amp;gt;&amp;gt;&amp;gt; from __future__ import braces
+  File &amp;quot;&amp;lt;stdin&amp;gt;&amp;quot;, line 1
+SyntaxError: not a chance
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;7-origins&#34;&gt;7. Origins&lt;/h3&gt;
+
+&lt;p&gt;The name Python has nothing to do with the type of Snake.&lt;/p&gt;
+
+&lt;h3 id=&#34;8-the-confuscation&#34;&gt;8. The confuscation&lt;/h3&gt;
+
+&lt;p&gt;This is how the &lt;code&gt;this.py&lt;/code&gt; module looks, which prints the Zen of Python.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-py&#34;&gt;s = &amp;quot;&amp;quot;&amp;quot;Gur Mra bs Clguba, ol Gvz Crgref
+
+Ornhgvshy vf orggre guna htyl.
+Rkcyvpvg vf orggre guna vzcyvpvg.
+Fvzcyr vf orggre guna pbzcyrk.
+Pbzcyrk vf orggre guna pbzcyvpngrq.
+Syng vf orggre guna arfgrq.
+Fcnefr vf orggre guna qrafr.
+Ernqnovyvgl pbhagf.
+Fcrpvny pnfrf nera&#39;g fcrpvny rabhtu gb oernx gur ehyrf.
+Nygubhtu cenpgvpnyvgl orngf chevgl.
+Reebef fubhyq arire cnff fvyragyl.
+Hayrff rkcyvpvgyl fvyraprq.
+Va gur snpr bs nzovthvgl, ershfr gur grzcgngvba gb thrff.
+Gurer fubhyq or bar-- naq cersrenoyl bayl bar --boivbhf jnl gb qb vg.
+Nygubhtu gung jnl znl abg or boivbhf ng svefg hayrff lbh&#39;er Qhgpu.
+Abj vf orggre guna arire.
+Nygubhtu arire vf bsgra orggre guna *evtug* abj.
+Vs gur vzcyrzragngvba vf uneq gb rkcynva, vg&#39;f n onq vqrn.
+Vs gur vzcyrzragngvba vf rnfl gb rkcynva, vg znl or n tbbq vqrn.
+Anzrfcnprf ner bar ubaxvat terng vqrn -- yrg&#39;f qb zber bs gubfr!&amp;quot;&amp;quot;&amp;quot;
+
+d = {}
+for c in (65, 97):
+    for i in range(26):
+        d[chr(i+c)] = chr((i+13) % 26 + c)
+
+print(&amp;quot;&amp;quot;.join([d.get(c, c) for c in s]))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The code for the Zen violates itself. It&amp;rsquo;s not beautiful but ugly, not explicit but implicit.
+This would probably be the &lt;em&gt;only&lt;/em&gt; module to go against the spirit of what it says itself.
+.&lt;/p&gt;
+
+&lt;h3 id=&#34;9-c-c-anyone&#34;&gt;9. C/C++ anyone?&lt;/h3&gt;
+
+&lt;p&gt;From the Zen again,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;There should be one-- and preferably only one --obvious way to do it.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;10-naming-identifiers-can-be-unspeakably-cool&#34;&gt;10. Naming identifiers can be unspeakably cool&lt;/h3&gt;
+
+&lt;p&gt;Just when you thought that working in Python couldn&amp;rsquo;t possibly &lt;em&gt;be&lt;/em&gt; any more fun,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-py&#34;&gt;&amp;gt;&amp;gt;&amp;gt; from math import pi
+&amp;gt;&amp;gt;&amp;gt; π = pi
+&amp;gt;&amp;gt;&amp;gt; area = π * r**2
+
+&amp;gt;&amp;gt;&amp;gt; résumé = &#39;knows Python&#39;
+&amp;gt;&amp;gt;&amp;gt; &#39;Python&#39; in résumé
+True
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;11-picking-a-place-for-meetup&#34;&gt;11. Picking a place for meetup?&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-py&#34;&gt;&amp;gt;&amp;gt;&amp;gt; from antigravity import geohash
+&amp;gt;&amp;gt;&amp;gt; # Your location, a date and that date&#39;s (or most recent) DJIA opening.
+&amp;gt;&amp;gt;&amp;gt; geohash(37.421542, -122.085589, b&#39;2005-05-26-10458.68&#39;)
+37.857713 -122.544543
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This can generate a GPS coordinate in a region which is 1 longitude long and 1
+latitude wide based on your location.&lt;/p&gt;
+
+&lt;h3 id=&#34;12-the-flufl-friendly-language-uncle-for-life-from-pep-401-bdfl-retirement-https-www-python-org-dev-peps-pep-0401&#34;&gt;12. The FLUFL - Friendly Language Uncle For Life from &lt;a href=&#34;https://www.python.org/dev/peps/pep-0401&#34; target=&#34;_blank&#34;&gt;PEP 401 &amp;ndash; BDFL Retirement&lt;/a&gt;&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-py&#34;&gt;&amp;gt;&amp;gt;&amp;gt; from __future__ import barry_as_FLUFL
+&amp;gt;&amp;gt;&amp;gt; 1 &amp;lt;&amp;gt; 2
+True
+&amp;gt;&amp;gt;&amp;gt; 1 != 2
+  File &amp;quot;&amp;lt;stdin&amp;gt;&amp;quot;, line 1
+    1 != 2
+       ^
+SyntaxError: invalid syntax
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Recognized that the != inequality operator in Python 3.0 was a horrible, finger pain inducing mistake, the FLUFL reinstates the &amp;lt;&amp;gt; diamond operator as the sole spelling.&lt;/p&gt;
+
+&lt;h3 id=&#34;13-inpynite&#34;&gt;13. InPynite?&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-py&#34;&gt;&amp;gt;&amp;gt;&amp;gt; infinity = float(&#39;infinity&#39;)
+&amp;gt;&amp;gt;&amp;gt; hash(infinity)
+314159
+&amp;gt;&amp;gt;&amp;gt; hash(float(&#39;-inf&#39;))
+-314159
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;A hash is a fixed sized integer that identifies a particular value. On a closer look, the hash of infinity is 10^5 x pi. Interestingly, hash(float(&amp;lsquo;-inf&amp;rsquo;)) yields -10^5 x pi in python3, whereeas -271828 i.e - 10^5 x e in python2.&lt;/p&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Easiest hello world program in a language without calling any function&lt;/li&gt;
+&lt;li&gt;Each and every line is the philosophy of Python&amp;rsquo;s design and is a supreme holy guide&lt;/li&gt;
+&lt;li&gt;Maybe just to show that there always should be a new line at the end of a file!&lt;/li&gt;
+&lt;li&gt;Not an easter egg, a joke in the interpreter&lt;/li&gt;
+&lt;li&gt;It opens this &lt;a href=&#34;https://xkcd.com/353&#34; target=&#34;_blank&#34;&gt;xkcd comic&lt;/a&gt; which demonstrates how easy it is to do stuff with modules&lt;/li&gt;
+&lt;li&gt;This is to instantly close down any conversation about introducing curly braces to Python&lt;/li&gt;
+&lt;li&gt;Guido van Rossum is a big fan of &lt;a href=&#34;https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus&#34; target=&#34;_blank&#34;&gt;Monty Python&amp;rsquo;s Flying Circus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a substitution cipher called &lt;a href=&#34;https://en.wikipedia.org/wiki/ROT13&#34; target=&#34;_blank&#34;&gt;ROT13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In many languages there are two ways to do the same thing &lt;code&gt;--no&lt;/code&gt; and &lt;code&gt;no--&lt;/code&gt;. The message has a hidden example in itself&lt;/li&gt;
+&lt;li&gt;Support for unicode character set for naming identifiers was added in Python3. Though, it is not explicitly preferred while writing code, it adds flavour to working with scientific formulas&lt;/li&gt;
+&lt;li&gt;The original code is &lt;a href=&#34;https://github.com/python/cpython/blob/master/Lib/antigravity.py&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; with the &lt;a href=&#34;https://xkcd.com/426/&#34; target=&#34;_blank&#34;&gt;xkcd comic&lt;/a&gt; referenced, and maybe that&amp;rsquo;s why this is also in the &lt;code&gt;antigravity&lt;/code&gt; module&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://www.python.org/dev/peps/pep-0401/&#34; target=&#34;_blank&#34;&gt;PEP 401&lt;/a&gt; is an April Fools&amp;rsquo; Joke - The PEP&amp;rsquo;s number is 401, i.e. &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt; or April 1st (April Fools&amp;rsquo; Day). The PEP states that Guido van Rossum is stepping down. The new title given to him would be pronounced &amp;ldquo;BDEVIL&amp;rdquo; (Benevolent Dictator Emeritus Vacationing Indefinitely from the Language) and Guido&amp;rsquo;s successor will be Barry Warsaw, or as he is affectionately known, Uncle Barry. Uncle Barry&amp;rsquo;s official title is &amp;ldquo;FLUFL&amp;rdquo; (Friendly Language Uncle For Life). There are in-jokes about the Parrot virtual machine and the &amp;ldquo;non-existent&amp;rdquo; Python Secret Underground (possibly a throw-back to &lt;a href=&#34;https://en.wikipedia.org/wiki/There_Is_No_Cabal&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;TINC&amp;rdquo; on USENET&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/Python/comments/6wrd8t/nice_lil_easter_egg_i_suppose/&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;add-more&#34;&gt;Add more&lt;/h2&gt;
+
+&lt;p&gt;GitHub : &lt;a href=&#34;https://github.com/orkohunter/python-easter-eggs&#34; target=&#34;_blank&#34;&gt;https://github.com/orkohunter/python-easter-eggs&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -63,9 +408,56 @@ How?  Downloaded a copy of my data from facebook -&amp;gt; settings This contain
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/lessons-open-source/</guid>
-      <description>I was reading about The Cathedral and the Bazaar, a book by Eric S. Raymond on various (open source) software development methods. The wikipedia page for the book in short, lists few important lessons that he learned and they can not be more true.
- Every good work of software starts by scratching a developer’s personal itch.
- Good programmers know what to write. Great ones know what to rewrite (and reuse).</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*YNBTPaCNBNWLoT7XAbJ1Lw.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was reading about &lt;em&gt;The Cathedral and the Bazaar&lt;/em&gt;, a book by &lt;a href=&#34;https://en.wikipedia.org/wiki/Eric_S._Raymond&#34; target=&#34;_blank&#34;&gt;Eric S. Raymond&lt;/a&gt; on various (open source) software development methods. The wikipedia page for the book in short, lists few important lessons that he learned and they can not be more true.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Every good work of software starts by scratching a developer’s personal itch.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Good programmers know what to write. Great ones know what to rewrite (and reuse).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Plan to throw one [version] away; you will, anyhow. (Copied from Frederick Brooks’ &lt;a href=&#34;https://en.wikipedia.org/wiki/Eric_S._Raymond&#34; target=&#34;_blank&#34;&gt;The Mythical Man-Month&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you have the right attitude, interesting problems will find you.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;When you lose interest in a program, your last duty to it is to hand it off to a competent successor.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Treating your users as co-developers is your least-hassle route to rapid code improvement and effective debugging.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Release_early,_release_often&#34; target=&#34;_blank&#34;&gt;Release early. Release often.&lt;/a&gt; And listen to your customers.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Smart data structures and dumb code works a lot better than the other way around.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you treat your beta-testers as if they’re your most valuable resource, they will respond by becoming your most valuable resource.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The next best thing to having good ideas is recognizing good ideas from your users. Sometimes the latter is better.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away. (Attributed to &lt;a href=&#34;https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry&#34; target=&#34;_blank&#34;&gt;Antoine de Saint-Exupéry&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;When writing gateway software of any kind, take pains to disturb the data stream as little as possible — and never throw away information unless the recipient forces you to!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;When your language is nowhere near Turing-complete, syntactic sugar can be your friend.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A security system is only as secure as its secret. Beware of pseudo-secrets.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;To solve an interesting problem, start by finding a problem that is interesting to you.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Provided the development coordinator has a communications medium at least as good as the Internet, and knows how to lead without coercion, many heads are inevitably better than one.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar#Lessons_for_creating_good_open_source_software&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Attribution&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;These lessons are really something to be read periodically while developing and contributing to open source software. They are worth noting down and sharing.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -74,7 +466,37 @@ How?  Downloaded a copy of my data from facebook -&amp;gt; settings This contain
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/keep/</guid>
-      <description>A Meta CLI toolkit  Writwick Wraj loves using the command line. Writwick googles “How to do X in terminal?” and multiple forums and blog posts finally provide him the magical command for the rescue. Problem Solved ! Fast forward couple weeks, Writwick has to do X in terminal, again. Wraj remembers solving this few weeks ago. Let him do a reverse-i-search with Ctrl+R. Nope, can’t remember sh*t. Browser search history?</description>
+      <description>
+
+&lt;h2 id=&#34;a-meta-cli-toolkit&#34;&gt;A Meta CLI toolkit&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Writwick Wraj loves using the command line.
+Writwick googles “How to do X in terminal?” and multiple forums and blog posts finally provide him the magical &lt;em&gt;command&lt;/em&gt; for the rescue. Problem Solved !
+Fast forward couple weeks, Writwick has to do X in terminal, again. Wraj remembers solving this few weeks ago. Let him do a reverse-i-search with &lt;em&gt;Ctrl+R&lt;/em&gt;. Nope, can’t remember sh*t. Browser search history? 25 web pages found matching &lt;em&gt;X&lt;/em&gt;. Argh!
+Writwik finally finds the solution. From this time Writwik starts writing the commands somewhere online for the future.
+Wait, why shouldn’t he keep the command in his terminal itself if this is only place where he’ll ever have use it?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*A4bHZhazEzT2giYA-djLmA.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Introducing a new command line tool which solves the issue of memorizing commands or storing them somewhere which is difficult to find. With the grep and run commands, one can easily find their long forgotten commands and use them them right away.&lt;/p&gt;
+
+&lt;h3 id=&#34;keep-is-distributed-across-all-your-computers&#34;&gt;Keep is distributed across all your computers&lt;/h3&gt;
+
+&lt;p&gt;If not already, use keep register to create a database of your commands on the Keep remote. You can push and pull the commands from any of your computers. This comes handy when we are in our ssh sessions, and all we’ve got at our disposal, is a shell.&lt;/p&gt;
+
+&lt;h3 id=&#34;keep-is-open-source&#34;&gt;Keep is Open Source ❤&lt;/h3&gt;
+
+&lt;p&gt;If you like the tool and have some feedback, please create an issue &lt;a href=&#34;https://github.com/orkohunter/keep&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.
+Pull Requests are most welcome !&lt;/p&gt;
+
+&lt;p&gt;The Source Code is hosted at GitHub : &lt;a href=&#34;https://github.com/Orkohunter/keep&#34; target=&#34;_blank&#34;&gt;https://github.com/Orkohunter/keep&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Keep can be installed using pip&lt;/p&gt;
+
+&lt;p&gt;$ pip install keepHappy Coding !&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -83,7 +505,74 @@ How?  Downloaded a copy of my data from facebook -&amp;gt; settings This contain
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/linux-fortunes/</guid>
-      <description>fortune | cowsay &amp;gt; This is about how I maintain the space https://github.com/OrkoHunter/mfdf/blob/master/fortunesfortune is a Unix program which chooses a random message from its database of quotations and displays in the Shell. There are mainly three types of the quotations; literature, fortunes and riddles. I once tried adding fortune in my ~/.zshrc file so that a new fortune would appear whenever I create a new terminal session. There are many other places for making it appear e.</description>
+      <description>
+
+&lt;h2 id=&#34;fortune-cowsay&#34;&gt;fortune | cowsay&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*rCj17HZPwiRZRpJb-_IOJw.png&#34; alt=&#34;&#34; /&gt;
+&amp;gt; This is about how I maintain the space &lt;a href=&#34;https://github.com/OrkoHunter/mfdf/blob/master/fortunes&#34; target=&#34;_blank&#34;&gt;https://github.com/OrkoHunter/mfdf/blob/master/fortunes&lt;/a&gt;fortune is a Unix program which chooses a random message from its database of quotations and displays in the Shell. There are mainly three types of the quotations; literature, fortunes and riddles. I once tried adding fortune in my ~/.zshrc file so that a new fortune would appear whenever I create a new terminal session. There are many other places for making it appear e.g. Login, Logout, XScreenSaver, etc. However, I later went for&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;fortune | cowsay -f tux
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;cowsay is another program which takes a string and displays in a balloon over acat figure. Note that both of them have to be installed (using apt-get).&lt;/p&gt;
+
+&lt;h3 id=&#34;things-to-add-in-your-bashrc-zshrc-etc&#34;&gt;Things to add in your .bashrc, .zshrc, etc.&lt;/h3&gt;
+
+&lt;p&gt;I’ll now be adding shell commands to generate the messages with random cowsay characters. &lt;a href=&#34;https://gist.githubusercontent.com/jackinloadup/732325/raw/422d2175d5561b8d47e19232696c9e043b7b4e37/generate-cowsay&#34; target=&#34;_blank&#34;&gt;Courtesy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cows[1]=beavis.zen
+cows[2]=bong
+cows[3]=bud-frogs
+cows[4]=bunny
+cows[5]=cheese
+cows[6]=cower
+cows[7]=daemon
+cows[8]=default
+cows[9]=dragon
+cows[10]=dragon-and-cow
+cows[11]=elephant
+cows[12]=elephant-in-snake
+cows[13]=eyes
+cows[14]=flaming-sheep
+cows[15]=ghostbusters
+cows[16]=head-in
+cows[17]=hellokitty
+cows[18]=kiss
+cows[19]=kitty
+cows[20]=koala
+cows[21]=koshcows[22]=luke-koala
+cows[23]=meow
+cows[24]=milk
+cows[25]=moofasa
+cows[26]=moose
+cows[27]=mutilated
+cows[28]=ren
+cows[29]=satanic
+cows[30]=sheep
+cows[31]=skeleton
+cows[32]=small
+cows[33]=sodomized
+cows[34]=stegosaurus
+cows[35]=stimpy
+cows[36]=supermilker
+cows[37]=surgery
+cows[38]=telebears
+cows[39]=three-eyes
+cows[40]=turkey
+cows[41]=turtle
+cows[42]=tux
+cows[43]=udder
+cows[44]=vader
+cows[45]=vader-koala
+cows[46]=wwwdeclare -i MAX=${#cows[@]}
+if [ ! $MAX -gt 0 ]; then
+ MAX=6
+fiexport last\_fortune=$(cowsay -f ${cows[$[ ( $RANDOM % $MAX ) + 1 ]]} `fortune`)echo $last\_fortunealias mfdf=&#39;sh &amp;lt;path\_to\_mfdf.sh&amp;gt;&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now my, &lt;a href=&#34;https://github.com/orkohunter/mfdf&#34; target=&#34;_blank&#34;&gt;mfdf.sh&lt;/a&gt; script adds it to a file and pushes over GitHub.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -92,7 +581,100 @@ How?  Downloaded a copy of my data from facebook -&amp;gt; settings This contain
       <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/quick-guide-to-git-and-github-1/</guid>
-      <description>Before we start, make sure you have an account on GitHub. Go to https://github.com. Pick a username, enter your email id and choose a password. Next, choose unlimited personal repositories for free. In the final step you can give some input to github and voila ! You are now a github user. (If you are redirect from KWoC, use the username there.) There is plethora of git guides over internet, some are really good and some really suck.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Before we start, make sure you have an account on GitHub. Go to &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;https://github.com&lt;/a&gt;. Pick a username, enter your email id and choose a password. Next, choose &lt;em&gt;unlimited personal repositories for free&lt;/em&gt;. In the final step you can give some input to github and voila ! You are now a github user. (If you are redirect from KWoC, use the username there.) There is plethora of git guides over internet, some are really good and some really suck. I here am writing a simple blog for the newbies who have successfully made an account over github and are really excited about it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;GitHub&lt;/strong&gt; is a web-based Git repository hosting service, which offers some of the distributed revision control and source code management(SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical interface and desktop as well as mobile integration&lt;/p&gt;
+
+&lt;p&gt;Or simply&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Github connects you with other people who are interested in sharing and creating together.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So there are really two ways to begin with. Here goes the first one.&lt;/p&gt;
+
+&lt;p&gt;Create a repository : Repository is what you call the stuff you are going to upload and work on. Go to &lt;a href=&#34;https://github.com/new&#34; target=&#34;_blank&#34;&gt;https://github.com/new&lt;/a&gt; and create a repository. Let’s name it hello-world. 
+Add some description, or you might want to add it later. Initialize it with a Readme. It&amp;rsquo;s a good practice and let&amp;rsquo;s you clone it immediately. (Yeah right, see below)&lt;/p&gt;
+
+&lt;p&gt;Clone it : Open your console, move to the directory where you want to work and do this.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git clone https://github.com/username/hello-world.git
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This will create a directory in your computer. Now, this isn’t a simple directory. It is a ‘clone’ of the github repository. You can say that the files in it are controlled by the version control system git and tracked with the repository on github. Note : If you have not installed git, see &lt;a href=&#34;https://git-scm.com/book/en/v2/Getting-Started-Installing-Git&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Do this,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd hello-world
+$ git remote -v
+origin https://github.com/&amp;lt;username&amp;gt;/hello-world.git (fetch)
+origin https://github.com/&amp;lt;username&amp;gt;/hello-world.git (push)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This shows that the link to repository of yours at github is known by the name origin over here.&lt;/p&gt;
+
+&lt;p&gt;Now, you will have to configure your name and your email address which you will be using for making the commits (don’t worry about what it means right now, we will cover it soon). This configuring is ideally done only once in a lifetime of your system (or unless you purposely remove your ~/.gitconfig file but that’s the story of another time).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git config --global user.name &amp;quot;ABC XYZ&amp;quot;
+$ git config --global user.email &amp;quot;abc@xyz.com&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now another way of this is first you create the directory on your computer. Navigate inside it and do&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git init
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This will initialize an empty git repository inside it. Later, you can add the link to the repository by the git remote command like this&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git remote add origin https://github.com/&amp;lt;username&amp;gt;/hello-world
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can always use &lt;code&gt;git remote -v&lt;/code&gt; command to track the aliases.&lt;/p&gt;
+
+&lt;p&gt;Making the first change : Okay now we are in condition of adding some files or code to this repository. I am going to make a python file with hello world program and publish the change over the github repository too. 
+So make a new file say hello.py inside the directory, open it with your favorite editor and write the one line code to print whatever you want. Why just hello world? (Because dmr did it!) Now write it and save the file.&lt;/p&gt;
+
+&lt;p&gt;The first thing you should always do is to see whether you have done any changes or not in the repository. This can be done by&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ git status&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;After the changes you made, you must be getting this after git status&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;On branch master
+ Your branch is up-to-date with &#39;origin/master&#39;.
+ Untracked files:
+ (use &amp;quot;git add &amp;lt;file&amp;gt;...&amp;quot; to include in what will be committed)
+ hello.py
+ nothing added to commit but untracked files present (use &amp;quot;git add&amp;quot; to track)Add, Commit, Push! : In your console, do this.
+
+$ git add .
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This adds all the files in the track which you have changed. 
+Now it’s time to commit that change. By committing, git understands that you want the change to be in record. Every commit is accompanied with a message that appears on the log (git log). A commit should represent one logical change only which should be supported by a relevant commit message. The convention is to write the commit in the verbal form ie. tell the computer to do that for you. Do this&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ git commit -m &amp;quot;add hello.py&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;You’ve made your first commit! But it won’t be appearing over github, because you made the changes locally. You need to push it over the web. For that, you use&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ git push&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Or,&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ git push origin&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;to say git where actually you are pushing it to. Or,&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ git push origin master&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;to say git over what branch on origin you are pushing it to.&lt;/p&gt;
+
+&lt;p&gt;That’s it! You’ve published your changes to your GitHub repository.&lt;/p&gt;
+
+&lt;p&gt;NOTE : This is a very basic start. There are more concepts to be explored. You can search for specifics. StackOverflow also has great resources. We’ll leave the nitty gritties of Git for another day.&lt;/p&gt;
+
+&lt;p&gt;Happy Coding!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -101,8 +683,34 @@ How?  Downloaded a copy of my data from facebook -&amp;gt; settings This contain
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/gsoc2016-report/</guid>
-      <description>It began 5 months ago, in February. Due to my recent interests in Image Processing, I had made few Pull Requests to the scikit-image library, but it did not participate in GSoC. And that, after all those years of consecutive partcipation! (Yes I felt little sad.)
-So, the day when Google announced the list of organizations, I started my “org hunt” ! And by the end of the day, I had sorted out the Python-only projects, which included the project Library of Time Series methods.</description>
+      <description>&lt;p&gt;It began 5 months ago, in February. Due to my recent interests in Image Processing, I had made &lt;a href=&#34;https://github.com/scikit-image/scikit-image/pulls?q=is%3Apr+author%3AOrkoHunter+is%3Aclosed&#34; target=&#34;_blank&#34;&gt;few&lt;/a&gt; Pull Requests to the &lt;a href=&#34;https://github.com/scikit-image/scikit-image&#34; target=&#34;_blank&#34;&gt;scikit-image&lt;/a&gt; library, but it did not participate in GSoC. And that, after all those years of consecutive partcipation! (Yes I felt little sad.)&lt;/p&gt;
+
+&lt;p&gt;So, the day when Google announced the list of organizations, I started my “org hunt” ! And by the end of the day, I had sorted out the Python-only projects, which included the project &lt;a href=&#34;http://timelabtechnologies.com/ideas.html&#34; target=&#34;_blank&#34;&gt;Library of Time Series methods&lt;/a&gt;. The project was to make a library with methods useful to the research in X-ray astronomy. I was thrilled by the idea! Nevertheless, I was not much aware of the astronomical aspects of it.&lt;/p&gt;
+
+&lt;p&gt;In next 10–15 days, I submitted my proposal and few Pull Requests, among which I think &lt;a href=&#34;https://github.com/StingraySoftware/stingray/pull/74&#34; target=&#34;_blank&#34;&gt;refactoring the Lightcurve class&lt;/a&gt; helped me understand the core of the library. In the pre-GSoC period, I also contributed in establishing Continuous Integration with &lt;a href=&#34;https://github.com/StingraySoftware/stingray/pull/51&#34; target=&#34;_blank&#34;&gt;Travis&lt;/a&gt; for Unix and &lt;a href=&#34;https://github.com/StingraySoftware/stingray/pull/63&#34; target=&#34;_blank&#34;&gt;Appveyor&lt;/a&gt; for Windows. Meanwhile, Stingray, the library we were working on, was re-designed to become an &lt;a href=&#34;https://github.com/StingraySoftware/stingray/pull/52&#34; target=&#34;_blank&#34;&gt;Astropy affiliated package&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the wee hours of April 23, the results were announced and I &lt;em&gt;was&lt;/em&gt; &lt;a href=&#34;https://summerofcode.withgoogle.com/projects/#5755858201870336&#34; target=&#34;_blank&#34;&gt;selected&lt;/a&gt;! My primary and helping mentors were &lt;a href=&#34;https://github.com/dhuppenkothen&#34; target=&#34;_blank&#34;&gt;Daniela Huppenkothen&lt;/a&gt; and &lt;a href=&#34;https://github.com/matteobachetti&#34; target=&#34;_blank&#34;&gt;Matteo Bachetti&lt;/a&gt;, both from different time zones, which really helped me in getting my answers as soon as possible.&lt;/p&gt;
+
+&lt;p&gt;In the first ten days of the Community Bonding period, my end semester exams were going on. The main medium of the communication between my mentors and me was Slack. And I must say, we totally loved it.&lt;/p&gt;
+
+&lt;p&gt;I started off with implementing &lt;a href=&#34;https://en.wikipedia.org/wiki/Cross-spectrum&#34; target=&#34;_blank&#34;&gt;Cross Spectra&lt;/a&gt;, basing to a lot of work that was previously done by &lt;a href=&#34;https://github.com/abigailStev&#34; target=&#34;_blank&#34;&gt;Abigail Stevens&lt;/a&gt;. Later on, Coherence and Lags were added in the Crossspectrum class, along with their tests and docstring.&lt;/p&gt;
+
+&lt;p&gt;After the mid-terms the major work was to add the Covariance spectra, and its “Averaged” counter part as well, along with errors for both. My final PR was to add the simple matrix of Dynamical Powerspectrum, which is open as of now.&lt;/p&gt;
+
+&lt;p&gt;Throughout this period, I was able to open &lt;a href=&#34;https://github.com/StingraySoftware/stingray/pulls?q=is%3Apr+author%3AOrkoHunter+is%3Aclosed&#34; target=&#34;_blank&#34;&gt;22 Pull requests&lt;/a&gt; and push &lt;a href=&#34;https://github.com/StingraySoftware/stingray/commits/master?author=OrkoHunter&#34; target=&#34;_blank&#34;&gt;116 commits&lt;/a&gt; to the main repository &lt;em&gt;i.e.&lt;/em&gt; StingraySoftware/Stingray.&lt;/p&gt;
+
+&lt;p&gt;One thing that I would like to share, of many things which I learnt in this perioid, is that numpy booleans are little tricky. For e.g.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;In []: np.isfinite(100) is True
+Out[]: False
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is because np.isfinite or similar functions do not return the basic Python bool but an instance of numpy bool. And in the __eq__ magic method of the numpy bool class, it is evaluated to the Python booleans. And so, &lt;code&gt;np.isfinite(100) == True&lt;/code&gt; would return True.&lt;/p&gt;
+
+&lt;p&gt;That is all for now. It was a great experience for me, and I am very thankful to Daniela, Matteo and Abigail for all the help during the summer.&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -111,9 +719,56 @@ So, the day when Google announced the list of organizations, I started my “org
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/losing-and-regaining-truct-on-gitignore/</guid>
-      <description>I would like to share an interesting story of a problem which I’ve faced many times since I started using git. This story is about “losing and re-gaining trust on .gitignore”.
-Event : Create a Python app. Run it, test it and Boom! Now it’s time to push it to GitHub.
-git init . git remote add https://github.com/iamsosmart/notsomuch.git git push -u origin master  Shit, Shit, Shit ! I wasn’t supposed to push the pyc files.</description>
+      <description>&lt;p&gt;I would like to share an interesting story of a problem which I’ve faced many times since I started using git. This story is about “losing and re-gaining trust on .gitignore”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Event :&lt;/strong&gt; Create a Python app. Run it, test it and Boom! Now it’s time to push it to GitHub.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git init .
+git remote add https://github.com/iamsosmart/notsomuch.git
+git push -u origin master
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Shit, Shit, Shit ! I wasn’t supposed to push the pyc&lt;/em&gt; files. Oh this looks so lame.&lt;/p&gt;
+
+&lt;p&gt;If you’re amateur enough, not to feel uncomfortable after pushing those files, you’re golden. Else, you’ll think of something called .gitignore which helps in ignoring unwanted files to be added in your git repository.&lt;/p&gt;
+
+&lt;p&gt;You’ll then search for a good gitignore file for Python and Google will give you exactly what you want, &lt;a href=&#34;https://github.com/github/gitignore/blob/master/Python.gitignore&#34; target=&#34;_blank&#34;&gt;Python.gitignore&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;wget -O .gitignore https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore
+git add -A
+git commit -m &amp;quot;Added .gitignore file&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now, you’ll try to remove the pyc files, using rm -rf *.pyc. But as soon as you&amp;rsquo;ll do this, (and if you&amp;rsquo;re using oh-my-zsh), you&amp;rsquo;ll see a cross on your prompt. That means, git has &lt;em&gt;detected&lt;/em&gt; a change.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;But wait? Why is git detecting changes to pyc files, when I’ve already added the gitignore!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, if you’re me, you’ll feel betrayed by git. You’ll make a few calls and send messages to people, and say &lt;em&gt;“gitignore is not obeying me”&lt;/em&gt;, and they’ll hang up on you, saying &lt;em&gt;“it must be your fault”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Believe me, even the “future me” would have said the same.&lt;/p&gt;
+
+&lt;p&gt;So, the problem is that once you have staged a file, gitignore won’t have anything to do with it. So, if you’ll remove the staged file (pyc files, in this case), git will say to you that you’ve deleted them.&lt;/p&gt;
+
+&lt;p&gt;Later on, I googled the string “gitignore not working” and O thanks to stackoverflow, I was rescued.&lt;/p&gt;
+
+&lt;p&gt;After adding the .gitignore, simply do this&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git rm -rf --cached .
+git add .
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Or, instead of &lt;code&gt;rm -rf *.pyc&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;, I must have done&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git rm -rf *.pyc&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Ta-da ! And that’s when, my friends, the trust I have in git’s simplicity increased by a tini-tiny bit.&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading.&lt;/p&gt;
+
+&lt;p&gt;When a python script is compiled, it generates compiled code as pyc files, also called byte code.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -122,8 +777,25 @@ git init . git remote add https://github.com/iamsosmart/notsomuch.git git push -
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/ping-me-and-keep/</guid>
-      <description>The semester is about to end and I have no clue of what is going in the end semester examinations. I have been studying good amount of ugly Mathematics but that’s okay. I usually lose my temper studying my other subjects Environmental Science, Biology and Economics. Really? For how long will I have to study “everything”. Sigh.
-So, I either eat or surf when I’m not studying. That’s pretty much of it.</description>
+      <description>&lt;p&gt;The semester is about to end and I have no clue of what is going in the end semester examinations. I have been studying good amount of ugly Mathematics but that’s okay. I usually lose my temper studying my other subjects Environmental Science, Biology and Economics. Really? For how long will I have to study “everything”. Sigh.&lt;/p&gt;
+
+&lt;p&gt;So, I either eat or surf when I’m not studying. That’s pretty much of it. I received an email from the Central Library of my college that a book which I had issued very long time ago (and never read, of course) has been over due and I will have to pay fine in case of further delay. Aargh! I had to do it first thing in the morning! I was wired in to my laptop. I didn’t want to get up and set the alarm in my phone or even on Google now. I wanted it right from my terminal. I wasted another half an hour finding such a thing but couldn’t find the one I was exactly looking for. (Duh! I could have set the alarm by then.). So, after some research and a lot of motivation, I created a repository on github and started my work. I had no idea how was I going to tackle command line executions, Natural Language Processing or anything but I had to make one thing possible.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ping-me to go to library tomorrow morning
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This one line terminal (english?) command should set the reminder for me on all of my personal devices. Peace! :)&lt;/p&gt;
+
+&lt;p&gt;I’ve shared the code here — &lt;a href=&#34;https://github.com/OrkoHunter/ping-me&#34; target=&#34;_blank&#34;&gt;https://github.com/OrkoHunter/ping-me&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I haven’t written the engine write now. I have bookmarked a lot a sites related to NLP. I’ll continue with them in December.&lt;/p&gt;
+
+&lt;p&gt;My second toy project in the meantime came out to be keep. I usually don’t remember shell commands but I need them the most in ssh sessions. I’m also sick of googling for the same code everytime, I needed to store them somewhere in the computer, using the terminal only…And Ta-da! It’s working! &lt;a href=&#34;https://github.com/OrkoHunter/keep&#34; target=&#34;_blank&#34;&gt;https://github.com/OrkoHunter/keep&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Oh, and yes, I used python for all of the things above.&lt;/p&gt;
+
+&lt;p&gt;Happy Coding !&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -132,8 +804,22 @@ So, I either eat or surf when I’m not studying. That’s pretty much of it.</d
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/post/sublime-text/</guid>
-      <description>There have been people, advisers, and more people, enlightening the fact about “real programmers”, they use emacs or vim.
-‘I use sublime text’, is often misunderstood as ‘I am a novice and I don’t like pure black window’. There is no way this 7 years old editor is going to compete with 39 years old emacs and 15 years old fork of yet another 39 years old editor vi. Nevertheless, there’s much more to come.</description>
+      <description>&lt;p&gt;There have been people, advisers, and more people, enlightening the fact about “real programmers”, &lt;em&gt;they use emacs or vim&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;‘I use sublime text’&lt;/em&gt;, is often misunderstood as &lt;em&gt;‘I am a novice and I don’t like pure black window’.&lt;/em&gt; There is no way this 7 years old editor is going to compete with 39 years old emacs and 15 years old fork of yet another 39 years old editor vi. Nevertheless, there’s much more to come.&lt;/p&gt;
+
+&lt;p&gt;The first thing that Sublime Text lovers say about vim and emacs is &lt;em&gt;“Why should I open an editor which I don’t know how to get out of?”&lt;/em&gt; Fair enough. They are not mere text editors. They have built-in code to edit any external code. Isn’t that pretty? Well, you have to follow some steps to close it. (Or you can forcefully shut down your console anytime you want. No matter they are powerful, you belong to the human race.) They also have more powerful features which make its user’s life easy.&lt;/p&gt;
+
+&lt;p&gt;But before you’ll think of your easy life, they’ll make you hate your life first. As &lt;a href=&#34;https://pascalprecht.github.io/&#34; target=&#34;_blank&#34;&gt;Pascal Precht&lt;/a&gt; in one of his blogs discuss about the learning curve wall of vim. Here is a picture which is very explanatory.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/0*kB_zwuOIp-vb2SRy.jpg&#34; alt=&#34;&#34; /&gt;The next argument by emacs users are &lt;em&gt;“We don’t like using touchpad and want everything right there in our editor, like mail, news, everything!”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You are great sir! But let me also tell you, you are rare and have wrong conclusion about sublime users. We aren’t fond of touchpad either! As of me, I survived a whole semester of college with &lt;a href=&#34;http://blog.orkohunter.net/touchpad-problem-with-asus-laptop-on-linux/&#34; target=&#34;_blank&#34;&gt;my touchpad not working&lt;/a&gt;. But that doesn’t mean I moved to emacs or vim. subl to open, pgup pgdn and arrow keys for navigation, ctrl + s to save, ctrl + t for new tab, I mean I had got everything done with my keyboard and the fact is that Chrome also obeys these commands (or vice-versa). Imagine you scrolling through a webpage and wondering why j and k are not helping you.&lt;/p&gt;
+
+&lt;p&gt;The point I’m trying to make is why shouldn’t we encourage newbies to use the editor which makes their life really easy very fast so that they could simply learn how to code rather then learning how to code to code. Later on, let them decide whether they really dislike this editor and move on to something more challenging and I believe some people will surely move on to the challenging ones.&lt;/p&gt;
+
+&lt;p&gt;But I will surely not. I’ll wait for the day when I’ll get tired of putting my hands on something so beautiful.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
