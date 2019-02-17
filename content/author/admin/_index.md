@@ -13,18 +13,13 @@ role = "Student"
 organizations = [ { name = "IIT Kharagpur", url = "http://iitkgp.ac.in" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "himanshu@orkohunter.net"
 
 # List (academic) interests or hobbies
-interests = [
-  "Software Engineering",
-  "Open Source",
-  "Writing",
-  "Post-rock music"
-]
+interests = []
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -59,6 +54,6 @@ interests = [
 
 +++
 
-Hello! I am Himanshu Mishra and this is my personal website. In April 2019, I will graduate from IIT Kharagpur, India. Professionally, I am a Software Engineer. I like to advocate for Open Source. I have an affection for all forms of literature.
+Hello! I am a final year undergraduate student at IIT Kharagpur, India. I love to create Software. A few of my open source projects have ended up with a small community around them. I spend a lot of time advocating Open Source to people around me.
 
-I also publish [my blog posts](/post) on this website. I categorize them as [Tech](/categories/tech) or [Non-Tech](/categories/non-tech) or sometimes both.
+I have an affection for literature. I keep reading and writing in my weekly routine. I publish [my blog posts](/post) on this website. They are categorized as [Tech](/categories/tech) or [Non-Tech](/categories/non-tech) or sometimes both.
