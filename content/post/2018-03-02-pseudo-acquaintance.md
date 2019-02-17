@@ -5,7 +5,6 @@ subtitle = ""
 summary = ""
 draft = false
 categories = ["Non-Tech"]
-tags = []
 slug = "pseudo-acquaintance"
 +++
 

@@ -8,10 +8,6 @@ date = 2019-02-15T00:00:00
 # Project summary to display on homepage.
 summary = "Stingray is a community-developed spectral-timing software package in Python for astrophysical data, and is an Astropy Affiliated Package. Google Summer of Code student project."
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Python", "gsoc", "x-ray", "timeseries"]
-
 # Optional external URL for project (replaces project detail page).
 external_link = "https://stingraysoftware.github.io/"
 

@@ -5,7 +5,6 @@ subtitle = ""
 summary = ""
 draft = false
 categories = ["Tech"]
-tags = []
 slug = "losing-and-regaining-truct-on-gitignore"
 +++
 

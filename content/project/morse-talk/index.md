@@ -8,10 +8,6 @@ date = 2019-02-14T00:00:00
 # Project summary to display on homepage.
 summary = "A Python library which deals with Morse Code. Co-Author and Maintainer. Special thanks to Sébastien Celles (@scls19fr)"
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Python", "morse code"]
-
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/morse-talk/morse-talk"
 

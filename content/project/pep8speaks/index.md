@@ -8,10 +8,6 @@ date = 2019-02-17T00:00:00
 # Project summary to display on homepage.
 summary = "A GitHub integration to automatically review Python code style on Pull Requests. **Currently used by pandas, Spyder IDE, scikit-image, scikit-learn-contrib, astropy, sunpy and 1100+ projects.**"
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Python", "bot"]
-
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/OrkoHunter/pep8speaks"
 

@@ -8,10 +8,6 @@ date = 2019-02-16T00:00:00
 # Project summary to display on homepage.
 summary = "A Meta CLI toolkit : Personal shell command keeper and snippets manager"
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Python", "CLI", "terminal"]
-
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/OrkoHunter/keep"
 

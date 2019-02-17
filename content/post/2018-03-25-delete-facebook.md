@@ -5,7 +5,6 @@ subtitle = ""
 summary = ""
 draft = false
 categories = ["Tech", "Non-Tech"]
-tags = []
 slug = "delete-facebook"
 +++
 

@@ -5,7 +5,6 @@ subtitle = ""
 summary = ""
 draft = false
 categories = ["Non-Tech"]
-tags = ["writing", "buddhism"]
 slug = "we-should-write-notes"
 +++
 

@@ -5,7 +5,6 @@ subtitle = ""
 summary = ""
 draft = false
 categories = ["Tech"]
-tags = []
 slug = "quick-guide-to-git-and-github-1"
 +++
 

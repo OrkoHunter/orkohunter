@@ -275,15 +275,6 @@
     
     <url>
     
-      <loc>https://orkohunter.net/tags/cli/</loc>
-      <lastmod>2019-02-16T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://orkohunter.net/categories/</loc>
       <priority>0</priority>
     </url>
@@ -294,15 +285,6 @@
     
       <loc>https://orkohunter.net/</loc>
       <lastmod>2019-02-17T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/iit-kgp/</loc>
-      <lastmod>2014-10-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -328,25 +310,7 @@
     
     <url>
     
-      <loc>https://orkohunter.net/tags/python/</loc>
-      <lastmod>2019-02-17T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://orkohunter.net/talk/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/</loc>
-      <lastmod>2019-02-16T00:00:00+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -363,123 +327,6 @@
     <url>
     
       <loc>https://orkohunter.net/wall/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/bot/</loc>
-      <lastmod>2019-02-17T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/buddhism/</loc>
-      <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/gsoc/</loc>
-      <lastmod>2019-02-15T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/hindi/</loc>
-      <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/infatuation/</loc>
-      <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/love/</loc>
-      <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/morse-code/</loc>
-      <lastmod>2019-02-14T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/poem/</loc>
-      <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/reddit/</loc>
-      <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/terminal/</loc>
-      <lastmod>2019-02-16T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/timeseries/</loc>
-      <lastmod>2019-02-15T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/writing/</loc>
-      <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://orkohunter.net/tags/x-ray/</loc>
-      <lastmod>2019-02-15T00:00:00+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   

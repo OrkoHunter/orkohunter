@@ -5,7 +5,6 @@ subtitle = ""
 summary = ""
 draft = false
 categories = ["Non-Tech"]
-tags = ["love", "infatuation", "reddit"]
 slug = "love-and-infatuation"
 +++
 

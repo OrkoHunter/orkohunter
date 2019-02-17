@@ -5,7 +5,6 @@ subtitle = ""
 summary = ""
 draft = false
 categories = ["Tech"]
-tags = []
 slug = "gsoc2016-report"
 +++
 
