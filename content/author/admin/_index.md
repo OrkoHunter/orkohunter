@@ -61,4 +61,4 @@ interests = [
 
 Hello! I am Himanshu Mishra and this is my personal website. In April 2019, I will graduate from IIT Kharagpur, India. Professionally, I am a Software Engineer. I like to advocate for Open Source. I have an affection for all forms of literature.
 
-I publish [my blog posts](/post) on this website too. I broadly classify them into two categories - [Tech](/categories/tech) and [Non-Tech](/categories/non-tech).
+I also publish [my blog posts](/post) on this website. I categorize them as [Tech](/categories/tech) or [Non-Tech](/categories/non-tech) or sometimes both.
