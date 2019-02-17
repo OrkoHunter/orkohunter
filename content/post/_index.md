@@ -5,7 +5,7 @@ title = "Blog posts"
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view = 3
+view = 2
 
 aliases = ["/blog/"]
 

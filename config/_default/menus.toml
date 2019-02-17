@@ -8,7 +8,7 @@
   url = "#about"
   weight = 1
 
-[[main]]
+[[main_right]]
   name = "Blog"
   url = "/post"
   weight = 3
@@ -17,6 +17,11 @@
   name = "Projects"
   url = "#projects"
   weight = 4
+
+[[main]]
+  name = "Wall"
+  url = "/wall"
+  weight = 5
 
 [[main]]
   name = "Contact"
