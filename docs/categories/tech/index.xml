@@ -14,10 +14,10 @@
     
     <item>
       <title>Peeking over what people search on DC</title>
-      <link>https://orkohunter.net/post/peeking-over-dc-search/</link>
+      <link>https://orkohunter.net/blog/peeking-over-dc-search/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/peeking-over-dc-search/</guid>
+      <guid>https://orkohunter.net/blog/peeking-over-dc-search/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -105,10 +105,10 @@
     
     <item>
       <title>#DeleteFacebook</title>
-      <link>https://orkohunter.net/post/delete-facebook/</link>
+      <link>https://orkohunter.net/blog/delete-facebook/</link>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/delete-facebook/</guid>
+      <guid>https://orkohunter.net/blog/delete-facebook/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*0l-9QfuqEhDiBumKeTmGuQ.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -152,10 +152,10 @@ This contained all of my messages, photos, videos, and probably a lot more infor
     
     <item>
       <title>Design of Public Posts: Twitter vs Facebook</title>
-      <link>https://orkohunter.net/post/twitter-vs-facebook/</link>
+      <link>https://orkohunter.net/blog/twitter-vs-facebook/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/twitter-vs-facebook/</guid>
+      <guid>https://orkohunter.net/blog/twitter-vs-facebook/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -204,10 +204,10 @@ This contained all of my messages, photos, videos, and probably a lot more infor
     
     <item>
       <title>Python&#39;s easter eggs and hidden jokes</title>
-      <link>https://orkohunter.net/post/python-easter-eggs/</link>
+      <link>https://orkohunter.net/blog/python-easter-eggs/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/python-easter-eggs/</guid>
+      <guid>https://orkohunter.net/blog/python-easter-eggs/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -404,10 +404,10 @@ SyntaxError: invalid syntax
     
     <item>
       <title>Lessons for creating good open source software</title>
-      <link>https://orkohunter.net/post/lessons-open-source/</link>
+      <link>https://orkohunter.net/blog/lessons-open-source/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/lessons-open-source/</guid>
+      <guid>https://orkohunter.net/blog/lessons-open-source/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*YNBTPaCNBNWLoT7XAbJ1Lw.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I was reading about &lt;em&gt;The Cathedral and the Bazaar&lt;/em&gt;, a book by &lt;a href=&#34;https://en.wikipedia.org/wiki/Eric_S._Raymond&#34; target=&#34;_blank&#34;&gt;Eric S. Raymond&lt;/a&gt; on various (open source) software development methods. The wikipedia page for the book in short, lists few important lessons that he learned and they can not be more true.&lt;/p&gt;
@@ -462,10 +462,10 @@ SyntaxError: invalid syntax
     
     <item>
       <title>Keep : A personal shell command keeper</title>
-      <link>https://orkohunter.net/post/keep/</link>
+      <link>https://orkohunter.net/blog/keep/</link>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/keep/</guid>
+      <guid>https://orkohunter.net/blog/keep/</guid>
       <description>
 
 &lt;h2 id=&#34;a-meta-cli-toolkit&#34;&gt;A Meta CLI toolkit&lt;/h2&gt;
@@ -501,10 +501,10 @@ Pull Requests are most welcome !&lt;/p&gt;
     
     <item>
       <title>Collection of Linux fortunes ❤</title>
-      <link>https://orkohunter.net/post/linux-fortunes/</link>
+      <link>https://orkohunter.net/blog/linux-fortunes/</link>
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/linux-fortunes/</guid>
+      <guid>https://orkohunter.net/blog/linux-fortunes/</guid>
       <description>
 
 &lt;h2 id=&#34;fortune-cowsay&#34;&gt;fortune | cowsay&lt;/h2&gt;
@@ -577,10 +577,10 @@ fiexport last\_fortune=$(cowsay -f ${cows[$[ ( $RANDOM % $MAX ) + 1 ]]} `fortune
     
     <item>
       <title>Quick guide to git and github (Part 1)</title>
-      <link>https://orkohunter.net/post/quick-guide-to-git-and-github-1/</link>
+      <link>https://orkohunter.net/blog/quick-guide-to-git-and-github-1/</link>
       <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/quick-guide-to-git-and-github-1/</guid>
+      <guid>https://orkohunter.net/blog/quick-guide-to-git-and-github-1/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Before we start, make sure you have an account on GitHub. Go to &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;https://github.com&lt;/a&gt;. Pick a username, enter your email id and choose a password. Next, choose &lt;em&gt;unlimited personal repositories for free&lt;/em&gt;. In the final step you can give some input to github and voila ! You are now a github user. (If you are redirect from KWoC, use the username there.) There is plethora of git guides over internet, some are really good and some really suck. I here am writing a simple blog for the newbies who have successfully made an account over github and are really excited about it.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -679,10 +679,10 @@ Now it’s time to commit that change. By committing, git understands that you w
     
     <item>
       <title>Google Summer of Code 2016 Report : Stingray</title>
-      <link>https://orkohunter.net/post/gsoc2016-report/</link>
+      <link>https://orkohunter.net/blog/gsoc2016-report/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/gsoc2016-report/</guid>
+      <guid>https://orkohunter.net/blog/gsoc2016-report/</guid>
       <description>&lt;p&gt;It began 5 months ago, in February. Due to my recent interests in Image Processing, I had made &lt;a href=&#34;https://github.com/scikit-image/scikit-image/pulls?q=is%3Apr+author%3AOrkoHunter+is%3Aclosed&#34; target=&#34;_blank&#34;&gt;few&lt;/a&gt; Pull Requests to the &lt;a href=&#34;https://github.com/scikit-image/scikit-image&#34; target=&#34;_blank&#34;&gt;scikit-image&lt;/a&gt; library, but it did not participate in GSoC. And that, after all those years of consecutive partcipation! (Yes I felt little sad.)&lt;/p&gt;
 
 &lt;p&gt;So, the day when Google announced the list of organizations, I started my “org hunt” ! And by the end of the day, I had sorted out the Python-only projects, which included the project &lt;a href=&#34;http://timelabtechnologies.com/ideas.html&#34; target=&#34;_blank&#34;&gt;Library of Time Series methods&lt;/a&gt;. The project was to make a library with methods useful to the research in X-ray astronomy. I was thrilled by the idea! Nevertheless, I was not much aware of the astronomical aspects of it.&lt;/p&gt;
@@ -715,10 +715,10 @@ Out[]: False
     
     <item>
       <title>Losing and Re-Gaining trust on .gitignore</title>
-      <link>https://orkohunter.net/post/losing-and-regaining-truct-on-gitignore/</link>
+      <link>https://orkohunter.net/blog/losing-and-regaining-truct-on-gitignore/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/losing-and-regaining-truct-on-gitignore/</guid>
+      <guid>https://orkohunter.net/blog/losing-and-regaining-truct-on-gitignore/</guid>
       <description>&lt;p&gt;I would like to share an interesting story of a problem which I’ve faced many times since I started using git. This story is about “losing and re-gaining trust on .gitignore”.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Event :&lt;/strong&gt; Create a Python app. Run it, test it and Boom! Now it’s time to push it to GitHub.&lt;/p&gt;
@@ -773,10 +773,10 @@ git add .
     
     <item>
       <title>What do I do when I’m bored from studying (or not studying) for the exams?</title>
-      <link>https://orkohunter.net/post/ping-me-and-keep/</link>
+      <link>https://orkohunter.net/blog/ping-me-and-keep/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/ping-me-and-keep/</guid>
+      <guid>https://orkohunter.net/blog/ping-me-and-keep/</guid>
       <description>&lt;p&gt;The semester is about to end and I have no clue of what is going in the end semester examinations. I have been studying good amount of ugly Mathematics but that’s okay. I usually lose my temper studying my other subjects Environmental Science, Biology and Economics. Really? For how long will I have to study “everything”. Sigh.&lt;/p&gt;
 
 &lt;p&gt;So, I either eat or surf when I’m not studying. That’s pretty much of it. I received an email from the Central Library of my college that a book which I had issued very long time ago (and never read, of course) has been over due and I will have to pay fine in case of further delay. Aargh! I had to do it first thing in the morning! I was wired in to my laptop. I didn’t want to get up and set the alarm in my phone or even on Google now. I wanted it right from my terminal. I wasted another half an hour finding such a thing but couldn’t find the one I was exactly looking for. (Duh! I could have set the alarm by then.). So, after some research and a lot of motivation, I created a repository on github and started my work. I had no idea how was I going to tackle command line executions, Natural Language Processing or anything but I had to make one thing possible.&lt;/p&gt;
@@ -800,10 +800,10 @@ git add .
     
     <item>
       <title>Why is Sublime Text not something to be frowned upon?</title>
-      <link>https://orkohunter.net/post/sublime-text/</link>
+      <link>https://orkohunter.net/blog/sublime-text/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://orkohunter.net/post/sublime-text/</guid>
+      <guid>https://orkohunter.net/blog/sublime-text/</guid>
       <description>&lt;p&gt;There have been people, advisers, and more people, enlightening the fact about “real programmers”, &lt;em&gt;they use emacs or vim&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;‘I use sublime text’&lt;/em&gt;, is often misunderstood as &lt;em&gt;‘I am a novice and I don’t like pure black window’.&lt;/em&gt; There is no way this 7 years old editor is going to compete with 39 years old emacs and 15 years old fork of yet another 39 years old editor vi. Nevertheless, there’s much more to come.&lt;/p&gt;
