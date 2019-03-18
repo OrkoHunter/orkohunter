@@ -2,6 +2,7 @@
 # Contact widget.
 widget = "contact"  # Do not modify this line!
 active = true  # Activate this widget? true/false
+headless = true
 
 title = "Contact"
 subtitle = "Emails are ❤️"
@@ -18,4 +19,3 @@ autolink = false
 #   2: formspree.io
 email_form = 0
 +++
-

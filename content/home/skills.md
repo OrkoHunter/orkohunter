@@ -2,6 +2,7 @@
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
 active = false  # Activate this widget? true/false
+headless = true
 
 title = "Skills"
 subtitle = ""

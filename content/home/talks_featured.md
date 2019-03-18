@@ -2,6 +2,7 @@
 # Featured Talks widget.
 widget = "talks_featured"  # Do not modify this line!
 active = false  # Activate this widget? true/false
+headless = true
 
 title = "Featured Talks"
 subtitle = ""

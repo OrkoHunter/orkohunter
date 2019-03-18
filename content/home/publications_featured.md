@@ -4,6 +4,7 @@
 # `featured = true` in their front matter.
 widget = "publications_featured"  # Do not modify this line!
 active = false  # Activate this widget? true/false
+headless = true
 
 title = "Featured Publications"
 subtitle = ""
@@ -29,4 +30,3 @@ view = 3
 #  6: Book chapter
 publication_type = "-1"
 +++
-

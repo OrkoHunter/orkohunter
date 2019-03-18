@@ -4,6 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"  # Do not modify this line!
 active = false  # Activate this widget? true/false
+headless = true
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Custom Section"

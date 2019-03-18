@@ -504,8 +504,30 @@ a[data-fancybox] img {
 /* Override dark colors that may be inherited from body.dark */
 .home-section.dark,
 .home-section.dark h1,
-.home-section.dark h3 {
+.home-section.dark h2,
+.home-section.dark h3,
+.home-section.dark a:not(.btn):not(.alert a) {
   color: rgb(248, 248, 242);
+}
+
+/* Underline links in dark sections to separate them from text */
+.home-section.dark a:not(.btn):not(.hero-cta-alt):not(.alert a) {
+  text-decoration: underline;
+}
+
+/* Big underline style for links in dark sections */
+.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a) {
+  text-decoration: none;
+  position: relative;
+}
+.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a):after {
+  background: #fff;
+  content: "";
+  height: 2px;
+  left: 0;
+  right: 0;
+  position: absolute;
+  top: 100%;
 }
 
 /* Create the parallax scrolling effect */
@@ -1210,6 +1232,19 @@ article .article-metadata {
   overflow: hidden;
 }
 
+.li-cite-author {
+  font-size: 1em;
+  color: inherit;
+}
+
+.li-cite-author a {
+  color: inherit;
+}
+
+.dark .li-cite-author a {
+  color: rgb(248, 248, 242);
+}
+
 /*************************************************
  * Experience
  **************************************************/
@@ -1344,22 +1379,19 @@ article .article-metadata {
  *  Accomplishments
  **************************************************/
  
-.course {
-  margin-bottom: -0.5rem;
+.card.course {
+  margin-bottom: 1rem; /* More compact spacing than Experience widget as typically more items here. */
 }
 
-.course h6 {
-  font-size: 0.80rem;
-  font-weight: 700;
-  line-height: 1.5;
-  text-transform: uppercase;
+.card.course:last-of-type {
+  margin-bottom: 0;
 }
 
-.course h6 a {
+.course .card-subtitle a {
   border-bottom: solid 1px transparent;
 }
 
-.course h6 a:hover {
+.course .card-subtitle a:hover {
   border-bottom: solid 1px;
   text-decoration: none;
 }

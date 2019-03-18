@@ -2,6 +2,7 @@
 # Projects widget.
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
+headless = true
 
 title = "Projects"
 subtitle = "Check out projects at [github.com/OrkoHunter](https://github.com/OrkoHunter)"
@@ -49,4 +50,3 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
-

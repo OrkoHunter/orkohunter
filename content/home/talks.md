@@ -2,6 +2,7 @@
 # Recent and Upcoming Talks widget.
 widget = "talks"  # Do not modify this line!
 active = false  # Activate this widget? true/false
+headless = true
 
 title = "Recent & Upcoming Talks"
 subtitle = ""
@@ -21,4 +22,3 @@ view = 2
 # Exclude talks that are shown in the Featured Talks widget?
 exclude_featured = false
 +++
-

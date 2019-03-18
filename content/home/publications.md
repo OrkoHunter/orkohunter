@@ -3,6 +3,7 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"  # Do not modify this line!
 active = false  # Activate this widget? true/false
+headless = true
 
 title = "Recent Publications"
 subtitle = ""
@@ -34,4 +35,3 @@ publication_type = "-1"
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
 +++
-

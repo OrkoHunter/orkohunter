@@ -4,6 +4,7 @@
 widget = "custom-posts"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
+headless = true
 
 title = "Recent Posts"
 subtitle = "Category: Non-Tech"
@@ -22,4 +23,3 @@ view = 2
 filter_tag = ""
 filter_category = "Non-Tech"
 +++
-
