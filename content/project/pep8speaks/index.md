@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "PEP8Speaks"
+title = "PEP 8 Speaks"
 
 # Date this page was created.
 date = 2019-02-17T00:00:00
 
 # Project summary to display on homepage.
-summary = "A GitHub integration to automatically review Python code style on Pull Requests. **Currently used by pandas, Spyder IDE, scikit-image, scikit-learn-contrib, astropy, sunpy and 1100+ projects.**"
+summary = "A GitHub integration to automatically review Python code style on Pull Requests. **Currently used by pandas, Spyder IDE, scikit-image, scikit-learn-contrib, astropy, sunpy and 1300+ projects.**"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/OrkoHunter/pep8speaks"
@@ -22,7 +22,7 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=dtgiYrf2bv8"
 url_code = "https://github.com/OrkoHunter/pep8speaks"
 
 # Custom links (optional).
