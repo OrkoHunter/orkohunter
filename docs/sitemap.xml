@@ -1,205 +1,294 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://orkohunter.net/project/pep8speaks/</loc>
-    <lastmod>2019-02-17T00:00:00+05:30</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/letters/</loc>
+      <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/project/keep/</loc>
-    <lastmod>2019-02-16T00:00:00+05:30</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/project/pep8speaks/</loc>
+      <lastmod>2019-02-17T00:00:00+05:30</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/we-should-write-notes/</loc>
-    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/project/keep/</loc>
+      <lastmod>2019-02-16T00:00:00+05:30</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/love-and-infatuation/</loc>
-    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/we-should-write-notes/</loc>
+      <lastmod>2019-01-12T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/aur-tasveerein/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/love-and-infatuation/</loc>
+      <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/threads/</loc>
-    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/aur-tasveerein/</loc>
+      <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/peeking-over-dc-search/</loc>
-    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/letters/mans-search-for-meaning/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/brain-mind-and-consciousness/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/threads/</loc>
+      <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/delete-facebook/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/letters/on-psychedelics/</loc>
+      <lastmod>2018-08-04T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/pseudo-acquaintance/</loc>
-    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/letters/it-is-okay-not-to-be-special/</loc>
+      <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/twitter-vs-facebook/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/peeking-over-dc-search/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/quest-for-universal-action/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/brain-mind-and-consciousness/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/python-easter-eggs/</loc>
-    <lastmod>2017-05-08T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/delete-facebook/</loc>
+      <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/lessons-open-source/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/pseudo-acquaintance/</loc>
+      <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/dhuaan/</loc>
-    <lastmod>2017-03-04T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/letters/the-era-of-fake-acquaintance/</loc>
+      <lastmod>2018-02-24T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/instagram/</loc>
-    <lastmod>2017-02-26T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/twitter-vs-facebook/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/keep/</loc>
-    <lastmod>2017-02-23T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/quest-for-universal-action/</loc>
+      <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/linux-fortunes/</loc>
-    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/letters/response-to-how-is-life/</loc>
+      <lastmod>2017-12-17T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/quick-guide-to-git-and-github-1/</loc>
-    <lastmod>2017-01-25T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/letters/about-metakgp/</loc>
+      <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/aanshuon-ke-bimb-se/</loc>
-    <lastmod>2017-01-23T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/python-easter-eggs/</loc>
+      <lastmod>2017-05-08T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/erotomania/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/lessons-open-source/</loc>
+      <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/handwash-to-lamp/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/dhuaan/</loc>
+      <lastmod>2017-03-04T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/gsoc2016-report/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/instagram/</loc>
+      <lastmod>2017-02-26T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/losing-and-regaining-truct-on-gitignore/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/keep/</loc>
+      <lastmod>2017-02-23T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/ping-me-and-keep/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/linux-fortunes/</loc>
+      <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/sublime-text/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/quick-guide-to-git-and-github-1/</loc>
+      <lastmod>2017-01-25T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/rani/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/aanshuon-ke-bimb-se/</loc>
+      <lastmod>2017-01-23T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/masaan/</loc>
-    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/erotomania/</loc>
+      <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/diwali/</loc>
-    <lastmod>2014-10-22T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/handwash-to-lamp/</loc>
+      <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/author/admin/</loc>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/gsoc2016-report/</loc>
+      <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/author/</loc>
-    <priority>0</priority>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/losing-and-regaining-truct-on-gitignore/</loc>
+      <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/blog/</loc>
-    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/ping-me-and-keep/</loc>
+      <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/categories/</loc>
-    <priority>0</priority>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/sublime-text/</loc>
+      <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/</loc>
-    <lastmod>2019-02-17T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/rani/</loc>
+      <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/letters/</loc>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/masaan/</loc>
+      <lastmod>2016-11-24T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/categories/non-tech/</loc>
-    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/diwali/</loc>
+      <lastmod>2014-10-22T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/project/</loc>
-    <lastmod>2019-02-17T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/author/admin/</loc>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/talk/</loc>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/author/</loc>
+      <priority>0</priority>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/categories/tech/</loc>
-    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/blog/</loc>
+      <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    </url>
   
-  <url>
-    <loc>https://orkohunter.net/wall/</loc>
-  </url>
+    <url>
+    
+      <loc>https://orkohunter.net/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://orkohunter.net/</loc>
+      <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://orkohunter.net/letters/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://orkohunter.net/categories/non-tech/</loc>
+      <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://orkohunter.net/project/</loc>
+      <lastmod>2019-02-17T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://orkohunter.net/talk/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://orkohunter.net/categories/tech/</loc>
+      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://orkohunter.net/wall/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://orkohunter.net/categories/letters/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
   
 </urlset>
