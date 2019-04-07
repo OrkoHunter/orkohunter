@@ -11,3 +11,5 @@ git submodule update --remote --merge
 
 echo "Generating webpages..."
 hugo
+
+echo "Run hugo server -D for live changes."

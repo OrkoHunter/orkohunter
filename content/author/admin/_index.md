@@ -56,4 +56,4 @@ interests = []
 
 Hello! I am a final year undergraduate student at IIT Kharagpur, India. I love to create Software. A few of my open source projects have ended up with a small community around them. I spend a lot of time advocating Open Source to people around me.
 
-I have an affection for literature. Reading and Writing are in my weekly routine. I publish [my blog posts](/post) on this website. They are categorized as [Tech](/categories/tech) or [Non-Tech](/categories/non-tech) or sometimes both.
+I have an affection for literature. Reading and Writing are in my weekly routine. I publish [my blog posts](/post) on this website. They are categorized as [Tech](/categories/tech) or [Non-Tech](/categories/non-tech) or sometimes both. Apart from blog posts, I also [write letters](/blog/letters) and make some of them [public](/letters).

@@ -11,26 +11,31 @@
 [[main]]
   name = "Blog"
   url = "/blog"
-  weight = 3
+  weight = 10
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 20
+
+[[main]]
+  name = "Letters"
+  url = "/letters"
+  weight = 30
 
 [[main]]
   name = "Wall"
   url = "/wall"
-  weight = 5
+  weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
    url = "files/cv.pdf"
-   weight = 7
+   weight = 60
