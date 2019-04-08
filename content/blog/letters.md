@@ -12,7 +12,7 @@ slug = "letters"
 
 I have developed a habbit of writing letters to friends and family for the past few years. Today, I made some of them public at [orkohunter.net/letters](/letters). Some of the letters are responses, and some have responses as well. I have included the complete correspondence in each case.
 
-All of the people involved in my correspondances have granted me the permission to publish them. One of them strongly encouraged me to do so, when I came up with this idea four months ago. I have removed all the names of people and places which could easily reveal their identity. I want to keep writing and hearing from them. I made sure my actions don't not affect it.
+All of the people involved in my correspondances have granted me the permission to publish them. One of them strongly encouraged me to do so, when I came up with this idea four months ago. I have removed all the names of people and places which could easily reveal their identity. I want to keep writing and hearing from them. I made sure my actions do not affect it.
 
 I will keep updating the space [orkohunter.net/letters](/letters) based on my discretion.
 
