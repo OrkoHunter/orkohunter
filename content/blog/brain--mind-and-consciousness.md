@@ -17,7 +17,9 @@ Thanks to Montaigne, one of the first essay writers, for popularizing this liter
 ### Let’s Define
 
 
-> Cogito ergo sum (I think therefore I am) — René DescartesThe entity ‘I’ or ‘Me’ is a strange topic of discussion. While some people would oversimplify this to the human body, others might overcomplicate and make this is a subject of spiritual mysticism. I want to remain sane on this topic and probably write the words which can make sense in daily life.
+> Cogito ergo sum (I think therefore I am) — René Descartes
+
+The entity ‘I’ or ‘Me’ is a strange topic of discussion. While some people would oversimplify this to the human body, others might overcomplicate and make this is a subject of spiritual mysticism. I want to remain sane on this topic and probably write the words which can make sense in daily life.
 
 For me, the majority of ‘I’ is divided into three parts or layers, namely the Brain, the Mind and the Consciousness. The Brain is the outermost layer, the frontier of the Self. Take a scenario for example. You are reading this text. The first ‘You’ is your eyes, receiving colorful light rays from the screen. The ‘You’ then converts this information into electrical signals for further processing. This part is called Brain. It is an entirely physical entity, made of matter which interacts with the outer world through our senses, i.e., sight, touch, smell, taste, and sound.
 

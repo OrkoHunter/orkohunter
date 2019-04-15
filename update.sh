@@ -7,7 +7,7 @@
 #cd ../../
 
 # Update Academic.
-git submodule update --remote --merge
+# git submodule update --remote --merge
 
 echo "Generating webpages..."
 hugo
