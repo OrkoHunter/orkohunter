@@ -56,7 +56,9 @@ Changing the Consciousness makes you a Psychonaut. A Psychonaut is a person who 
 When people talk about Enlightenment, they mean altered Consciousness and not a new Mind. All the humans feel love, sadness, hate, anger, etc., every single one of us and is, in fact, one of the traits which define us. A monk in the Himalayas is undoubtedly not deprived of Mind, but they probably know how to open up with the Consciousness directly and not let Mind be a middle-man.
 
 
-> Enlightenment doesn’t care how we reach there. — Thaddeus GolasThe consciousness can be altered with prolonged meditation (very subjective to the technique and the person). The use of naturally occurring mushrooms containing psilocybin, DMT, LSD and many other psychedelic and psychoactive substances can also challenge Consciousness to its very core.
+> Enlightenment doesn’t care how we reach there. — Thaddeus Golas
+
+The consciousness can be altered with prolonged meditation (very subjective to the technique and the person). The use of naturally occurring mushrooms containing psilocybin, DMT, LSD and many other psychedelic and psychoactive substances can also challenge Consciousness to its very core.
 
 ### Communication
 
