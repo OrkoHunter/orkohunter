@@ -27,13 +27,13 @@ The Brain is very close to a computer program, and vice versa. It is programmed 
 
 The Brain then tries to pass this information to our Consciousness but in comes the Mind. The Mind is that child of ours, whom we love so much that we probably can never stop listening to. The Mind constitutes of our thoughts, our emotions associated with those thoughts, reactions and Ego. If you have disliked this essay so far, your brain has nothing to do with it; it just is feeding the information to your Mind, which is sitting only to judge the content. The Mind will then react and ask your Brain (followed by the senses) to either continue or stop reading.
 
-![](/img/1*G7iss0cgkvwcZuBdvvjXmw.png)
+![‘I’ in terms of processing an information](/img/1*G7iss0cgkvwcZuBdvvjXmw.png)
 
-‘I’ in terms of processing an informationWe can look at the Mind as a semi-physical entity. On one side it shares boundaries with the physical bodies like sensations and hormones, while on the other hand, it has slight access to the metaphysical entities inside us which are hard to define as matter, i.e., Consciousness and Ego.
+We can look at the Mind as a semi-physical entity. On one side it shares boundaries with the physical bodies like sensations and hormones, while on the other hand, it has slight access to the metaphysical entities inside us which are hard to define as matter, i.e., Consciousness and Ego.
 
-![](/img/1*6IXNzi_k8lbhFVaLm-8WFg.png)
+![The amount of perceivable matter in each entity](/img/1*6IXNzi_k8lbhFVaLm-8WFg.png)
 
-The amount of perceivable matter in each entityThe Consciousness is the purest form of ‘I,’ which does not think, which does not react, which does not speak with our mouth, which does not listen with our ears, which does not recognize anything as good or bad, pleasant or unpleasant. It is a thoughtless entity. It can interchangeably be understood as ‘the energy of life’. If you have ever been a psychonaut, this is the ‘vibration’ part of self, and it does communicate to other consciousness. If your consciousness is unaware of something which only your brain and mind knows (Take the statement ‘*We should love everyone*’ for example), it is entirely possible that you might react unexpectedly in extreme situations, contradictory to what you think you should never have done.
+The Consciousness is the purest form of ‘I,’ which does not think, which does not react, which does not speak with our mouth, which does not listen with our ears, which does not recognize anything as good or bad, pleasant or unpleasant. It is a thoughtless entity. It can interchangeably be understood as ‘the energy of life’. If you have ever been a psychonaut, this is the ‘vibration’ part of self, and it does communicate to other consciousness. If your consciousness is unaware of something which only your brain and mind knows (Take the statement ‘*We should love everyone*’ for example), it is entirely possible that you might react unexpectedly in extreme situations, contradictory to what you think you should never have done.
 
 ### The Chariot
 
