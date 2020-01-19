@@ -20,17 +20,8 @@
       <guid>https://orkohunter.net/project/pep8speaks/</guid>
       <description>A GitHub integration to automatically review Python code style on Pull Requests.
 The project, financially sponsored by Python Software Foundation, has a community of over
-4000 Python organizations and over 10,000 user interac- tions.
+4000 Python organizations and over 10,000 user interactions.
 Currently used by many popular projects including pandas, Spyder IDE, scikit-image, scikit-learn-contrib, astropy, statsmodels, sunpy.</description>
-    </item>
-    
-    <item>
-      <title>Keep</title>
-      <link>https://orkohunter.net/project/keep/</link>
-      <pubDate>Sat, 16 Feb 2019 00:00:00 +0900</pubDate>
-      
-      <guid>https://orkohunter.net/project/keep/</guid>
-      <description>A Meta CLI toolkit : Personal shell command keeper and snippets manager</description>
     </item>
     
   </channel>
