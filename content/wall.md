@@ -8,6 +8,7 @@ This is my wall where I put names of people or things which directly influence m
 ## People
 
 * [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)
+* [Ram Dass](https://www.ramdass.org/bio/)
 * [Armin Ronacher](https://github.com/mitsuhiko)
 * [Barack Obama](https://en.wikipedia.org/wiki/Barack_Obama)
 * [Guido van Rossum](https://twitter.com/gvanrossum)
