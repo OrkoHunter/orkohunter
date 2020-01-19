@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Himanshu Mishra on Himanshu Mishra</title>
@@ -8,706 +7,104 @@
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Letters</title>
-      <link>https://orkohunter.net/blog/letters/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/letters/</guid>
-      <description>
+      <atom:link href="/" rel="self" type="application/rss+xml"/>
+
+      <item>
+          <title>Blog posts</title>
+          <link>https://orkohunter.net/blog/</link>
+          <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+
+          <guid>https://orkohunter.net/blog/</guid>
+          <description></description>
+      </item>
+
+      <item>
+          <title>Projects</title>
+          <link>https://orkohunter.net/project/</link>
+          <pubDate>Sun, 17 Feb 2019 00:00:00 +0900</pubDate>
+
+          <guid>https://orkohunter.net/project/</guid>
+          <description></description>
+      </item>
+
+      <item>
+          <title>Letters</title>
+          <link>https://orkohunter.net/letters/</link>
+          <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+
+          <guid>https://orkohunter.net/letters/</guid>
+          <description>&lt;p&gt;These are some of my letters and their responses which I have made public. Read more on
+              the announcement blog post - &lt;a href=&#34;https://orkohunter.net/blog/letters&#34;&gt;https://orkohunter.net/blog/letters&lt;/a&gt;&lt;/p&gt;
+          </description>
+      </item>
+
+      <item>
+          <title>Authors</title>
+          <link>https://orkohunter.net/author/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+          <guid>https://orkohunter.net/author/</guid>
+          <description></description>
+      </item>
+
+      <item>
+          <title>Recent &amp; Upcoming Talks</title>
+          <link>https://orkohunter.net/talk/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+          <guid>https://orkohunter.net/talk/</guid>
+          <description></description>
+      </item>
+
+      <item>
+          <title>Wall</title>
+          <link>https://orkohunter.net/wall/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+          <guid>https://orkohunter.net/wall/</guid>
+          <description>&lt;p&gt;This is my wall where I put names of people or things which directly influence me, my
+              works or my understanding of the world; or amuse me so much that I want to tell you about them.&lt;/p&gt;
+              &lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+              &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Aldous_Huxley&#34;&gt;Aldous Huxley&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://github.com/mitsuhiko&#34;&gt;Armin Ronacher&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Barack_Obama&#34;&gt;Barack Obama&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://twitter.com/gvanrossum&#34;&gt;Guido van Rossum&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://github.com/kennethreitz&#34;&gt;Kenneth Reitz&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://github.com/sindresorhus&#34;&gt;Sindre Sorhus&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://github.com/debugger22&#34;&gt;Sudhanshu Mishra&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+              &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/3188964-the-doors-of-perception&#34;&gt;The
+              Doors of Perception by Aldous Huxley&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/23692271-sapiens&#34;&gt;Sapiens: A Brief
+              History of Humankind by Yuval Noah Harari&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;h2 id=&#34;essays&#34;&gt;Essays&lt;/h2&gt;
+              &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224524/https://qz.com/india/431397/i-sacrificed-my-health-and-teenage-years-to-study-at-the-iits-but-was-it-worth-it/&#34;&gt;A
+              retrospection of life spent at IIT&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224602/https://neopythonic.blogspot.com/2016/04/kings-day-speech.html&#34;&gt;The
+              heart-felt speech by Guido on creating Python and its preset day influences&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224636/https://medium.com/s/story/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0&#34;&gt;How
+              a TV Sitcom triggered the downfall of western civilization&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224748/http://www.catb.org/esr/faqs/hacker-howto.html&#34;&gt;How
+              to Become a hacker - Eric S. Raymond&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224830/https://gist.github.com/adamwiggins/5687294&#34;&gt;Values
+              by Heroku co-founder Adam Wiggins&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+              &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gM95HHI4gLk&#34;&gt;Ted talk by Sal Khan from
+              Khan Academy about his thoughts on the current education system&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gpvcc9C8SbM&#34;&gt;Internet&#39;s Own Boy - The
+              Story of Aaron Swartz Full Documentary&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ez1rWBPznEc&#34;&gt;Rick and Morty - Finding
+              meaning in Life&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+          </description>
+      </item>
 
-&lt;h2 id=&#34;what-did-you-do&#34;&gt;What did you do??&lt;/h2&gt;
-
-&lt;p&gt;I have developed a habbit of writing letters to friends and family for the past few years. Today, I made some of them public at &lt;a href=&#34;https://orkohunter.net/letters&#34;&gt;orkohunter.net/letters&lt;/a&gt;. Some of the letters are responses, and some have responses as well. I have included the complete correspondence in each case.&lt;/p&gt;
-
-&lt;p&gt;All of the people involved in my correspondances have granted me the permission to publish them. One of them strongly encouraged me to do so, when I came up with this idea four months ago. I have removed all the names of people and places which could easily reveal their identity. I want to keep writing and hearing from them. I made sure my actions do not affect it.&lt;/p&gt;
-
-&lt;p&gt;I will keep updating the space &lt;a href=&#34;https://orkohunter.net/letters&#34;&gt;orkohunter.net/letters&lt;/a&gt; based on my discretion.&lt;/p&gt;
-
-&lt;h2 id=&#34;great-why-did-you-do-it&#34;&gt;Great! Why did you do it?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Accountability&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Writing letters is hard. It is a kind gesture from your side but it takes time to collect your thoughts and write them down in succinct words. I have spent from three hours to a few days on each letter. Hence, it is hard to keep writing even when I want to. The awareness that I have a public space on my website, will keep me accountable to update it and to write more.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. It may inspire someone to write letters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I wish more people write letters. A letter can do wonders if you want to convey a message with impact. We choose texts to communicate daily. People forget messages sent over Facebook and Whatsapp. But people remember letters and often re-read them in future.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Some of the correspondences are so good that I want to share&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Some letters along with their responses are thoughtful and fantastic read for me. I thought I should share them publicly. Read them as blog posts but in the form of a dialogue.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-do-you-think-about-letters&#34;&gt;What do you think about letters?&lt;/h2&gt;
-
-&lt;p&gt;Sometimes when I get any thought, I kill the urge to text, tweet or speak. I pick a pen and write it down. I think more on it, and when the content and the value increases, I write it as a letter and send it to someone, sometimes to multiple people.&lt;/p&gt;
-
-&lt;p&gt;I listen to music while writing (Pink Floyd, post-rock, epic, ambient, chill genre). It helps my thinking. I also use music to get in the mood and amplify the relevant emotions.&lt;/p&gt;
-
-&lt;p&gt;There are three steps in which I write one letter -&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Think. This occupies most (~80%) of my time.&lt;/li&gt;
-&lt;li&gt;Write bullet points or content subjects. These are the gists of the paragraphs.&lt;/li&gt;
-&lt;li&gt;Write. I stick to a conversational tone. It differs when I write a blog post or any other literary article.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Almost all of my letters are in the form of emails. The ones written on paper with ink are either not with me or are too personal to share. And inspired by John Keats, I too believe the words of romantic partners should be &amp;ldquo;written on water&amp;rdquo;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PEP 8 Speaks</title>
-      <link>https://orkohunter.net/project/pep8speaks/</link>
-      <pubDate>Sun, 17 Feb 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://orkohunter.net/project/pep8speaks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Keep</title>
-      <link>https://orkohunter.net/project/keep/</link>
-      <pubDate>Sat, 16 Feb 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://orkohunter.net/project/keep/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>We should write notes (for life lessons)</title>
-      <link>https://orkohunter.net/blog/we-should-write-notes/</link>
-      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/we-should-write-notes/</guid>
-      <description>&lt;p&gt;During my JEE preparations, I used to make a &lt;em&gt;lot&lt;/em&gt; of notes. Everyone did. Our Physics teacher was a storyteller. His stories used to make me wonder. I used to write them down as well.&lt;/p&gt;
-
-&lt;p&gt;I studied for two years. Thus, it was very important to write things down and keep revising. It was impossible to remember the lessons we learnt, without making good notes. My academic journey is about to end with my graduation. I realize I would not be making any notes.&lt;/p&gt;
-
-&lt;p&gt;Today, I was listening to an amazing podcast called &lt;a href=&#34;https://secularbuddhism.com/episodes/&#34; target=&#34;_blank&#34;&gt;Secular Buddhism&lt;/a&gt;. One of the episodes made my day. I need to remember the concept in the future as well. But, I am sure I will forget this in a month or earlier. This is a problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;We should be making non-academic notes as well&lt;/strong&gt;. The podcast episode was like a lesson, and it is a very good idea to write it down. The writing process will also add clarity to my understanding.&lt;/p&gt;
-
-&lt;p&gt;We have conversations daily. We experience many things. We read books. We meditate. We observe things silently. All this time, we learn something, the quality and amount of which is subjective. Sometimes, we ponder over one thought for days to understand it upto satistication.&lt;/p&gt;
-
-&lt;p&gt;Like any other lesson, we should keep re-visiting these thoughts. This is necessary to generate value for our future.&lt;/p&gt;
-
-&lt;p&gt;It is an incredible case of note taking. There is no ultimate exam. Yet, some days may create an illusion of it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Geniune Love and Infatuation</title>
-      <link>https://orkohunter.net/blog/love-and-infatuation/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/love-and-infatuation/</guid>
-      <description>&lt;p&gt;After a long time, I read something so meaningful on reddit. &lt;strong&gt;How do you distinguish genuine love for someone from infatuation?&lt;/strong&gt; was the question.&lt;/p&gt;
-
-&lt;p&gt;And I want to quote what I read and later express some of my thoughts on the subject. &lt;a href=&#34;https://www.reddit.com/r/AskMen/comments/aedq0v/how_do_you_distinguish_genuine_love_for_someone/&#34; target=&#34;_blank&#34;&gt;Here is the original comment&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This is a good question.&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip; It’s really easy to confuse it with genuine love. But for me anyway, infatuation is a lot more like a drug.&lt;/p&gt;
-
-&lt;p&gt;It’s a feeling that consumes you with temporary euphoric highs, and deep, dark lows. It’s almost like a panicked state of obsession. It fills your brain so all you can think about is that person. You start to care less about what really matters in your own life&amp;hellip;your goals, your friends, your work. All that matters when you’re infatuated, is them. And you feel a strong, leeching desire to mold yourself into the person you think they’d want you to be.&lt;/p&gt;
-
-&lt;p&gt;When you’re infatuated with someone, when that person gets closer to you in any way, you feel a rush. Like you’re on cloud 9. Like you just popped a bunch of really good ecstasy. And it feels amazing in the moment. But then when you sense them distancing from you in any way&amp;hellip;an ignored text. A rescheduled date. Flirting with another person. Going out on the town without you. Whatever. It feels like the world is crumbling&amp;hellip;like you’re going through a withdrawal. You panic and fear you’re going to lose them. There’s a constant push/pull. In those moments of panic all you care about is pulling them back to you. Those up and downs can be maddening over time.&lt;/p&gt;
-
-&lt;p&gt;At its core, I think infatuation is latching onto the idealized picture your brain paints of someone. &amp;hellip; You feel in love with them even though you barely know what’s it like to really be with them. &amp;hellip; You start thinking crazy thoughts like “this person is perfect”&amp;hellip;”this person is the solution to all of my problems, if I can just keep them I’ll be fulfilled”&amp;hellip;”if I can’t have this person I’ll never be genuinely happy”. You think you’re madly in love. But it’s all shallow. Once that person actually starts getting closer to you&amp;hellip;the infatuation can wear off pretty quickly&amp;hellip;and you can be left feeling confused and deflated. Like a spent firework.&lt;/p&gt;
-
-&lt;p&gt;I think most “love at first sight”, and honeymoon periods is really just infatuation. It can turn into love, but it’s not really. And sometimes if you’re not careful, it can blind you and drag you down into some really dark places.&lt;/p&gt;
-
-&lt;p&gt;Love on the other hand, is a lot more comfortable. It’s less erratic. It grows slowly over time and stays pretty constant. Its the general feeling of caring and warmth towards someone. You can hate someone in a current moment, but still love them overall. You can find someone to be unattractive, or incompatible&amp;hellip;and still love them deep down. You can have a fight with the person you love, and not fear you’re going to lose them&amp;hellip;you just want to revolve it.&lt;/p&gt;
-
-&lt;p&gt;It’s not like a drug&amp;hellip;it doesn’t have the highs and lows of infatuation. Its gotta be cultivated and nurtured. You don’t lose yourself in it, or have the drive to turn into the person they want you to be&amp;hellip;love helps you find yourself, and drives you to become the person you want to be. Love for a partner isn’t too different than the love you feel for a blood relative. It can be subtle and mellow&amp;hellip;sometimes barely recognizable&amp;hellip;but it’s always there. You’re connected to them at a deep primal level.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;This left me thinking for some time. Some of my thoughts:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;We have little control over our Infatuation, but Love is a practice&lt;/strong&gt;. It is comforting to know that love is not a fixed biological property which is set since birth. It is so much about our choices. We can learn to love and become one with it. We can teach people to practice love. Infact, there exists a very profoud meditation technique called &amp;ldquo;Loving-Kindness&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;People can sometimes fall in love with their infatuation but never the person&lt;/strong&gt;. This is so interesting to think about! This can give someone a feeling of being in love. But as the infatuation fades, the love fades as well.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Infatuation is not bad at all&lt;/strong&gt;. It&amp;rsquo;s as if, infatuation is our survival mechanism. But love goes beyond just surviving. It is spiritual.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Love is not an emotion&lt;/strong&gt;. Happiness and Sadness come in phases. They are emotions. But love is always present, in us. Our mind may get distracted sometimes. (This is whole another perception, which I felt in one experience.)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Love is very fundamental and not complicated&lt;/strong&gt;. Day passes by and my definition of love keeps getting shorter. Something so easy to experience, so difficult to express.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>और तसवीरें आने को हैं न !</title>
-      <link>https://orkohunter.net/blog/aur-tasveerein/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/aur-tasveerein/</guid>
-      <description>&lt;p&gt;जो इन रंगों से कागज़ तुम सजाते हो,&lt;/p&gt;
-
-&lt;p&gt;जो ये सुन्दर रंग-चित्र तुम बनाते हो,&lt;/p&gt;
-
-&lt;p&gt;तुम्हारे मन में अभी&lt;/p&gt;
-
-&lt;p&gt;और तसवीरें आने को हैं न !&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;जो मधुर गीत ये तुम सुनाते हो,&lt;/p&gt;
-
-&lt;p&gt;धुन ये प्यारी गुन गुनाते हो,&lt;/p&gt;
-
-&lt;p&gt;तुम्हारे दिल में अभी &lt;/p&gt;
-
-&lt;p&gt;और तरंगें बजने को हैं न !&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;जो ये प्यारी बातें उसे बताते हो,&lt;/p&gt;
-
-&lt;p&gt;जो ये सुन्दर सपनें खुदको दिखाते हो,&lt;/p&gt;
-
-&lt;p&gt;तुम्हारी ज़िन्दगी में&lt;/p&gt;
-
-&lt;p&gt;कितना और सोचने को है न !&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;कलम को कागज़ से यूँ लगाते हो,&lt;/p&gt;
-
-&lt;p&gt;जो रोज़ तुम कविताएँ नयी बनाते हो,&lt;/p&gt;
-
-&lt;p&gt;तुमको अभी और&lt;/p&gt;
-
-&lt;p&gt;कितना कुछ लिखने को है न !&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book Recommendation - Man&#39;s Search for Meaning</title>
-      <link>https://orkohunter.net/letters/mans-search-for-meaning/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/letters/mans-search-for-meaning/</guid>
-      <description>&lt;p&gt;Dear :name-retracted:,&lt;/p&gt;
-
-&lt;p&gt;I finished reading a book today. It’s called &lt;em&gt;Man’s Search for Meaning&lt;/em&gt;, written by &lt;em&gt;Viktor Frankl&lt;/em&gt;. He was a German psychiatrist captured by Hitler’s army in one of the most horrific concentration camps. If you are not aware of “The Holocaust,” more than a million people were killed in those concentration camps and more than ten million Jews during World War II. In the Auschwitz concentration camp, he (the author) witnessed so many deaths and brutality during the time he was captured in prison. People were separated from their families and children. They were gassed up and killed if they were unfit for work. Surviving on very little food and medicines, all their lives were a misery. The author saw his companions losing hope for survival. Based on his own experience and the stories of his patients, Frankl argues that we cannot avoid suffering, but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose.&lt;/p&gt;
-
-&lt;p&gt;To save you time from reading it, I will share the things I learned from this book.&lt;/p&gt;
-
-&lt;p&gt;I see this book as an answer to “Why should we not be depressed?” and a guide to handling other existential questions. One of the most asked questions by the entire humanity is “What is the meaning of my life? What is the purpose of my existence?”. These questions have been here since tens of thousand years. People have created religions to answer these questions. Righteousness (Dharma) and other ethics come out of these religions. Here is what the author says -&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;There is no abstract universal meaning to life. We should stop finding it. We do not need to ask this question. But life itself is asking this question from us. We have to answer it ourselves. This question is not ours to ask, but for us to answer. We create our meaning. Whether it is work, love, or courage. We create our “Why” individually. And this “Why” guides us to survive any “How”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;He adds that — &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Life is not primarily a quest for pleasure or a quest for power, but a quest for meaning. The greatest task for any person is to find meaning in his or her life. It can be anything or anyone. Suffering in and of itself is meaningless; we give our suffering meaning by the way in which we respond to it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Finally, something which I’ll always try to remember is — &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Forces beyond your control can take away everything you possess except one thing, your freedom to choose how you will respond to the situation. You cannot control what happens to you in life, but you can always control what you will feel and do about what happens to you.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This book is nothing but a relief, a motivation to lead a peaceful and meaningful life.&lt;/p&gt;
-
-&lt;p&gt;When I thought upon how we are raised, I noticed that our parents, teachers, and well-wishers try to inflict us with what gave meaning to their lives. My grandfather found purpose in a well-paid job because he had a sizeable low-income family to feed. That was it. He is 88 years old now, and the meaning of life still hasn’t changed for him. My father finds the purpose of life in a loving family. Everyone should talk to each other and support each other in their difficult times. I don’t know why he does that, but that is what I am aware.&lt;/p&gt;
-
-&lt;p&gt;Neither of those two are correct nor incorrect. As an individual, I respect what drives them. But every time my grandfather says “I wish you get crores rupees of salary and stand 1st in your college”, I smile and silently disagree.&lt;/p&gt;
-
-&lt;p&gt;So :name-retracted:, the next time you think of something which you have not achieved, which makes you feel you have not been successful, which threatens your self-esteem, take a minute and ask yourself “Is this or will this be meaningful to me?”. Meaningful doesn’t mean enjoyable but fulfilling.&lt;/p&gt;
-
-&lt;p&gt;Take care,
-&lt;br&gt;Himanshu&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Threads</title>
-      <link>https://orkohunter.net/blog/threads/</link>
-      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/threads/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;“You’re an interesting species. An interesting mix. You’re capable of such beautiful dreams, and such horrible nightmares. You feel so lost, so cut off, so alone, only you’re not. See, in all our searching, the only thing we’ve found that makes the emptiness bearable, is each other.” — Carl Sagan&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I always wonder when I listen to this quote in the song &lt;a href=&#34;https://www.youtube.com/watch?v=7AoJwMImQZE&#34; target=&#34;_blank&#34;&gt;Doves by We Are All Astronauts&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In my college, I have never walked up to a complete stranger and ended up being friends. It is hard for most people to do so. No matter how much we understand the importance of interacting with new people, mostly in the early years of our lives, it is not an easy thing to do. In my freshmen year, I never knocked the doors of my neighbors or any of my wingmates to learn about them. It was a conscious decision. But I now realize, there wasn’t a random to-be-friend knock on my door either.&lt;/p&gt;
-
-&lt;p&gt;So many years and friendships later, I can now understand that between me and any of my friends, there is always one common “thread.” It can be the Literary Society (TLS), or the Open Source folks, or the ones from KOTA, or my wing-mates, post-rock music, department, being intoxicated together, etc.&lt;/p&gt;
-
-&lt;p&gt;For two unacquainted people to start a conversation, it is a bit difficult to talk directly about each other. It won’t even go well. But it becomes relatively simple if they talk about anything that they have in common. And then they always remember that thread connecting them for the next few meetups until they don’t need the reason.&lt;/p&gt;
-
-&lt;p&gt;It’s amazing how many threads KGP creates in our lives, to give us friendships for lifetime.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On Psychedelics</title>
-      <link>https://orkohunter.net/letters/on-psychedelics/</link>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/letters/on-psychedelics/</guid>
-      <description>
-
-&lt;h2 id=&#34;i-wrote&#34;&gt;I wrote -&lt;/h2&gt;
-
-&lt;p&gt;Hello :name-retracted:!&lt;/p&gt;
-
-&lt;p&gt;Last night, I watched the movie Her. It was a fascinating movie on emotions and AI. It was one of its kind and made me think a bit. Humans created a consciousness in the movie, and at one point it started wondering about itself.&lt;/p&gt;
-
-&lt;p&gt;Maybe a lot of humans, at some point in their lives, think about the purpose of their lives (Hilariously reminds me of &lt;a href=&#34;https://www.youtube.com/watch?v=X7HmltUWXgs&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;You pass butter&amp;rdquo;&lt;/a&gt;). I found myself in the situation for the first time right after JEE, but later I forgot as programming happened to me. And then, again after reading Sapiens this December. And now, it&amp;rsquo;s stuck in my head. It&amp;rsquo;s not always a negative thought, a lot of times I happen to be smiling and puzzled as well.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m glad psychedelics exist in the world. It made me constantly aware of the mysterious and unknown, made me witness colors never seen before, geometries beyond apprehension, and gifted a broad palette of emotions.&lt;/p&gt;
-
-&lt;p&gt;Often at times, I self-construct arguments against psychedelics being good and then later work on the counter-arguments. I have an interesting thought to share.&lt;/p&gt;
-
-&lt;p&gt;Think of our ancient tradition. Children during their brahmacharya were recommended to have a Guru. It was a norm to grow up having a guru. In the case of Eklayva, his teacher was a statue, not a living person. So, Guru was a concept but mostly found in the form of life. I highly recommend a thoughtful psychedelic experience to my friends once in life. I ask them to respect what they think of intaking. I believe these chemicals and plants have the potential to be the guru in this modern age. That is the thought. Also, not all teachers and teachings are good (thus, Bad Trips), but there is always a lesson to learn, always a lesson to think about.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;name-retracted-responded&#34;&gt;:name-retracted: responded&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;and gifted a broad palette of emotions.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I believe the emotions I have collected from the small out-of-world experience I had is the best thing I kept with myself after the trip. Now I listen to the same music with more intense emotions. Now I live the same life with more vividness. (And the most wonderful thing about reading your mail is: I hadn&amp;rsquo;t given many thoughts how these emotions emerged, I will now. Surely, these trips have changed my composition as human. (Romantic ahaa!))&lt;/p&gt;
-
-&lt;p&gt;We all have our unique mental models about the world and there are a lot of mental models trying to dictate our ways through life. (Most people aren&amp;rsquo;t even aware of them. - I wasn&amp;rsquo;t aware until I went for that Himachal trip).&lt;/p&gt;
-
-&lt;p&gt;Example: the usage of &amp;lsquo;we&amp;rsquo; everywhere is a small mental model about the world, watching a series of actions like a sequential programmer is another mental model, trying to optimize petty things, and watching people as a neural network model is another. We had these experiences and we have these models in our mind.&lt;/p&gt;
-
-&lt;p&gt;These are the consequences of being from :state-name-retracted:, being a c++/python programmer, competitive programmers, deep learning engineer in the order the examples are given.&lt;/p&gt;
-
-&lt;p&gt;And when I took pyshedelics, I created another mental model. It is about open-mindedness. It is compassionate and weak as a twig, at the same time it is strong as the storms. It embraces other mental models and tries to break them from bias.&lt;/p&gt;
-
-&lt;p&gt;Maybe if I hadn&amp;rsquo;t taken it, I wouldn&amp;rsquo;t have come out from the clutches of commitment. Staying in commitment for the sake of it is biased. (Commitment in itself is not).&lt;/p&gt;
-
-&lt;p&gt;When you are about to break a commitment, there is a lot of &amp;lsquo;socio-cultural&amp;rsquo; norms to stop you. More than anything, it is your mind asking you not to do it for the sake of &amp;lsquo;moral&amp;rsquo; compass you have set. Then you realize &amp;lsquo;love&amp;rsquo; is greater than any norms/compass and that love shouldn&amp;rsquo;t make you feel mediocre. I realized I feel more loved(more dopamine) when I see the white moon by the trees than her (This was the snap moment, our last LSD trip). I had written a small sentence during those time:&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Kahu kaise tujhe ki ek samandar se sukoon mila par dhoop nikalne pe wapas jana hai&amp;rdquo; (Hindi)&lt;/p&gt;
-
-&lt;p&gt;And it doesn&amp;rsquo;t mean that you hate the ocean, that you have suddenly started hating it. It&amp;rsquo;s just that if &amp;lsquo;love&amp;rsquo; is there, you&amp;rsquo;ll carry the essence of the oceans within you, wherever you go.
-Everyone carries something, and you shouldn&amp;rsquo;t carry the things just for the sake of carrying(commitment just for the sake of commitment) but only if you want to (love).&lt;/p&gt;
-
-&lt;p&gt;I am always a tiny bit confused in this matter. There is yet some fingerprints on the glass, next psychedelic would help me get it cleaner.&lt;/p&gt;
-
-&lt;p&gt;So here is how I used some open-mindedness I gathered from my trips. It shackled some norms set in my mind.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I highly recommend a thoughtful psychedelic experience to my friends once in life.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Just to clarify, I would like to add a single point. It&amp;rsquo;s for everyone but not &amp;lsquo;every&amp;rsquo;time. I can provide almost anyone with an LSD but not DMT. Even :name-retracted:, I have never given him DMT. It&amp;rsquo;s just that you have to feel (judge) whether they would embrace what they see. These are tough things we are looking at, it can make people but break them too.&lt;/p&gt;
-
-&lt;p&gt;I really believe you already know this but added for the sake of availability bias.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>It is okay not to be special</title>
-      <link>https://orkohunter.net/letters/it-is-okay-not-to-be-special/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/letters/it-is-okay-not-to-be-special/</guid>
-      <description>&lt;p&gt;Hi :name-retracted:!&lt;/p&gt;
-
-&lt;p&gt;I hope I don’t bore you with this letter. I feel like talking to you about life. (Which I always want to do. All the time. It’s almost like I met you yesterday and quickly got comfortable in saying things.)&lt;/p&gt;
-
-&lt;p&gt;So. There we go. There is a married couple somewhere on the outskirts of a town, renting a one bedroom apartment in a 10-story dull looking building. They have a median family income. (Imagine the couple in movie The Lunchbox). The family wakes up and goes to work. The wife prepares and sends him the lunchbox. And she always does thousands of other household chores, which look trivial but are as difficult as any job. The days are tiring. The couple gets together for dinner later in the evening. Let’s say they watch a movie, or a reality dance show with a celebrity guest, or maybe a scheduled TV serial, as usual. And this goes on for a long time. Like, really long time.&lt;/p&gt;
-
-&lt;p&gt;They constantly feel that something is missing. Suddenly, their lives look like an incomplete picture in front of them. They realize maybe they don’t have it all. So they decide to do what billions of us have decided in the past, i.e. to raise a kid. The kid gives them love to share in exchange for some financial load and a whole lot of time from both their lives. But they get happier, or maybe. Their lives go on, a bit busier than before. They are 3 people now. Everything is new to the child, so he/she is excited as hell. But the mundane stuff starts happening again. The dinner, the TV, the feeling of “something missing” from their lives.&lt;/p&gt;
-
-&lt;p&gt;So many of these families never figure out what was missing. I have seen a few. There are millions of them in our country.&lt;/p&gt;
-
-&lt;p&gt;All this time, these people look at something only to realize, they don’t have it. They look at people in the movies/serials wearing clothes which they don’t have. The house, they don’t have. The parties they don’t go to. Or the romance, as shown in the movies. All of the mainstream media shows them things that they want, but do not have. But the worst part is, that the media tells them that those things exist and there is still hope, most of which is imaginary. So, they live in the expectation of achieving something which does not exist in reality or is too tedious to get.&lt;/p&gt;
-
-&lt;p&gt;I have known this for a long time. But only now I realize, it’s very natural for us to do that. This has been going on for thousands of years. It’s called the human’s struggle for finding the meaning of life.&lt;/p&gt;
-
-&lt;p&gt;We think we live with a purpose. And that we were sent with a purpose. We invented religion to make us believe that there is a white-bearded man above the clouds, always looking at us and that he loves all of us.&lt;/p&gt;
-
-&lt;p&gt;So, when a self-awakened man comes and says, “You know what, we don’t exist with any purpose at all”. Or when Carl Sagan tells us about how vast our entire universe is and that we are nothing but pale blue dots in the whole picture; we feel so small. And that’s it. At this point, the one who realizes and accepts that we are not special, is known as a Buddha, and rest of us constantly miss out on life desiring to be special.&lt;/p&gt;
-
-&lt;p&gt;What is wrong with not being special?&lt;/p&gt;
-
-&lt;p&gt;Not a thing.&lt;/p&gt;
-
-&lt;p&gt;The reason why I am saying all this to you is that I don’t worry about our love not being what it isn’t. I am a simple guy, who thinks about the girl he loves when he wakes up and looks at her picture before going to bed in the night.&lt;/p&gt;
-
-&lt;p&gt;And I think as much as I accept this love as it is, the more joyful I can be.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Bas itna hi kehna tha, kuch jyada shabdon mein :)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Himanshu&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Peeking over what people search on DC</title>
-      <link>https://orkohunter.net/blog/peeking-over-dc-search/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/peeking-over-dc-search/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;p&gt;IS THIS EVEN POSSIBLE?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Well, Yeah.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;BUT YOU PROBABLY NEED TO BE A DC ADMIN TO GET THIS, NO?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nope. Anyone can do it.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Holy Schnikes!!!! TELL ME HOW TO DO IT ON DC++!!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Lol, come to Linux already!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Note: I shall not be giving out a one-click solution to monitor DC searches intentionally even if it were possible. But if you are dedicated enough, you can figure things out by reading it. Also, I’m not the first person to know about this.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Direct_Connect_%28protocol%29&#34; target=&#34;_blank&#34;&gt;What is DC?&lt;/a&gt; It’s a peer-to-peer file sharing protocol. Computers connected with each other can share files among them, and if you are on LAN, you get them on a terrific speed.&lt;/p&gt;
-
-&lt;p&gt;GET TO THE POINT!!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Alright, alright.&lt;/p&gt;
-
-&lt;h2 id=&#34;theory&#34;&gt;Theory&lt;/h2&gt;
-
-&lt;p&gt;Let’s say Mr X and I are connected to a DC hub. Let’s say it happens that both of us are online at the same time. Mr X searched for &lt;code&gt;New movies&lt;/code&gt; in their favorite DC client e.g. DC++, LinuxDC++, etc. Their client sends this request to the hub we both are connected, to fetch a search result. The hub then forwards the request to &lt;em&gt;everyone&lt;/em&gt; who is connected to it and returns the index for Mr X to click and download any file from anyone.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;SO GIVE ME THE SCRIPT. OR DO YOU HAVE THE CODE OR A REPOSITORY?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There isn’t really a script or any code. :/&lt;/p&gt;
-
-&lt;h2 id=&#34;exploit&#34;&gt;Exploit&lt;/h2&gt;
-
-&lt;p&gt;Because of the theory, we can sit back, stay connected to the hub and receive a holy large amount of data like&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Who joined/left the hub when, their nick and their IP address&lt;/li&gt;
-&lt;li&gt;What are people searching for and IP address associated with each query&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you are in KGP, you can &lt;a href=&#34;https://wiki.metakgp.org/w/IP_allocation&#34; target=&#34;_blank&#34;&gt;trace back the IP addresses to even room numbers&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;technology&#34;&gt;Technology&lt;/h2&gt;
-
-&lt;p&gt;Normal DC clients won’t allow us to see these requests. There is a client known as &lt;a href=&#34;https://dev.yorhel.nl/ncdc&#34; target=&#34;_blank&#34;&gt;ncdc&lt;/a&gt; (distributed as a binary) which doesn’t really have a GUI, so you can run it on a terminal (Aah, the feels it gives!)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Use ncdc to connect to the hub&lt;/li&gt;
-&lt;li&gt;Enable logging to a file and set &lt;code&gt;log_debug&lt;/code&gt; to True&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Note: This will generate a lot of data if you’re connected to a large hub and thus make sure you keep clearing the log file&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Use &lt;code&gt;tail -f /path/to/logfile&lt;/code&gt; to see the queries sent by DC&lt;/li&gt;
-&lt;li&gt;Parse the queries and tada!&lt;/li&gt;
-&lt;li&gt;Protip: You can feed &lt;a href=&#34;https://www.elastic.co/products/kibana&#34; target=&#34;_blank&#34;&gt;Kibana&lt;/a&gt; the data and visualize them.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You probably will have to set some config in ncdc to change from Passive mode to Active mode or else, some hubs mights ban you. Google properly, read the ncdc documentation and you’ll be fine.&lt;/p&gt;
-
-&lt;p&gt;EDIT: &lt;a href=&#34;https://medium.com/@icyflame&#34; target=&#34;_blank&#34;&gt;Siddharth Kannan&lt;/a&gt; used tcpdump to capture the TCP/IP packets which contains the DC query strings as well. Check out the 107,000 search results he accumulated in a week over here stored as &lt;code&gt;all_packet_info.json&lt;/code&gt;. This is the code he used&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;sudo tcpdump -b -t src 10.109.xx.xx -w incoming-search-`date +%s`.pcap -c 1000;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;live-streaming&#34;&gt;Live Streaming&lt;/h2&gt;
-
-&lt;p&gt;It’s hard. But if you really want to live stream the searches and that to be accessible outside of the campus network, there is a hack. You can have a server hosted somewhere outside the network which is going to stream data to the public. Share the URL of this server to people you want to. Create an endpoint over here which can receive data through POST request. Now, use your laptop from inside the network to constantly send requests on to the server. Make sure to use authentication by headers to avoid exploitation!&lt;/p&gt;
-
-&lt;p&gt;There’s &lt;a href=&#34;https://github.com/OrkoHunter/dc-audio/&#34; target=&#34;_blank&#34;&gt;some&lt;/a&gt; leftover &lt;a href=&#34;https://github.com/OrkoHunter/dctrends&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; if you can find use of them.&lt;/p&gt;
-
-&lt;p&gt;Now you have this, here’s something you need to remember: Don’t be dick. That’s all.&lt;/p&gt;
-
-&lt;p&gt;Happy Hacking! ✨&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Brain, Mind and Consciousness — Essay</title>
-      <link>https://orkohunter.net/blog/brain-mind-and-consciousness/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/brain-mind-and-consciousness/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;p&gt;Layers of ‘I’ when perceiving anything which is external to it&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Thanks to Montaigne, one of the first essay writers, for popularizing this literary genre. As the title suggests, I have had many musings upon the similarity and the differences of these three entities which can be thought as a subset of ‘&lt;em&gt;I’&lt;/em&gt; and which have very diffused boundaries among their definitions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: The following ideas are highly subjective. I would not advise the reader to consider them factual. Also, instead of focusing too much on the scientific details, the reader should try to read the hints to what I’m trying to communicate by using language.&lt;/p&gt;
-
-&lt;h3 id=&#34;let-s-define&#34;&gt;Let’s Define&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Cogito ergo sum (I think therefore I am) — René Descartes&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The entity ‘I’ or ‘Me’ is a strange topic of discussion. While some people would oversimplify this to the human body, others might overcomplicate and make this is a subject of spiritual mysticism. I want to remain sane on this topic and probably write the words which can make sense in daily life.&lt;/p&gt;
-
-&lt;p&gt;For me, the majority of ‘I’ is divided into three parts or layers, namely the Brain, the Mind and the Consciousness. The Brain is the outermost layer, the frontier of the Self. Take a scenario for example. You are reading this text. The first ‘You’ is your eyes, receiving colorful light rays from the screen. The ‘You’ then converts this information into electrical signals for further processing. This part is called Brain. It is an entirely physical entity, made of matter which interacts with the outer world through our senses, i.e., sight, touch, smell, taste, and sound.&lt;/p&gt;
-
-&lt;p&gt;The Brain is very close to a computer program, and vice versa. It is programmed to execute in a definite manner. When given a set of inputs, it runs the required number and type of processes and is done with it. It encounters bugs in its lifetime which causes the dysfunctioning of some module. It also has a computing power and needs resources such as oxygen and food.&lt;/p&gt;
-
-&lt;p&gt;The Brain then tries to pass this information to our Consciousness but in comes the Mind. The Mind is that child of ours, whom we love so much that we probably can never stop listening to. The Mind constitutes of our thoughts, our emotions associated with those thoughts, reactions and Ego. If you have disliked this essay so far, your brain has nothing to do with it; it just is feeding the information to your Mind, which is sitting only to judge the content. The Mind will then react and ask your Brain (followed by the senses) to either continue or stop reading.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*G7iss0cgkvwcZuBdvvjXmw.png&#34; alt=&#34;‘I’ in terms of processing an information&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We can look at the Mind as a semi-physical entity. On one side it shares boundaries with the physical bodies like sensations and hormones, while on the other hand, it has slight access to the metaphysical entities inside us which are hard to define as matter, i.e., Consciousness and Ego.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*6IXNzi_k8lbhFVaLm-8WFg.png&#34; alt=&#34;The amount of perceivable matter in each entity&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Consciousness is the purest form of ‘I,’ which does not think, which does not react, which does not speak with our mouth, which does not listen with our ears, which does not recognize anything as good or bad, pleasant or unpleasant. It is a thoughtless entity. It can interchangeably be understood as ‘the energy of life’. If you have ever been a psychonaut, this is the ‘vibration’ part of self, and it does communicate to other consciousness. If your consciousness is unaware of something which only your brain and mind knows (Take the statement ‘*We should love everyone*’ for example), it is entirely possible that you might react unexpectedly in extreme situations, contradictory to what you think you should never have done.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-chariot&#34;&gt;The Chariot&lt;/h3&gt;
-
-&lt;p&gt;Do you remember the scene from the epic Mahabharat? During the battle scene, the chariot with the most attention was of Arjun. Now there’s a great symbolism to be drawn from the setting. There is Arjun with all the weapons, perplexed with the myriad of thoughts about the battle, sitting on a chariot with Krishna, who is calm and patiently replying to all of the questions thrown by Arjun. Krishna is also the charioteer, holding the reins. There are horses driving the chariot, and finally, there’s the battleground, the vast ground where the chariot can roam around and interact with other chariots and other entities.&lt;/p&gt;
-
-&lt;p&gt;Collectively if we are to compare this one picture with ‘I,’ the chariot is similar to a Body. Arjun is like the Mind having all of its thoughts, ego, and confusions. Krishna is the inner Consciousness. The reins connect the Mind with the horses, which are to be interpreted as the senses we use to interact with the external world, which here is the entire battleground of Kurukshetra. The ‘I’ functions when everything is at their place, resonating in perfect coordination.&lt;/p&gt;
-
-&lt;p&gt;After all the questionnaire (popularly known as Bhagavad Gita), Krishna drives the chariot and is only capable of waking Arjun up and channeling all of his powers. I don’t know how reliable this symbolism should be held but loosely it’s very similar to the game of Mind and Consciousness.&lt;/p&gt;
-
-&lt;h3 id=&#34;change&#34;&gt;Change&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;How are these entities altered?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Changing the Brain is straightforward. One can close their eyes, put on earphones with music and there, the state of their Brain is now different. But closing the eyes does not mean the person shall stop thinking about it. The change in Brain has little to no effects on the Mind.&lt;/p&gt;
-
-&lt;p&gt;Changing the Mind is a tedious process. It requires expertise to govern thoughts from coming in and going out. It is a long process to gain control over one’s Ego. These methods can be classified under various Meditative techniques.&lt;/p&gt;
-
-&lt;p&gt;Changing the Consciousness makes you a Psychonaut. A Psychonaut is a person who experiences intentionally induced altered states of consciousness and claims to use the experience to investigate his or her Mind, and possibly address spiritual questions, through direct experience. A change in Consciousness will, by default, reflect on the Mind and the Brain as well.&lt;/p&gt;
-
-&lt;p&gt;When people talk about Enlightenment, they mean altered Consciousness and not a new Mind. All the humans feel love, sadness, hate, anger, etc., every single one of us and is, in fact, one of the traits which define us. A monk in the Himalayas is undoubtedly not deprived of Mind, but they probably know how to open up with the Consciousness directly and not let Mind be a middle-man.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Enlightenment doesn’t care how we reach there. — Thaddeus Golas&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The consciousness can be altered with prolonged meditation (very subjective to the technique and the person). The use of naturally occurring mushrooms containing psilocybin, DMT, LSD and many other psychedelic and psychoactive substances can also challenge Consciousness to its very core.&lt;/p&gt;
-
-&lt;h3 id=&#34;communication&#34;&gt;Communication&lt;/h3&gt;
-
-&lt;p&gt;I’m not sure if there is any test to know whether some information which was thrown at us, has reached our consciousness or not. Merely hearing it ensures Brain level perception. Pondering over it as a thought provides that it is floating in our Mind. But how can we know if our Consciousness is aware of it?&lt;/p&gt;
-
-&lt;p&gt;There is one practice which can make sure the thought isn’t stuck in the Mind. The method is to “Avoid Overthinking.” Overthinking is terrible. It is a risky business. On the one hand, it opens up new insights to a thought, on the other side it leads to the loss of reality and makes it very hard for any information to escape from our Minds. Another good practice is to not letting our Ego come into the picture. We can do it by not allowing our subjective feelings and judgment interfere while we catch a piece of information.&lt;/p&gt;
-
-&lt;p&gt;Knowing that ‘I’ can be dissolved into these three entities can have very positive effects while communicating with others. If we can see that our words will be reflected by their layer of Ego, there is no way we can deliver our message to them despite speaking for any length of time, since it will never reach their Consciousness. We can then find out the correct choice of words to avoid their shiny surface of Mind which is eager to reflect anything that is thrown towards it such that it pierces through and reaches their Consciousness.&lt;/p&gt;
-
-&lt;p&gt;Many times, we have the tendency to solve a problem with another person, just by speaking to them. Example can be a conflict of interest with our parents, friends or a significant other. But it’s wise to understand that the situation might have left the Mind of the other person very confused, and it’s best not to talk since our words will quickly bounce off them. It’s better to sit back, wait, till they work out with their Mind and are ready to communicate. Interesting to note that this is counter-intuitive to our Minds which quickly reacts by blabbering out whatever we can.&lt;/p&gt;
-
-&lt;h3 id=&#34;i-am-not-my-thoughts&#34;&gt;I am not my Thoughts&lt;/h3&gt;
-
-&lt;p&gt;Why is “watching the breath” one of the first and simplest meditation techniques? During Vipassana, it is suggested to start first by the practice of watching the whole breathing cycle and rather focus on the nostrils. This is not Vipassana, but it acts as an anchor to calm the Mind so that we would be able to do the actual practice. We can give an analogy of the mind to that of a chattering monkey. The Mind usually does not shut up and keeps feeding us with thoughts, ego, and their effects. We then tell the Mind, “O hey! Do you see this? Do you see me inhaling and exhaling? It’s beautiful, isn’t it? Watch!”. It’s like giving a crying baby, a toy to play with and making her come at ease.&lt;/p&gt;
-
-&lt;p&gt;Once we start watching our thoughts, we begin to accept, and later appreciate the meaninglessness of them. Merely by watching them come and go, we build up a tolerance for a reaction, and it stops us from engaging from them in the future. We learn how futile are our thoughts, opinions, and judgments. Often at times, people are afraid of meaninglessness, which makes them value their thoughts very much. This makes them misinterpret that they are their thoughts, and thus, they build up a thick layer over their Consciousness, which is another meaningless and thoughtless entity. There is a possibility that life gets more beautiful if we stop yearning for everything to be meaningful.&lt;/p&gt;
-
-&lt;h3 id=&#34;ego&#34;&gt;Ego&lt;/h3&gt;
-
-&lt;p&gt;Ego is a word which has been overstated and misunderstood a lot of times. Never is one’s true ego positive or negative, it’s the thoughts associated with it. A negative thought pattern can be removed while keeping the Ego intact. We just can’t let it happen very easily, since it’s so powerful. Ego is the ID of the Mind; it’s what makes us respond to someone calling our name. It might sound blissful to live after ‘Ego Death’, but that’s not how anyone can survive. Killing one’s ego is killing Self.&lt;/p&gt;
-
-&lt;p&gt;If ego death isn’t desirable, then what is? Here is a comment from &lt;a href=&#34;https://www.reddit.com/r/Psychonaut/comments/43oysz/how_is_ego_death_beneficial/czjv2nn/&#34; target=&#34;_blank&#34;&gt;/r/Psychonaut&lt;/a&gt; which I find very relevant.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Personally, I don’t believe complete Ego death is possible, or even desirable. What I suggest is mastery of the Ego. Think of it like a wild animal to be tamed instead of destroyed. It is a part of you, an integral and important one, in fact, but for most people, it’s grown monstrous and completely out of control. Or put differently, it is in full control. And so we become passengers in these meat machines, with the Ego at the wheel. Dangerous stuff!
-The Ego is only the Ego so long as it remains distinct and separate from the rest of you. The process we should undergo is what Carl Jung called individuation: the uniting of a fractured mind, of a psyche, compartmentalized and segregated into individual parts; the merging of conscious and unconscious, Self and Ego, reasoning mind and intuitive mind. The result is that we become indivisible, whole, balanced, and more importantly, in control.
-How does this benefit you? Well, imagine two pilots wrestling for control of the ship. Good luck getting to your destination! Or better yet, good luck agreeing on a target. Before individuation, we’re torn and divided, conflicted and confused. We’re being driven, not doing the driving, you see? The Ego wants one thing, the Self another, and then it’s a battle for control. Or else the Ego is whispering sweet lies, and the Self is buying them wholesale so that the Self comes to believe that it and the Ego are one. This is a nice little tactic by the Ego, and one that can be observed in people on a daily basis. Defensiveness is an obvious indication of Ego identification. What are you defending? An opinion? A belief? A role? These things are not you, only things you do or things you cling to, but the Ego grows strong from false identification and so pokes and prods you into getting your back up whenever these are called into question.
-How do you merge with the shadow? The first step is identifying it in yourself by distinguishing between the essential you — the Self, or pure consciousness — and the stuff that isn’t you. By watching your thoughts, words, and actions, seeking out incoherence and contradictions, defensiveness and sore spots, and then calling these into question. Be harsh with yourself. And whatever you do, don’t shy away from the ugly bits: that’s where the Ego likes to hide out.### Ignorance&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Don’t we hate it when we write or speak all the facts and support our argument while the person on the other side just &lt;em&gt;chooses&lt;/em&gt; to ignore those and raises some of their own? It is happening every second on Facebook and Twitter comments section, and it’s eating out a lot of Brains. But why do people choose to be ignorant?&lt;/p&gt;
-
-&lt;p&gt;The moment we add our entire Mind in the equation of &lt;em&gt;thought process&lt;/em&gt;, it by default, includes the sensations in our body, emotional reactions, opinions, and separately, the Brainly activities, i.e., Reading/Listening and Writing/Speaking. Now, the Brain has no trouble in receiving any argument, neither the Consciousness has; but it’s the Mind, and if the words are causing any unpleasant sensations, we tend to reject it. And that’s where we lose.&lt;/p&gt;
-
-&lt;p&gt;No sensation is either good or bad. However, it &lt;em&gt;will&lt;/em&gt; arise. It’s natural for all of us. The key is not in ceasing it, but accepting it, accepting that impermanence is a real thing. The sensations have come, only to pass away. It has no real meaning, and we should not be trying to give it any value. We indulge in reactions too often and thus end up losing the direct communication with our Consciousness.&lt;/p&gt;
-
-&lt;h3 id=&#34;consciousness&#34;&gt;Consciousness&lt;/h3&gt;
-
-&lt;p&gt;To me, we only know the tip of the iceberg known as Consciousness. I am very impressed by Yuval Noah Harari’s understanding of the consciousness and the scientific aspects of it, written in his book &lt;em&gt;Homo Deus&lt;/em&gt;. To me, understanding one’s consciousness is a very complicated subject since it’s very easy to overthink it. It is the subjective ability to experience. Anything can be an experience, merely sitting somewhere alone in lush green, or talking to a person, or watching the leaves fall from a tree, anything and everything can become an experience and our consciousness is responsible for the subjective aspects of it.&lt;/p&gt;
-
-&lt;p&gt;I’m not capable of writing about it. I’m not capable of using terms like ‘Vibration’ and ‘Energy’ to describe it. But I secretly wish, for a scientific explanation in centuries when we’d be pondering over the consciousness of Artificial Intelligence. Even if I can see things as it is (it’s the literal meaning of &lt;em&gt;Vipassana&lt;/em&gt;), I wish things to be proven for a systematic understanding by the humanity. Wait, what is String Theory &lt;em&gt;again&lt;/em&gt;?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>#DeleteFacebook</title>
-      <link>https://orkohunter.net/blog/delete-facebook/</link>
-      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/delete-facebook/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*0l-9QfuqEhDiBumKeTmGuQ.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After letting Facebook Inc. build a vast profile of me for 9 years, I deleted my facebook account. Privacy is not my &lt;em&gt;only&lt;/em&gt; concern, but I &lt;a href=&#34;https://medium.com/@OrkoHunter/the-discovery-of-pseudo-acquaintance-9f903601d916&#34; target=&#34;_blank&#34;&gt;personally reacted&lt;/a&gt; to how Facebook has affected &lt;a href=&#34;https://www.theverge.com/2017/12/20/16800842/facebook-2017-russia-scandal-news-feed-criticism-defectors&#34; target=&#34;_blank&#34;&gt;the way we interact in our real life&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;how&#34;&gt;How?&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Downloaded a copy of my data from facebook -&amp;gt; settings
-This contained all of my messages, photos, videos, and probably a lot more information which I can not consciously recall sharing with Facebook.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Created a dummy facebook account* and added it to the resourceful groups I might miss out important information from.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;em&gt;*An account without any interaction i.e. No likes, No reactions neither love nor angry, no comments, no photos/videos, no “friends”. A profile to just receive information on email (sent by facebook).&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/help/delete_account&#34; target=&#34;_blank&#34;&gt;https://www.facebook.com/help/delete_account&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;(Going extreme) Blocked Facebook servers on my computer that my computer can never communicate to domain names linked to Facebook servers. See &lt;a href=&#34;https://github.com/jmdugan/blocklists/tree/master/corporations/facebook&#34; target=&#34;_blank&#34;&gt;the list&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;why&#34;&gt;&lt;strong&gt;Why?&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;h4 id=&#34;social-concerns&#34;&gt;Social concerns&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;People started using Facebook as LinkedIn by adding Freinds and it blurred the lines of relationships between two individuals — &lt;a href=&#34;https://medium.com/@OrkoHunter/the-discovery-of-pseudo-acquaintance-9f903601d916&#34; target=&#34;_blank&#34;&gt;Article&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Real addiction to unreal things — &lt;a href=&#34;https://youtu.be/3ev7GXzFTPg?t=3m10s&#34; target=&#34;_blank&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Facebook (read &lt;em&gt;Social Media&lt;/em&gt;) promotes Ignorance by thoughtless comments, replies and reactions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;privacy-concerns&#34;&gt;Privacy concerns&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;This will suffice — &lt;a href=&#34;https://stallman.org/facebook.html&#34; target=&#34;_blank&#34;&gt;https://stallman.org/facebook.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Discovery of pseudo-Acquaintance</title>
-      <link>https://orkohunter.net/blog/pseudo-acquaintance/</link>
-      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/pseudo-acquaintance/</guid>
-      <description>&lt;p&gt;It’s the dawn of the 20th century. If we pick two homo sapiens on earth, we can classify their relationship as one of these three types:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;An Acquaintance (Both of them are acquainted with each other)&lt;/li&gt;
-&lt;li&gt;Unfamiliarity (No one knows about the existence of other)&lt;/li&gt;
-&lt;li&gt;Celebrity status (One of the two is famous)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Today is the dawn of the 21st century. And every day in my college I meet few people who fall in none of the three types.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Every day I see people on 2.2, whom I know by face and name, as well as they know me and my name. But we don’t stop to say, ‘Hi’&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;These are my &lt;em&gt;pseudo-acquaintances&lt;/em&gt; whom I got to know from Facebook.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is the deal. Somewhere in the data centers of Facebook Inc, there is a matrix which stores the connection between two nodes, and the edge value of those people and me is True. There have been numerous CSS divs containing strings which either they or I have written, which got a click from the other, sometimes a further div of “comment” as well. Somehow, subconsciously my brain understood that a person and I had interacted a whole bunch and thus we are friends. But when the same mind physically spots them in public, that same person for the first time in months, there is no surge of emotions to go and talk to them.&lt;/p&gt;
-
-&lt;p&gt;I know someone on Facebook, I “interact” with them, but I don’t speak with the same passion or eagerness to them in real life, using flesh and bones. For me, it is terrifying. What if people eventually stop using their mouth for conversations because Whatsapp and Messenger let them use that gif meme to convey more efficiently. What if we discover some other app or platform to express ourselves in the best way which is different than meeting the person and using our mouth, eyes, face, hands or smile to express?&lt;/p&gt;
-
-&lt;p&gt;And the fact that the first world countries already have incorporated a bit of this culture, raises merely questions about parenting. What if we are not concerned about our children, and the first friend they make, do not physically exist around them. I am surely, not saying one is better than others; there are so many pros of the Scientific Revolution, Internet being a tiny monster of it. I am just saying that, are people responsible? Is Facebook responsible enough to know that it has created an illusion of friendships and relationship and does it care about it? From the weekly product and feature launches, for the sole purpose of us interacting more on their platform, and increasing their value as advertisers and not looking up from our phones, I think it does not care at all. Or is it in control of anyone to care about it? Something like a trained Deep Learning model, over which we only have very few control after some time.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br&gt;
-&amp;gt; This article above was an email to a few close friends, right after I realized my first pseudo-acquaintance. I am thankful to their responses, they made me rethink every bit.&lt;/p&gt;
-
-&lt;p&gt;It has been quite long since I joined Facebook.com and I have spent a lot of time with the product. I have met and stayed connected with a lot of people using this platform, and therefore, I am probably thankful for it. However, here is my current setup, as of now:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I don’t use the product ‘news feed’. I use a version of News Feed Eradicator.&lt;/li&gt;
-&lt;li&gt;I ran a custom Javascript script to unfollow all of my Facebook friends and then turned on the notifications for few, as I deemed necessary in my real life.&lt;/li&gt;
-&lt;li&gt;On the phone, I do not have the Facebook app and I use messenger with the setting where I do not receive any notification (interrupts) but I would instead open the app to see if there any new messages.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The last thing that I want to say is that there are mostly no good and no wrong sides. As a human, we always have to use our discretion and find something in between. Hence I can not blindly delete Facebook to solve this problem, I’ll have to see the way to use it for my productivity, as long as it doesn’t consume a lot of my time to do that.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br&gt;
-Update, &lt;a href=&#34;https://medium.com/@OrkoHunter/deletefacebook-10f365c5d36e&#34; target=&#34;_blank&#34;&gt;I deleted my Facebook account&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The era of fake acquaintance</title>
-      <link>https://orkohunter.net/letters/the-era-of-fake-acquaintance/</link>
-      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/letters/the-era-of-fake-acquaintance/</guid>
-      <description>
-
-&lt;h2 id=&#34;i-wrote&#34;&gt;I wrote&lt;/h2&gt;
-
-&lt;p&gt;Something provocative happened with me yesterday. I was with :name-retracted: in CCD after you left. We were there for quite some time. Meanwhile, a group of people came in, including a friend from TLS. I went ahead and had a brief conversation with him. But when I noticed, there was one girl in the group whom I also knew! You know her; she is the one from the early times of :group-name-retracted: (I think you met her on :place-name-retracted:). There was a brief moment of eye contact, but it instigated no emotion. I could not even say &amp;ldquo;Hi&amp;rdquo; because of the bland reaction on our faces.&lt;/p&gt;
-
-&lt;p&gt;When we were leaving, we noticed that she was coming out of CCD too. From there to Veggies, :name-retracted: and I walked alongside her. I am not able to forget those 40 seconds; there was too much silence to remember.&lt;/p&gt;
-
-&lt;p&gt;Now here is the deal. Somewhere in the datacenters of Facebook Inc, there is a matrix which stores the connection between two nodes, and the edge value of her and me is True. There have been numerous CSS divs containing strings or bytecodes which either she or I have written, which got a click from the other, sometimes a further div of &amp;ldquo;comment&amp;rdquo; as well. Somehow, subconsciously my brain understood that this person and I had interacted a whole bunch and thus we are friends. But when the same mind physically spotted that same person for the first time in months, it was speechless.&lt;/p&gt;
-
-&lt;p&gt;For centuries, there have roughly and popularly been two types of edges between homo sapiens, either they are acquainted with each other, or they are not. For the past decade, a third type has emerged. You know someone on Facebook, you &amp;ldquo;talk&amp;rdquo; to them, but you don&amp;rsquo;t talk with that passion or eagerness to them in real life with using flesh and bones (Remember :name-retracted:?). For me, it is terrifying. What if people eventually stop using their mouth for conversations because Whatsapp and Messenger lets them use that gif meme to convey. What if we discover some other app or platform to express ourselves in the best way which is different than meeting the person and using our mouth, eyes, face, hands or smile to express?&lt;/p&gt;
-
-&lt;p&gt;And the fact that the first world countries already have incorporated a bit of this culture, simply raises questions on parenting. What if we are not concerned about our children, and the first friend they make do not physically exist around them. I am definitely not saying one is better than others, there are so many pros of the Scientific Revolution, Internet being a tiny monster of it. I am just saying that, are people responsible? Is Facebook responsible enough to know that it has created an illusion over friendships and relationship and does it care about it? From the weekly product and feature launches, for the sole purpose of us interacting more on their platform, and increasing their value as advertisers and not looking up from our phones, I think it does not care at all. Or is it in control of anyone to care about it? Something like a trained Deep Learning model, over which we only have very few control.&lt;/p&gt;
-
-&lt;p&gt;From a curious homosapien, who used the internet to blab to you about internet. But yes, I know we have to have this conversation when we meet and this exchange of email shouldn&amp;rsquo;t be the end, and that makes me feel better.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;name-retracted-responded&#34;&gt;:name-retracted: responded&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Hi!
-This predicament, as you are feeling, is understandable. The oddity of changing societal rules and relationships, brought about by social-media corporations, is at times overwhelming. But if you try to understand this phenomenon at an abstract level, then perhaps we can get a bigger picture.&lt;/p&gt;
-
-&lt;p&gt;What you have thought to be a &amp;ldquo;fake&amp;rdquo; acquaintance is not fake per se, but just another expression of the changes that are taking place in our society due to social media. It is at best, friendship in the normal sense of the word or at worst, a &amp;ldquo;virtual&amp;rdquo; acquaintance.&lt;/p&gt;
-
-&lt;p&gt;Humanity has come so far only because of the large-scale cooperations between diverse groups of people.This cooperation could be achieved, thanks to fictional stories like religions, society, and other collectivities which made it easier for people to trust each other. But as we all know, socio-political evolutions necessitated new stories to bind people together, and in the process, we developed theories like democracy, communism, nation-states to fit the narrative of the time better. So the critical thing to note here is that as the narrative has changed so have the rules governing the society.&lt;/p&gt;
-
-&lt;p&gt;It is in this context that I want to place your qualms about the internet. The internet is undoubtedly forcing us to adopt a new narrative of our time and respecting the course of history over several millennia; we must be ready to accept this reality and better adapt to the changing times by altering the &amp;ldquo;rules&amp;rdquo; of the society.&lt;/p&gt;
-
-&lt;p&gt;Coming to the specific case of &amp;ldquo;acquaintance on the facebook but not in real life,&amp;rdquo; I do not find anything odd here. In fact, I find it empowering that acquaintances could be made even without knowing each other in real life. It is for the first time human-history that you can cooperate and collaborate with others, on a large and expansive scale, even without knowing them in real life. You don&amp;rsquo;t need to have commonalities like religion, nationalities, ideologies and any other collectivities to come together and cooperate with each other. Cooperation is not predicated on external factors which are not in your control but internal factors that you can control. A person from Pakistan can send me a friend request on facebook, and if I want, I can become his friend and vice-versa. The acquaintance or the friendship, in this case, was established just because two persons wanted to become friends. How improbable this sounds without internet, in the complex realities of our time?&lt;/p&gt;
-
-&lt;p&gt;Coming to your regret about not talking to them with the same passion in real life, I think here the critical factor being emphasized by you is the emotional content of these acquaintances. That the emotionality of it all is diminishing is what you want to say. But the emotion is just an after-effect. It is not the cause. You become friend with someone because you find something good in them for you and hence better cooperation. That in the end, you develop emotional attachments is just a side-effect in my view. Sometimes these emotions may create a feedback loop and ensure even better cooperation, like two lovers getting married. But unmindful emotions may lead to undesired consequences too, like hyper-nationalists going berserk in their common love for the country. I think, as long as the cause of cooperation is understood well, side-effects like emotions can be controlled or channeled in a better way.&lt;/p&gt;
-
-&lt;p&gt;Techno-humanism aims to enhance human&amp;rsquo;s life using technology and binds humanity in a novel way that breaks the shackles of boundaries between nations, religious differences, and any other differences. In this respect at least, social media like facebook, twitter have done well, irrespective of whether it was their motive or not. Traditional relationships which we are most familiar with are undergoing a paradigm shift, and it&amp;rsquo;s again just a reflection of the changing times.&lt;/p&gt;
-
-&lt;p&gt;&amp;ndash;It is getting long. :P I hope my ramblings did not bore you. Hope to have a wide discussion on it over a cup of tea sometime. :D&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
