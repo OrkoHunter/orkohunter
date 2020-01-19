@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on Himanshu Mishra</title>
-    <link>https://orkohunter.net/categories/tech/</link>
-    <description>Recent content in Tech on Himanshu Mishra</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
+      <title>Tech on Himanshu Mishra</title>
+      <link>https://orkohunter.net/categories/tech/</link>
+      <description>Recent content in Tech on Himanshu Mishra</description>
+      <generator>Hugo -- gohugo.io</generator>
+      <language>en-us</language>
+      <copyright>Himanshu Mishra</copyright>
+      <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
 
-        <atom:link href="https://orkohunter.net/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://orkohunter.net/categories/tech/index.xml" rel="self" type="application/rss+xml"/>
 
 
       <item>
@@ -31,14 +31,12 @@
               &lt;p&gt;Lol, come to Linux already!&lt;/p&gt;
               &lt;hr&gt;
               &lt;p&gt;Note: I shall not be giving out a one-click solution to monitor DC searches intentionally even if
-              it
-              were possible. But if you are dedicated enough, you can figure things out by reading it. Also, I’m not the
-              first person to know about this.&lt;/p&gt;
+              it were possible. But if you are dedicated enough, you can figure things out by reading it. Also, I’m not
+              the first person to know about this.&lt;/p&gt;
               &lt;blockquote&gt;
               &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Direct_Connect_%28protocol%29&#34;&gt;What is DC?&lt;/a&gt;
               It’s a peer-to-peer file sharing protocol. Computers connected with each other can share files among them,
-              and
-              if you are on LAN, you get them on a terrific speed.&lt;/p&gt;
+              and if you are on LAN, you get them on a terrific speed.&lt;/p&gt;
               &lt;/blockquote&gt;
               &lt;blockquote&gt;
               &lt;p&gt;GET TO THE POINT!!&lt;/p&gt;
@@ -46,21 +44,17 @@
               &lt;p&gt;Alright, alright.&lt;/p&gt;
               &lt;h2 id=&#34;theory&#34;&gt;Theory&lt;/h2&gt;
               &lt;p&gt;Let’s say Mr X and I are connected to a DC hub. Let’s say it happens that both of us are online
-              at
-              the same time. Mr X searched for &lt;code&gt;New movies&lt;/code&gt; in their favorite DC client e.g.
-              DC++,
-              LinuxDC++, etc. Their client sends this request to the hub we both are connected, to fetch a search
-              result.
-              The hub then forwards the request to &lt;em&gt;everyone&lt;/em&gt; who is connected to it and returns the
-              index for Mr X to click and download any file from anyone.&lt;/p&gt;
+              at the same time. Mr X searched for &lt;code&gt;New movies&lt;/code&gt; in their favorite DC client e.g.
+              DC++, LinuxDC++, etc. Their client sends this request to the hub we both are connected, to fetch a search
+              result. The hub then forwards the request to &lt;em&gt;everyone&lt;/em&gt; who is connected to it and
+              returns the index for Mr X to click and download any file from anyone.&lt;/p&gt;
               &lt;blockquote&gt;
               &lt;p&gt;SO GIVE ME THE SCRIPT. OR DO YOU HAVE THE CODE OR A REPOSITORY?&lt;/p&gt;
               &lt;/blockquote&gt;
               &lt;p&gt;There isn’t really a script or any code. :/&lt;/p&gt;
               &lt;h2 id=&#34;exploit&#34;&gt;Exploit&lt;/h2&gt;
               &lt;p&gt;Because of the theory, we can sit back, stay connected to the hub and receive a holy large amount
-              of
-              data like&lt;/p&gt;
+              of data like&lt;/p&gt;
               &lt;ul&gt;
               &lt;li&gt;Who joined/left the hub when, their nick and their IP address&lt;/li&gt;
               &lt;li&gt;What are people searching for and IP address associated with each query&lt;/li&gt;
@@ -70,43 +64,33 @@
               &lt;h2 id=&#34;technology&#34;&gt;Technology&lt;/h2&gt;
               &lt;p&gt;Normal DC clients won’t allow us to see these requests. There is a client known as &lt;a href=&#34;https://dev.yorhel.nl/ncdc&#34;&gt;ncdc&lt;/a&gt;
               (distributed as a binary) which doesn’t really have a GUI, so you can run it on a terminal (Aah, the feels
-              it
-              gives!)&lt;/p&gt;
+              it gives!)&lt;/p&gt;
               &lt;ul&gt;
               &lt;li&gt;Use ncdc to connect to the hub&lt;/li&gt;
               &lt;li&gt;Enable logging to a file and set &lt;code&gt;log_debug&lt;/code&gt; to True&lt;/li&gt;
               &lt;li&gt;&lt;em&gt;Note: This will generate a lot of data if you’re connected to a large hub and thus
-              make
-              sure you keep clearing the log file&lt;/em&gt;&lt;/li&gt;
+              make sure you keep clearing the log file&lt;/em&gt;&lt;/li&gt;
               &lt;li&gt;Use &lt;code&gt;tail -f /path/to/logfile&lt;/code&gt; to see the queries sent by DC&lt;/li&gt;
               &lt;li&gt;Parse the queries and tada!&lt;/li&gt;
               &lt;li&gt;Protip: You can feed &lt;a href=&#34;https://www.elastic.co/products/kibana&#34;&gt;Kibana&lt;/a&gt;
               the data and visualize them.&lt;/li&gt;
               &lt;/ul&gt;
               &lt;p&gt;You probably will have to set some config in ncdc to change from Passive mode to Active mode or
-              else,
-              some hubs mights ban you. Google properly, read the ncdc documentation and you’ll be fine.&lt;/p&gt;
+              else, some hubs mights ban you. Google properly, read the ncdc documentation and you’ll be fine.&lt;/p&gt;
               &lt;p&gt;EDIT: &lt;a href=&#34;https://medium.com/@icyflame&#34;&gt;Siddharth Kannan&lt;/a&gt; used
-              tcpdump to
-              capture the TCP/IP packets which contains the DC query strings as well. Check out the 107,000 search
-              results
-              he accumulated in a week over here stored as &lt;code&gt;all_packet_info.json&lt;/code&gt;. This is the
-              code
-              he used&lt;/p&gt;
+              tcpdump to capture the TCP/IP packets which contains the DC query strings as well. Check out the 107,000
+              search results he accumulated in a week over here stored as &lt;code&gt;all_packet_info.json&lt;/code&gt;.
+              This is the code he used&lt;/p&gt;
               &lt;pre&gt;&lt;code&gt;sudo tcpdump -b -t src 10.109.xx.xx -w incoming-search-`date +%s`.pcap -c 1000;
               &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;live-streaming&#34;&gt;Live Streaming&lt;/h2&gt;
               &lt;p&gt;It’s hard. But if you really want to live stream the searches and that to be accessible outside
-              of
-              the campus network, there is a hack. You can have a server hosted somewhere outside the network which is
-              going
-              to stream data to the public. Share the URL of this server to people you want to. Create an endpoint over
-              here
-              which can receive data through POST request. Now, use your laptop from inside the network to constantly
-              send
-              requests on to the server. Make sure to use authentication by headers to avoid exploitation!&lt;/p&gt;
+              of the campus network, there is a hack. You can have a server hosted somewhere outside the network which
+              is going to stream data to the public. Share the URL of this server to people you want to. Create an
+              endpoint over here which can receive data through POST request. Now, use your laptop from inside the
+              network to constantly send requests on to the server. Make sure to use authentication by headers to avoid
+              exploitation!&lt;/p&gt;
               &lt;p&gt;There’s &lt;a href=&#34;https://github.com/OrkoHunter/dc-audio/&#34;&gt;some&lt;/a&gt; leftover
-              &lt;a
-              href=&#34;https://github.com/OrkoHunter/dctrends&#34;&gt;code&lt;/a&gt; if you can find use of them.&lt;/p&gt;
+              &lt;a href=&#34;https://github.com/OrkoHunter/dctrends&#34;&gt;code&lt;/a&gt; if you can find use of them.&lt;/p&gt;
               &lt;p&gt;Now you have this, here’s something you need to remember: Don’t be dick. That’s all.&lt;/p&gt;
               &lt;p&gt;Happy Hacking! ✨&lt;/p&gt;
           </description>
@@ -175,9 +159,9 @@
               &lt;/blockquote&gt;
               &lt;p&gt;Both Facebook and Twitter allow posts to be publicly accessible by people who have not joined the
               platform. It is good to note that the default setting of Facebook is to be private with posts and Twitter
-              to
-              be open to the web. While managing the Facebook and Twitter account of an organization I am involved in, I
-              noticed a serious design pattern involved in displaying the public posts and their stark differences.&lt;/p&gt;
+              to be open to the web. While managing the Facebook and Twitter account of an organization I am involved
+              in, I noticed a serious design pattern involved in displaying the public posts and their stark
+              differences.&lt;/p&gt;
               &lt;h4 id=&#34;case-1-stages-of-interacting-withtwitter&#34;&gt;Case 1: Stages of interacting with Twitter&lt;/h4&gt;
               &lt;p&gt;If you open a &lt;a href=&#34;https://twitter.com/kossiitkgp/status/954776125573554176&#34;&gt;public
               tweet&lt;/a&gt; in incognito mode, or while being logged out, you’ll land on something like this —&lt;/p&gt;
@@ -192,9 +176,8 @@
               &lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*fgnX8sn_C3B7RBuzTF614g.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
               &lt;p&gt;Stage 2 of a public tweet (while being logged out)You can see that the majority percentage of the
               web page is covered with the profile information. On the sidebar and header, there are interactive
-              elements
-              which lead you to sign up on the platform. And you would do, if you seem impressed. Let’s have a look at
-              Facebook.&lt;/p&gt;
+              elements which lead you to sign up on the platform. And you would do, if you seem impressed. Let’s have a
+              look at Facebook.&lt;/p&gt;
               &lt;p&gt;&lt;strong&gt;Case 2: Stages of interacting with a public post on Facebook&lt;/strong&gt;&lt;/p&gt;
               &lt;p&gt;If you open a &lt;a href=&#34;https://www.facebook.com/kossiitkgp/photos/a.551030724973932.1073741826.524856034258068/1588200897923571/&#34;&gt;public
               post&lt;/a&gt; on Facebook, you land on something like this —&lt;/p&gt;
@@ -205,21 +188,17 @@
               only way to close this banner is to find that tiny ***Not Now ***text below the big Green &lt;em&gt;Create
               New Account&lt;/em&gt;. An interesting design flaw (whether intentional or by mistake) is that the
               typography of *Not Now *and &lt;em&gt;Forgotten Account?&lt;/em&gt; is exactly the same, even when the
-              later
-              button is clicked once a hundred times and the former 99 out of 100 times. I think it’s intentional.&lt;/p&gt;
+              later button is clicked once a hundred times and the former 99 out of 100 times. I think it’s intentional.&lt;/p&gt;
               &lt;p&gt;Let’s click on &lt;em&gt;Not Now&lt;/em&gt;, and move the &lt;strong&gt;Stage 2&lt;/strong&gt; of
               the view.&lt;/p&gt;
               &lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/1*DjkjiZQ7_yC_IADORFLO_Q.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
               &lt;p&gt;Stage 2 of the view, after clicking Not Now in Stage 1On this webpage, the area covered with the
               information about the post is still comparable or maybe less than the &lt;em&gt;engageble area of log in
-              and
-              sign up&lt;/em&gt;. It’s funny to note that there are &lt;strong&gt;five&lt;/strong&gt; interactive
-              buttons
-              on this single web page to Join Facebook.&lt;/p&gt;
+              and sign up&lt;/em&gt;. It’s funny to note that there are &lt;strong&gt;five&lt;/strong&gt; interactive
+              buttons on this single web page to Join Facebook.&lt;/p&gt;
               &lt;h4 id=&#34;conclusions&#34;&gt;Conclusions:&lt;/h4&gt;
               &lt;p&gt;— Facebook’s main focus is on targeting as many people as they can, while Twitter’s main focus
-              does
-              not &lt;em&gt;appear&lt;/em&gt; so. Even if both the products want users, Facebook is &lt;strong&gt;desperately
+              does not &lt;em&gt;appear&lt;/em&gt; so. Even if both the products want users, Facebook is &lt;strong&gt;desperately
               user-hungry&lt;/strong&gt; in public.&lt;/p&gt;
               &lt;p&gt;— Content is not respected on Facebook while Twitter values the content over anything else.
               Eventually content dies out on Facebook while people keep retweeting and referring 5 year old tweets.&lt;/p&gt;
@@ -267,8 +246,7 @@
               If the implementation is easy to explain, it may be a good idea.
               Namespaces are one honking great idea -- let&#39;s do more of those!
               &lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;3-the-missing-line-from-the-classic&#34;&gt;3. The missing line
-              from
-              the classic&lt;/h3&gt;
+              from the classic&lt;/h3&gt;
               &lt;p&gt;The Zen of Python was introduced in &lt;a href=&#34;https://www.python.org/dev/peps/pep-0020/#id2&#34;&gt;PEP
               20&lt;/a&gt;. It is supposed to be 20 aphorisms, but only 19 of which have been written down.&lt;/p&gt;
               &lt;h3 id=&#34;4-a-simple-life-lesson&#34;&gt;4. A simple life lesson&lt;/h3&gt;
@@ -392,8 +370,7 @@
               &lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;10-naming-identifiers-can-be-unspeakably-cool&#34;&gt;10. Naming
               identifiers can be unspeakably cool&lt;/h3&gt;
               &lt;p&gt;Just when you thought that working in Python couldn&#39;t possibly &lt;em&gt;be&lt;/em&gt; any
-              more
-              fun,&lt;/p&gt;
+              more fun,&lt;/p&gt;
               &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code
               class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span
               style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt;
@@ -456,9 +433,8 @@
               &lt;span style=&#34;color:#f92672&#34;&gt;^&lt;/span&gt;
               &lt;span style=&#34;color:#a6e22e&#34;&gt;SyntaxError&lt;/span&gt;: invalid syntax
               &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Recognized that the != inequality operator in Python 3.0 was
-              a
-              horrible, finger pain inducing mistake, the FLUFL reinstates the &amp;lt;&amp;gt; diamond operator as the
-              sole spelling.&lt;/p&gt;
+              a horrible, finger pain inducing mistake, the FLUFL reinstates the &amp;lt;&amp;gt; diamond operator as
+              the sole spelling.&lt;/p&gt;
               &lt;h3 id=&#34;13-inpynite&#34;&gt;13. InPynite?&lt;/h3&gt;
               &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code
               class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span
@@ -482,8 +458,7 @@
               &lt;li&gt;Maybe just to show that there always should be a new line at the end of a file!&lt;/li&gt;
               &lt;li&gt;Not an easter egg, a joke in the interpreter&lt;/li&gt;
               &lt;li&gt;It opens this &lt;a href=&#34;https://xkcd.com/353&#34;&gt;xkcd comic&lt;/a&gt; which
-              demonstrates
-              how easy it is to do stuff with modules&lt;/li&gt;
+              demonstrates how easy it is to do stuff with modules&lt;/li&gt;
               &lt;li&gt;This is to instantly close down any conversation about introducing curly braces to Python&lt;/li&gt;
               &lt;li&gt;Guido van Rossum is a big fan of &lt;a href=&#34;https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus&#34;&gt;Monty
               Python&#39;s Flying Circus&lt;/a&gt;&lt;/li&gt;
@@ -498,13 +473,11 @@
               &lt;li&gt;The &lt;a href=&#34;https://www.python.org/dev/peps/pep-0401/&#34;&gt;PEP 401&lt;/a&gt; is an
               April Fools&amp;rsquo; Joke - The PEP&#39;s number is 401, i.e. 4/01 or April 1st (April Fools&amp;rsquo;
               Day). The PEP states that Guido van Rossum is stepping down. The new title given to him would be
-              pronounced
-              &amp;ldquo;BDEVIL&amp;rdquo; (Benevolent Dictator Emeritus Vacationing Indefinitely from the Language) and
-              Guido&#39;s successor will be Barry Warsaw, or as he is affectionately known, Uncle Barry. Uncle Barry&#39;s
-              official title is &amp;ldquo;FLUFL&amp;rdquo; (Friendly Language Uncle For Life). There are in-jokes about
-              the Parrot virtual machine and the &amp;ldquo;non-existent&amp;rdquo; Python Secret Underground (possibly
-              a
-              throw-back to &lt;a href=&#34;https://en.wikipedia.org/wiki/There_Is_No_Cabal&#34;&gt;&amp;ldquo;TINC&amp;rdquo;
+              pronounced &amp;ldquo;BDEVIL&amp;rdquo; (Benevolent Dictator Emeritus Vacationing Indefinitely from the
+              Language) and Guido&#39;s successor will be Barry Warsaw, or as he is affectionately known, Uncle Barry.
+              Uncle Barry&#39;s official title is &amp;ldquo;FLUFL&amp;rdquo; (Friendly Language Uncle For Life). There
+              are in-jokes about the Parrot virtual machine and the &amp;ldquo;non-existent&amp;rdquo; Python Secret
+              Underground (possibly a throw-back to &lt;a href=&#34;https://en.wikipedia.org/wiki/There_Is_No_Cabal&#34;&gt;&amp;ldquo;TINC&amp;rdquo;
               on USENET&lt;/a&gt;).&lt;/li&gt;
               &lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/Python/comments/6wrd8t/nice_lil_easter_egg_i_suppose/&#34;&gt;Source&lt;/a&gt;.&lt;/li&gt;
               &lt;/ol&gt;
@@ -617,8 +590,7 @@
               ago. Let him do a reverse-i-search with &lt;em&gt;Ctrl+R&lt;/em&gt;. Nope, can’t remember sh*t. Browser
               search history? 25 web pages found matching &lt;em&gt;X&lt;/em&gt;. Argh!
               Writwik finally finds the solution. From this time Writwik starts writing the commands somewhere online
-              for
-              the future.
+              for the future.
               Wait, why shouldn’t he keep the command in his terminal itself if this is only place where he’ll ever have
               use it?&lt;/p&gt;
               &lt;/blockquote&gt;
@@ -629,10 +601,8 @@
               &lt;h3 id=&#34;keep-is-distributed-across-all-your-computers&#34;&gt;Keep is distributed across all your
               computers&lt;/h3&gt;
               &lt;p&gt;If not already, use keep register to create a database of your commands on the Keep remote. You
-              can
-              push and pull the commands from any of your computers. This comes handy when we are in our ssh sessions,
-              and
-              all we’ve got at our disposal, is a shell.&lt;/p&gt;
+              can push and pull the commands from any of your computers. This comes handy when we are in our ssh
+              sessions, and all we’ve got at our disposal, is a shell.&lt;/p&gt;
               &lt;h3 id=&#34;keep-is-open-source&#34;&gt;Keep is Open Source ❤&lt;/h3&gt;
               &lt;p&gt;If you like the tool and have some feedback, please create an issue &lt;a href=&#34;https://github.com/orkohunter/keep&#34;&gt;here&lt;/a&gt;.
               Pull Requests are most welcome !&lt;/p&gt;
@@ -684,14 +654,14 @@
               cows[18]=kiss
               cows[19]=kitty
               cows[20]=koala
-cows[21]=koshcows[22]=luke-koala
-cows[23]=meow
-cows[24]=milk
-cows[25]=moofasa
-cows[26]=moose
-cows[27]=mutilated
-cows[28]=ren
-cows[29]=satanic
+              cows[21]=koshcows[22]=luke-koala
+              cows[23]=meow
+              cows[24]=milk
+              cows[25]=moofasa
+              cows[26]=moose
+              cows[27]=mutilated
+              cows[28]=ren
+              cows[29]=satanic
               cows[30]=sheep
               cows[31]=skeleton
               cows[32]=small
@@ -718,98 +688,99 @@ cows[29]=satanic
 </description>
     </item>
 
-    <item>
-      <title>Quick guide to git and github (Part 1)</title>
-      <link>https://orkohunter.net/blog/quick-guide-to-git-and-github-1/</link>
-      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      <item>
+          <title>Quick guide to git and github (Part 1)</title>
+          <link>https://orkohunter.net/blog/quick-guide-to-git-and-github-1/</link>
+          <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
 
-        <guid>https://orkohunter.net/blog/quick-guide-to-git-and-github-1/</guid>
-      <description>&lt;blockquote&gt;
-          &lt;p&gt;Before we start, make sure you have an account on GitHub. Go to &lt;a href=&#34;https://github.com/&#34;&gt;https://github.com&lt;/a&gt;.
-          Pick a username, enter your email id and choose a password. Next, choose &lt;em&gt;unlimited personal
-          repositories for free&lt;/em&gt;. In the final step you can give some input to github and voila ! You are now
-          a github user. (If you are redirect from KWoC, use the username there.) There is plethora of git guides over
-          internet, some are really good and some really suck. I here am writing a simple blog for the newbies who have
-          successfully made an account over github and are really excited about it.&lt;/p&gt;
-          &lt;/blockquote&gt;
-          &lt;p&gt;&lt;strong&gt;GitHub&lt;/strong&gt; is a web-based Git repository hosting service, which offers some
-          of the distributed revision control and source code management(SCM) functionality of Git as well as adding its
-          own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical
-          interface and desktop as well as mobile integration&lt;/p&gt;
-          &lt;p&gt;Or simply&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Github connects you with other people who are interested in sharing and creating
-          together.&lt;/strong&gt;&lt;/p&gt;
-          &lt;p&gt;So there are really two ways to begin with. Here goes the first one.&lt;/p&gt;
-          &lt;p&gt;Create a repository : Repository is what you call the stuff you are going to upload and work on. Go
-          to &lt;a href=&#34;https://github.com/new&#34;&gt;https://github.com/new&lt;/a&gt; and create a repository.
-          Let’s name it hello-world. 
-          Add some description, or you might want to add it later. Initialize it with a Readme. It&#39;s a good practice
-          and let&#39;s you clone it immediately. (Yeah right, see below)&lt;/p&gt;
-          &lt;p&gt;Clone it : Open your console, move to the directory where you want to work and do this.&lt;/p&gt;
-          &lt;pre&gt;&lt;code&gt;$ git clone https://github.com/username/hello-world.git
-          &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This will create a directory in your computer. Now, this isn’t a simple
-          directory. It is a ‘clone’ of the github repository. You can say that the files in it are controlled by the
-          version control system git and tracked with the repository on github. Note : If you have not installed git,
-          see &lt;a href=&#34;https://git-scm.com/book/en/v2/Getting-Started-Installing-Git&#34;&gt;this&lt;/a&gt;.&lt;/p&gt;
-          &lt;p&gt;Do this,&lt;/p&gt;
-          &lt;pre&gt;&lt;code&gt;$ cd hello-world
-          $ git remote -v
-          origin https://github.com/&amp;lt;username&amp;gt;/hello-world.git (fetch)
-          origin https://github.com/&amp;lt;username&amp;gt;/hello-world.git (push)
-          &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This shows that the link to repository of yours at github is known by the
-          name origin over here.&lt;/p&gt;
-          &lt;p&gt;Now, you will have to configure your name and your email address which you will be using for making
-          the commits (don’t worry about what it means right now, we will cover it soon). This configuring is ideally
-          done only once in a lifetime of your system (or unless you purposely remove your ~/.gitconfig file but that’s
-          the story of another time).&lt;/p&gt;
-          &lt;pre&gt;&lt;code&gt;$ git config --global user.name &amp;quot;ABC XYZ&amp;quot;
-          $ git config --global user.email &amp;quot;abc@xyz.com&amp;quot;
-          &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now another way of this is first you create the directory on your computer.
-          Navigate inside it and do&lt;/p&gt;
-          &lt;pre&gt;&lt;code&gt;$ git init
-          &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This will initialize an empty git repository inside it. Later, you can add
-          the link to the repository by the git remote command like this&lt;/p&gt;
-          &lt;pre&gt;&lt;code&gt;$ git remote add origin https://github.com/&amp;lt;username&amp;gt;/hello-world
-          &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You can always use &lt;code&gt;git remote -v&lt;/code&gt; command to track
-          the aliases.&lt;/p&gt;
-          &lt;p&gt;Making the first change : Okay now we are in condition of adding some files or code to this
-          repository. I am going to make a python file with hello world program and publish the change over the github
-          repository too. 
-          So make a new file say hello.py inside the directory, open it with your favorite editor and write the one line
-          code to print whatever you want. Why just hello world? (Because dmr did it!) Now write it and save the file.&lt;/p&gt;
-          &lt;p&gt;The first thing you should always do is to see whether you have done any changes or not in the
-          repository. This can be done by&lt;/p&gt;
-          &lt;p&gt;&lt;code&gt;$ git status&lt;/code&gt;&lt;/p&gt;
-          &lt;p&gt;After the changes you made, you must be getting this after git status&lt;/p&gt;
-          &lt;pre&gt;&lt;code&gt;On branch master
-          Your branch is up-to-date with &#39;origin/master&#39;.
-          Untracked files:
-          (use &amp;quot;git add &amp;lt;file&amp;gt;...&amp;quot; to include in what will be committed)
-          hello.py
-          nothing added to commit but untracked files present (use &amp;quot;git add&amp;quot; to track)Add, Commit,
-          Push! : In your console, do this.
+          <guid>https://orkohunter.net/blog/quick-guide-to-git-and-github-1/</guid>
+          <description>&lt;blockquote&gt;
+              &lt;p&gt;Before we start, make sure you have an account on GitHub. Go to &lt;a href=&#34;https://github.com/&#34;&gt;https://github.com&lt;/a&gt;.
+              Pick a username, enter your email id and choose a password. Next, choose &lt;em&gt;unlimited personal
+              repositories for free&lt;/em&gt;. In the final step you can give some input to github and voila ! You are
+              now a github user. (If you are redirect from KWoC, use the username there.) There is plethora of git
+              guides over internet, some are really good and some really suck. I here am writing a simple blog for the
+              newbies who have successfully made an account over github and are really excited about it.&lt;/p&gt;
+              &lt;/blockquote&gt;
+              &lt;p&gt;&lt;strong&gt;GitHub&lt;/strong&gt; is a web-based Git repository hosting service, which offers
+              some of the distributed revision control and source code management(SCM) functionality of Git as well as
+              adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based
+              graphical interface and desktop as well as mobile integration&lt;/p&gt;
+              &lt;p&gt;Or simply&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Github connects you with other people who are interested in sharing and creating
+              together.&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;So there are really two ways to begin with. Here goes the first one.&lt;/p&gt;
+              &lt;p&gt;Create a repository : Repository is what you call the stuff you are going to upload and work on.
+              Go to &lt;a href=&#34;https://github.com/new&#34;&gt;https://github.com/new&lt;/a&gt; and create a
+              repository. Let’s name it hello-world. 
+              Add some description, or you might want to add it later. Initialize it with a Readme. It&#39;s a good
+              practice and let&#39;s you clone it immediately. (Yeah right, see below)&lt;/p&gt;
+              &lt;p&gt;Clone it : Open your console, move to the directory where you want to work and do this.&lt;/p&gt;
+              &lt;pre&gt;&lt;code&gt;$ git clone https://github.com/username/hello-world.git
+              &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This will create a directory in your computer. Now, this isn’t a simple
+              directory. It is a ‘clone’ of the github repository. You can say that the files in it are controlled by
+              the version control system git and tracked with the repository on github. Note : If you have not installed
+              git, see &lt;a href=&#34;https://git-scm.com/book/en/v2/Getting-Started-Installing-Git&#34;&gt;this&lt;/a&gt;.&lt;/p&gt;
+              &lt;p&gt;Do this,&lt;/p&gt;
+              &lt;pre&gt;&lt;code&gt;$ cd hello-world
+              $ git remote -v
+              origin https://github.com/&amp;lt;username&amp;gt;/hello-world.git (fetch)
+              origin https://github.com/&amp;lt;username&amp;gt;/hello-world.git (push)
+              &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This shows that the link to repository of yours at github is known by
+              the name origin over here.&lt;/p&gt;
+              &lt;p&gt;Now, you will have to configure your name and your email address which you will be using for
+              making the commits (don’t worry about what it means right now, we will cover it soon). This configuring is
+              ideally done only once in a lifetime of your system (or unless you purposely remove your ~/.gitconfig file
+              but that’s the story of another time).&lt;/p&gt;
+              &lt;pre&gt;&lt;code&gt;$ git config --global user.name &amp;quot;ABC XYZ&amp;quot;
+              $ git config --global user.email &amp;quot;abc@xyz.com&amp;quot;
+              &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now another way of this is first you create the directory on your
+              computer. Navigate inside it and do&lt;/p&gt;
+              &lt;pre&gt;&lt;code&gt;$ git init
+              &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This will initialize an empty git repository inside it. Later, you can
+              add the link to the repository by the git remote command like this&lt;/p&gt;
+              &lt;pre&gt;&lt;code&gt;$ git remote add origin https://github.com/&amp;lt;username&amp;gt;/hello-world
+              &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You can always use &lt;code&gt;git remote -v&lt;/code&gt; command to
+              track the aliases.&lt;/p&gt;
+              &lt;p&gt;Making the first change : Okay now we are in condition of adding some files or code to this
+              repository. I am going to make a python file with hello world program and publish the change over the
+              github repository too. 
+              So make a new file say hello.py inside the directory, open it with your favorite editor and write the one
+              line code to print whatever you want. Why just hello world? (Because dmr did it!) Now write it and save
+              the file.&lt;/p&gt;
+              &lt;p&gt;The first thing you should always do is to see whether you have done any changes or not in the
+              repository. This can be done by&lt;/p&gt;
+              &lt;p&gt;&lt;code&gt;$ git status&lt;/code&gt;&lt;/p&gt;
+              &lt;p&gt;After the changes you made, you must be getting this after git status&lt;/p&gt;
+              &lt;pre&gt;&lt;code&gt;On branch master
+              Your branch is up-to-date with &#39;origin/master&#39;.
+              Untracked files:
+              (use &amp;quot;git add &amp;lt;file&amp;gt;...&amp;quot; to include in what will be committed)
+              hello.py
+              nothing added to commit but untracked files present (use &amp;quot;git add&amp;quot; to track)Add, Commit,
+              Push! : In your console, do this.
 
-          $ git add .
-          &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This adds all the files in the track which you have changed. 
-          Now it’s time to commit that change. By committing, git understands that you want the change to be in record.
-          Every commit is accompanied with a message that appears on the log (git log). A commit should represent one
-          logical change only which should be supported by a relevant commit message. The convention is to write the
-          commit in the verbal form ie. tell the computer to do that for you. Do this&lt;/p&gt;
-          &lt;p&gt;&lt;code&gt;$ git commit -m &amp;quot;add hello.py&amp;quot;&lt;/code&gt;&lt;/p&gt;
-          &lt;p&gt;You’ve made your first commit! But it won’t be appearing over github, because you made the changes
-          locally. You need to push it over the web. For that, you use&lt;/p&gt;
-          &lt;p&gt;&lt;code&gt;$ git push&lt;/code&gt;&lt;/p&gt;
-          &lt;p&gt;Or,&lt;/p&gt;
-          &lt;p&gt;&lt;code&gt;$ git push origin&lt;/code&gt;&lt;/p&gt;
-          &lt;p&gt;to say git where actually you are pushing it to. Or,&lt;/p&gt;
-          &lt;p&gt;&lt;code&gt;$ git push origin master&lt;/code&gt;&lt;/p&gt;
-          &lt;p&gt;to say git over what branch on origin you are pushing it to.&lt;/p&gt;
-          &lt;p&gt;That’s it! You’ve published your changes to your GitHub repository.&lt;/p&gt;
-          &lt;p&gt;NOTE : This is a very basic start. There are more concepts to be explored. You can search for
-          specifics. StackOverflow also has great resources. We’ll leave the nitty gritties of Git for another day.&lt;/p&gt;
-          &lt;p&gt;Happy Coding!&lt;/p&gt;
-      </description>
-    </item>
+              $ git add .
+              &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This adds all the files in the track which you have changed. 
+              Now it’s time to commit that change. By committing, git understands that you want the change to be in
+              record. Every commit is accompanied with a message that appears on the log (git log). A commit should
+              represent one logical change only which should be supported by a relevant commit message. The convention
+              is to write the commit in the verbal form ie. tell the computer to do that for you. Do this&lt;/p&gt;
+              &lt;p&gt;&lt;code&gt;$ git commit -m &amp;quot;add hello.py&amp;quot;&lt;/code&gt;&lt;/p&gt;
+              &lt;p&gt;You’ve made your first commit! But it won’t be appearing over github, because you made the
+              changes locally. You need to push it over the web. For that, you use&lt;/p&gt;
+              &lt;p&gt;&lt;code&gt;$ git push&lt;/code&gt;&lt;/p&gt;
+              &lt;p&gt;Or,&lt;/p&gt;
+              &lt;p&gt;&lt;code&gt;$ git push origin&lt;/code&gt;&lt;/p&gt;
+              &lt;p&gt;to say git where actually you are pushing it to. Or,&lt;/p&gt;
+              &lt;p&gt;&lt;code&gt;$ git push origin master&lt;/code&gt;&lt;/p&gt;
+              &lt;p&gt;to say git over what branch on origin you are pushing it to.&lt;/p&gt;
+              &lt;p&gt;That’s it! You’ve published your changes to your GitHub repository.&lt;/p&gt;
+              &lt;p&gt;NOTE : This is a very basic start. There are more concepts to be explored. You can search for
+              specifics. StackOverflow also has great resources. We’ll leave the nitty gritties of Git for another day.&lt;/p&gt;
+              &lt;p&gt;Happy Coding!&lt;/p&gt;
+          </description>
+      </item>
 
       <item>
           <title>Google Summer of Code 2016 Report : Stingray</title>
@@ -872,20 +843,17 @@ cows[29]=satanic
 
           <guid>https://orkohunter.net/blog/losing-and-regaining-truct-on-gitignore/</guid>
           <description>&lt;p&gt;I would like to share an interesting story of a problem which I’ve faced many times
-              since I
-              started using git. This story is about “losing and re-gaining trust on .gitignore”.&lt;/p&gt;
+              since I started using git. This story is about “losing and re-gaining trust on .gitignore”.&lt;/p&gt;
               &lt;p&gt;&lt;strong&gt;Event :&lt;/strong&gt; Create a Python app. Run it, test it and Boom! Now it’s time
-              to
-              push it to GitHub.&lt;/p&gt;
+              to push it to GitHub.&lt;/p&gt;
               &lt;pre&gt;&lt;code&gt;git init .
               git remote add https://github.com/iamsosmart/notsomuch.git
               git push -u origin master
               &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;em&gt;Shit, Shit, Shit ! I wasn’t supposed to push the pyc&lt;/em&gt;
               files. Oh this looks so lame.&lt;/p&gt;
               &lt;p&gt;If you’re amateur enough, not to feel uncomfortable after pushing those files, you’re golden.
-              Else,
-              you’ll think of something called .gitignore which helps in ignoring unwanted files to be added in your git
-              repository.&lt;/p&gt;
+              Else, you’ll think of something called .gitignore which helps in ignoring unwanted files to be added in
+              your git repository.&lt;/p&gt;
               &lt;p&gt;You’ll then search for a good gitignore file for Python and Google will give you exactly what you
               want, &lt;a href=&#34;https://github.com/github/gitignore/blob/master/Python.gitignore&#34;&gt;Python.gitignore&lt;/a&gt;.&lt;/p&gt;
               &lt;pre&gt;&lt;code&gt;wget -O .gitignore
@@ -893,20 +861,17 @@ cows[29]=satanic
               git add -A
               git commit -m &amp;quot;Added .gitignore file&amp;quot;
               &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now, you’ll try to remove the pyc files, using rm -rf *.pyc. But as soon
-              as
-              you&#39;ll do this, (and if you&#39;re using oh-my-zsh), you&#39;ll see a cross on your prompt. That
-              means,
-              git has &lt;em&gt;detected&lt;/em&gt; a change.&lt;/p&gt;
+              as you&#39;ll do this, (and if you&#39;re using oh-my-zsh), you&#39;ll see a cross on your prompt. That
+              means, git has &lt;em&gt;detected&lt;/em&gt; a change.&lt;/p&gt;
               &lt;p&gt;&lt;em&gt;But wait? Why is git detecting changes to pyc files, when I’ve already added the
               gitignore!&lt;/em&gt;&lt;/p&gt;
               &lt;p&gt;Now, if you’re me, you’ll feel betrayed by git. You’ll make a few calls and send messages to
-              people,
-              and say &lt;em&gt;“gitignore is not obeying me”&lt;/em&gt;, and they’ll hang up on you, saying &lt;em&gt;“it
-              must be your fault”&lt;/em&gt;.&lt;/p&gt;
+              people, and say &lt;em&gt;“gitignore is not obeying me”&lt;/em&gt;, and they’ll hang up on you, saying
+              &lt;em&gt;“it must be your fault”&lt;/em&gt;.&lt;/p&gt;
               &lt;p&gt;Believe me, even the “future me” would have said the same.&lt;/p&gt;
               &lt;p&gt;So, the problem is that once you have staged a file, gitignore won’t have anything to do with it.
-              So,
-              if you’ll remove the staged file (pyc files, in this case), git will say to you that you’ve deleted them.&lt;/p&gt;
+              So, if you’ll remove the staged file (pyc files, in this case), git will say to you that you’ve deleted
+              them.&lt;/p&gt;
               &lt;p&gt;Later on, I googled the string “gitignore not working” and O thanks to stackoverflow, I was
               rescued.&lt;/p&gt;
               &lt;p&gt;After adding the .gitignore, simply do this&lt;/p&gt;
@@ -916,8 +881,7 @@ cows[29]=satanic
               &lt;p&gt;, I must have done&lt;/p&gt;
               &lt;p&gt;&lt;code&gt;git rm -rf *.pyc&lt;/code&gt;&lt;/p&gt;
               &lt;p&gt;Ta-da ! And that’s when, my friends, the trust I have in git’s simplicity increased by a
-              tini-tiny
-              bit.&lt;/p&gt;
+              tini-tiny bit.&lt;/p&gt;
               &lt;p&gt;Thank you for reading.&lt;/p&gt;
               &lt;p&gt;When a python script is compiled, it generates compiled code as pyc files, also called byte code.&lt;/p&gt;
           </description>
@@ -931,39 +895,27 @@ cows[29]=satanic
           <guid>https://orkohunter.net/blog/ping-me-and-keep/</guid>
           <description>&lt;p&gt;The semester is about to end and I have no clue of what is going in the end semester
               examinations. I have been studying good amount of ugly Mathematics but that’s okay. I usually lose my
-              temper
-              studying my other subjects Environmental Science, Biology and Economics. Really? For how long will I have
-              to
-              study “everything”. Sigh.&lt;/p&gt;
+              temper studying my other subjects Environmental Science, Biology and Economics. Really? For how long will
+              I have to study “everything”. Sigh.&lt;/p&gt;
               &lt;p&gt;So, I either eat or surf when I’m not studying. That’s pretty much of it. I received an email
-              from
-              the Central Library of my college that a book which I had issued very long time ago (and never read, of
-              course) has been over due and I will have to pay fine in case of further delay. Aargh! I had to do it
-              first
-              thing in the morning! I was wired in to my laptop. I didn’t want to get up and set the alarm in my phone
-              or
-              even on Google now. I wanted it right from my terminal. I wasted another half an hour finding such a thing
-              but
-              couldn’t find the one I was exactly looking for. (Duh! I could have set the alarm by then.). So, after
-              some
-              research and a lot of motivation, I created a repository on github and started my work. I had no idea how
-              was
-              I going to tackle command line executions, Natural Language Processing or anything but I had to make one
-              thing
-              possible.&lt;/p&gt;
+              from the Central Library of my college that a book which I had issued very long time ago (and never read,
+              of course) has been over due and I will have to pay fine in case of further delay. Aargh! I had to do it
+              first thing in the morning! I was wired in to my laptop. I didn’t want to get up and set the alarm in my
+              phone or even on Google now. I wanted it right from my terminal. I wasted another half an hour finding
+              such a thing but couldn’t find the one I was exactly looking for. (Duh! I could have set the alarm by
+              then.). So, after some research and a lot of motivation, I created a repository on github and started my
+              work. I had no idea how was I going to tackle command line executions, Natural Language Processing or
+              anything but I had to make one thing possible.&lt;/p&gt;
               &lt;pre&gt;&lt;code&gt;$ ping-me to go to library tomorrow morning
               &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This one line terminal (english?) command should set the reminder for me
-              on
-              all of my personal devices. Peace! :)&lt;/p&gt;
+              on all of my personal devices. Peace! :)&lt;/p&gt;
               &lt;p&gt;I’ve shared the code here — &lt;a href=&#34;https://github.com/OrkoHunter/ping-me&#34;&gt;https://github.com/OrkoHunter/ping-me&lt;/a&gt;&lt;/p&gt;
               &lt;p&gt;I haven’t written the engine write now. I have bookmarked a lot a sites related to NLP. I’ll
-              continue
-              with them in December.&lt;/p&gt;
+              continue with them in December.&lt;/p&gt;
               &lt;p&gt;My second toy project in the meantime came out to be keep. I usually don’t remember shell
-              commands
-              but I need them the most in ssh sessions. I’m also sick of googling for the same code everytime, I needed
-              to
-              store them somewhere in the computer, using the terminal only…And Ta-da! It’s working! &lt;a href=&#34;https://github.com/OrkoHunter/keep&#34;&gt;https://github.com/OrkoHunter/keep&lt;/a&gt;&lt;/p&gt;
+              commands but I need them the most in ssh sessions. I’m also sick of googling for the same code everytime,
+              I needed to store them somewhere in the computer, using the terminal only…And Ta-da! It’s working! &lt;a
+              href=&#34;https://github.com/OrkoHunter/keep&#34;&gt;https://github.com/OrkoHunter/keep&lt;/a&gt;&lt;/p&gt;
               &lt;p&gt;Oh, and yes, I used python for all of the things above.&lt;/p&gt;
               &lt;p&gt;Happy Coding !&lt;/p&gt;
           </description>
@@ -978,45 +930,33 @@ cows[29]=satanic
           <description>&lt;p&gt;There have been people, advisers, and more people, enlightening the fact about “real
               programmers”, &lt;em&gt;they use emacs or vim&lt;/em&gt;.&lt;/p&gt;
               &lt;p&gt;&lt;em&gt;‘I use sublime text’&lt;/em&gt;, is often misunderstood as &lt;em&gt;‘I am a novice and
-              I
-              don’t like pure black window’.&lt;/em&gt; There is no way this 7 years old editor is going to compete with
-              39
-              years old emacs and 15 years old fork of yet another 39 years old editor vi. Nevertheless, there’s much
-              more
-              to come.&lt;/p&gt;
+              I don’t like pure black window’.&lt;/em&gt; There is no way this 7 years old editor is going to compete
+              with 39 years old emacs and 15 years old fork of yet another 39 years old editor vi. Nevertheless, there’s
+              much more to come.&lt;/p&gt;
               &lt;p&gt;The first thing that Sublime Text lovers say about vim and emacs is &lt;em&gt;“Why should I open
-              an
-              editor which I don’t know how to get out of?”&lt;/em&gt; Fair enough. They are not mere text editors. They
-              have built-in code to edit any external code. Isn’t that pretty? Well, you have to follow some steps to
-              close
-              it. (Or you can forcefully shut down your console anytime you want. No matter they are powerful, you
-              belong to
-              the human race.) They also have more powerful features which make its user’s life easy.&lt;/p&gt;
+              an editor which I don’t know how to get out of?”&lt;/em&gt; Fair enough. They are not mere text editors.
+              They have built-in code to edit any external code. Isn’t that pretty? Well, you have to follow some steps
+              to close it. (Or you can forcefully shut down your console anytime you want. No matter they are powerful,
+              you belong to the human race.) They also have more powerful features which make its user’s life easy.&lt;/p&gt;
               &lt;p&gt;But before you’ll think of your easy life, they’ll make you hate your life first. As &lt;a href=&#34;https://pascalprecht.github.io/&#34;&gt;Pascal
               Precht&lt;/a&gt; in one of his blogs discuss about the learning curve wall of vim. Here is a picture which
-              is
-              very explanatory.&lt;/p&gt;
+              is very explanatory.&lt;/p&gt;
               &lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/0*kB_zwuOIp-vb2SRy.jpg&#34; alt=&#34;&#34;&gt;The
-              next
-              argument by emacs users are &lt;em&gt;“We don’t like using touchpad and want everything right there in our
-              editor, like mail, news, everything!”&lt;/em&gt;&lt;/p&gt;
+              next argument by emacs users are &lt;em&gt;“We don’t like using touchpad and want everything right there
+              in our editor, like mail, news, everything!”&lt;/em&gt;&lt;/p&gt;
               &lt;p&gt;You are great sir! But let me also tell you, you are rare and have wrong conclusion about sublime
               users. We aren’t fond of touchpad either! As of me, I survived a whole semester of college with &lt;a
-              href=&#34;http://blog.orkohunter.net/touchpad-problem-with-asus-laptop-on-linux/&#34;&gt;my
-              touchpad not working&lt;/a&gt;. But that doesn’t mean I moved to emacs or vim. subl to open, pgup pgdn and
-              arrow keys for navigation, ctrl + s to save, ctrl + t for new tab, I mean I had got everything done with
-              my
-              keyboard and the fact is that Chrome also obeys these commands (or vice-versa). Imagine you scrolling
-              through
-              a webpage and wondering why j and k are not helping you.&lt;/p&gt;
+              href=&#34;http://blog.orkohunter.net/touchpad-problem-with-asus-laptop-on-linux/&#34;&gt;my touchpad not
+              working&lt;/a&gt;. But that doesn’t mean I moved to emacs or vim. subl to open, pgup pgdn and arrow keys
+              for navigation, ctrl + s to save, ctrl + t for new tab, I mean I had got everything done with my keyboard
+              and the fact is that Chrome also obeys these commands (or vice-versa). Imagine you scrolling through a
+              webpage and wondering why j and k are not helping you.&lt;/p&gt;
               &lt;p&gt;The point I’m trying to make is why shouldn’t we encourage newbies to use the editor which makes
               their life really easy very fast so that they could simply learn how to code rather then learning how to
-              code
-              to code. Later on, let them decide whether they really dislike this editor and move on to something more
-              challenging and I believe some people will surely move on to the challenging ones.&lt;/p&gt;
+              code to code. Later on, let them decide whether they really dislike this editor and move on to something
+              more challenging and I believe some people will surely move on to the challenging ones.&lt;/p&gt;
               &lt;p&gt;But I will surely not. I’ll wait for the day when I’ll get tired of putting my hands on something
-              so
-              beautiful.&lt;/p&gt;
+              so beautiful.&lt;/p&gt;
           </description>
       </item>
 

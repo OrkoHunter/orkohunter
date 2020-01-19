@@ -26,9 +26,10 @@ To update submodule
 git submodule update --remote --merge
 ```
 
-Compile
+Compile and update website
 ```
 hugo
+git push
 ```
 
 Run local server
