@@ -4,8 +4,8 @@ widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 headless = true
 
-title = "Projects"
-subtitle = "Check out projects at [github.com/OrkoHunter](https://github.com/OrkoHunter)"
+title = "Featured work"
+subtitle = "Check out my projects at [github.com/OrkoHunter](https://github.com/OrkoHunter)"
 
 # Order that this section will appear in.
 weight = 50

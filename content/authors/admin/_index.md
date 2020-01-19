@@ -6,11 +6,11 @@ name = "Himanshu Mishra"
 superuser = true
 
 # Role/position
-role = "Student"
+role = "Software Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "IIT Kharagpur", url = "http://iitkgp.ac.in" } ]
+organizations = [ { name = "Mercari US", url = "https://www.mercari.com/" }, { name = "IIT Kharagpur", url = "http://iitkgp.ac.in" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -32,11 +32,6 @@ interests = []
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/OrkoHunter"
-
-[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/OrkoHunter"
@@ -45,6 +40,11 @@ interests = []
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/OrkoHunter"
+
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/OrkoHunter"
 
 # Link to a PDF of your resume/CV from the About widget.
 [[social]]
