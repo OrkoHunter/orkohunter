@@ -1,110 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Himanshu Mishra on Himanshu Mishra</title>
-      <link>https://orkohunter.net/</link>
-      <description>Recent content in Himanshu Mishra on Himanshu Mishra</description>
-      <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-      <language>en-us</language>
-      <copyright>Himanshu Mishra</copyright>
-      <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
-      <atom:link href="/" rel="self" type="application/rss+xml"/>
-
-      <item>
-          <title>Blog posts</title>
-          <link>https://orkohunter.net/blog/</link>
-          <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-
-          <guid>https://orkohunter.net/blog/</guid>
-          <description></description>
-      </item>
-
-      <item>
-          <title>Projects</title>
-          <link>https://orkohunter.net/project/</link>
-          <pubDate>Sun, 17 Feb 2019 00:00:00 +0900</pubDate>
-
-          <guid>https://orkohunter.net/project/</guid>
-          <description></description>
-      </item>
-
-      <item>
-          <title>Letters</title>
-          <link>https://orkohunter.net/letters/</link>
-          <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-
-          <guid>https://orkohunter.net/letters/</guid>
-          <description>&lt;p&gt;These are some of my letters and their responses which I have made public. Read more on
-              the announcement blog post - &lt;a href=&#34;https://orkohunter.net/blog/letters&#34;&gt;https://orkohunter.net/blog/letters&lt;/a&gt;&lt;/p&gt;
-          </description>
-      </item>
-
-      <item>
-          <title>Authors</title>
-          <link>https://orkohunter.net/author/</link>
-          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-          <guid>https://orkohunter.net/author/</guid>
-          <description></description>
-      </item>
-
-      <item>
-          <title>Recent &amp; Upcoming Talks</title>
-          <link>https://orkohunter.net/talk/</link>
-          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-          <guid>https://orkohunter.net/talk/</guid>
-          <description></description>
-      </item>
-
-      <item>
-          <title>Wall</title>
-          <link>https://orkohunter.net/wall/</link>
-          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-          <guid>https://orkohunter.net/wall/</guid>
-          <description>&lt;p&gt;This is my wall where I put names of people or things which directly influence me, my
-              works or my understanding of the world; or amuse me so much that I want to tell you about them.&lt;/p&gt;
-              &lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
-              &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Aldous_Huxley&#34;&gt;Aldous Huxley&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://github.com/mitsuhiko&#34;&gt;Armin Ronacher&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Barack_Obama&#34;&gt;Barack Obama&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://twitter.com/gvanrossum&#34;&gt;Guido van Rossum&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://github.com/kennethreitz&#34;&gt;Kenneth Reitz&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://github.com/sindresorhus&#34;&gt;Sindre Sorhus&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://github.com/debugger22&#34;&gt;Sudhanshu Mishra&lt;/a&gt;&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
-              &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/3188964-the-doors-of-perception&#34;&gt;The
-              Doors of Perception by Aldous Huxley&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/23692271-sapiens&#34;&gt;Sapiens: A Brief
-              History of Humankind by Yuval Noah Harari&lt;/a&gt;&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;h2 id=&#34;essays&#34;&gt;Essays&lt;/h2&gt;
-              &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224524/https://qz.com/india/431397/i-sacrificed-my-health-and-teenage-years-to-study-at-the-iits-but-was-it-worth-it/&#34;&gt;A
-              retrospection of life spent at IIT&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224602/https://neopythonic.blogspot.com/2016/04/kings-day-speech.html&#34;&gt;The
-              heart-felt speech by Guido on creating Python and its preset day influences&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224636/https://medium.com/s/story/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0&#34;&gt;How
-              a TV Sitcom triggered the downfall of western civilization&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224748/http://www.catb.org/esr/faqs/hacker-howto.html&#34;&gt;How
-              to Become a hacker - Eric S. Raymond&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224830/https://gist.github.com/adamwiggins/5687294&#34;&gt;Values
-              by Heroku co-founder Adam Wiggins&lt;/a&gt;&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
-              &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gM95HHI4gLk&#34;&gt;Ted talk by Sal Khan from
-              Khan Academy about his thoughts on the current education system&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gpvcc9C8SbM&#34;&gt;Internet&#39;s Own Boy - The
-              Story of Aaron Swartz Full Documentary&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ez1rWBPznEc&#34;&gt;Rick and Morty - Finding
-              meaning in Life&lt;/a&gt;&lt;/li&gt;
-              &lt;/ul&gt;
-          </description>
-      </item>
-
+    <title>Himanshu Mishra</title>
+    <link>https://orkohunter.net/</link>
+    <description>Recent content on Himanshu Mishra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Himanshu Mishra</copyright>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://orkohunter.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog posts</title>
+      <link>https://orkohunter.net/blog/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://orkohunter.net/project/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://orkohunter.net/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Letters</title>
+      <link>https://orkohunter.net/letters/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/letters/</guid>
+      <description>&lt;p&gt;These are some of my letters and their responses which I have made public. Read more on the announcement blog post - &lt;a href=&#34;https://orkohunter.net/blog/letters&#34;&gt;https://orkohunter.net/blog/letters&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Authors</title>
+      <link>https://orkohunter.net/authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/authors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://orkohunter.net/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall</title>
+      <link>https://orkohunter.net/wall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/wall/</guid>
+      <description>&lt;p&gt;This is my wall where I put names of people or things which directly influence me, my works or my understanding of the world; or amuse me so much that I want to tell you about them.&lt;/p&gt;
+&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Aldous_Huxley&#34;&gt;Aldous Huxley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mitsuhiko&#34;&gt;Armin Ronacher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Barack_Obama&#34;&gt;Barack Obama&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/gvanrossum&#34;&gt;Guido van Rossum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kennethreitz&#34;&gt;Kenneth Reitz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sindresorhus&#34;&gt;Sindre Sorhus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debugger22&#34;&gt;Sudhanshu Mishra&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/3188964-the-doors-of-perception&#34;&gt;The Doors of Perception by Aldous Huxley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/23692271-sapiens&#34;&gt;Sapiens: A Brief History of Humankind by Yuval Noah Harari&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;essays&#34;&gt;Essays&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224524/https://qz.com/india/431397/i-sacrificed-my-health-and-teenage-years-to-study-at-the-iits-but-was-it-worth-it/&#34;&gt;A retrospection of life spent at IIT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224602/https://neopythonic.blogspot.com/2016/04/kings-day-speech.html&#34;&gt;The heart-felt speech by Guido on creating Python and its preset day influences&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224636/https://medium.com/s/story/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0&#34;&gt;How a TV Sitcom triggered the downfall of western civilization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224748/http://www.catb.org/esr/faqs/hacker-howto.html&#34;&gt;How to Become a hacker - Eric S. Raymond&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224830/https://gist.github.com/adamwiggins/5687294&#34;&gt;Values by Heroku co-founder Adam Wiggins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gM95HHI4gLk&#34;&gt;Ted talk by Sal Khan from Khan Academy about his thoughts on the current education system&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gpvcc9C8SbM&#34;&gt;Internet&#39;s Own Boy - The Story of Aaron Swartz Full Documentary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ez1rWBPznEc&#34;&gt;Rick and Morty - Finding meaning in Life&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,7 +6,10 @@ title = "PEP 8 Speaks"
 date = 2019-02-17T00:00:00
 
 # Project summary to display on homepage.
-summary = "A GitHub integration to automatically review Python code style on Pull Requests. **Currently used by pandas, Spyder IDE, scikit-image, scikit-learn-contrib, astropy, sunpy and 1300+ projects.**"
+summary = """A GitHub integration to automatically review Python code style on Pull Requests.
+The project, financially sponsored by Python Software Foundation, has a community of over 
+4000 Python organizations and over 10,000 user interac- tions.
+Currently used by many popular projects including pandas, Spyder IDE, scikit-image, scikit-learn-contrib, astropy, statsmodels, sunpy."""
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/OrkoHunter/pep8speaks"
@@ -28,15 +31,5 @@ url_code = "https://github.com/OrkoHunter/pep8speaks"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
 +++
 
