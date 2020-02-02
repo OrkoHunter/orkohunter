@@ -8,7 +8,7 @@ categories = ["Non-Tech"]
 slug = "quest-for-universal-action"
 +++
 
-You may listen to this while reading
+You may listen to this while reading [We Are All Astronauts - Ether (YouTube)](https://www.youtube.com/watch?v=-fFbeSykaJk).
 
 <div style="display: flex; justify-content: center;">
 <iframe width="600" height="400" src="http://www.youtube.com/embed/-fFbeSykaJk" frameborder="0" allowfullscreen></iframe>

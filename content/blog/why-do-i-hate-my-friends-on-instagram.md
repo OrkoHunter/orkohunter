@@ -8,11 +8,7 @@ categories = ["Non-Tech"]
 slug = "instagram"
 +++
 
-  Watch this video from Nerdwriter1
-
-<div style="display: flex; justify-content: center;">
-<iframe width="600" height="400" src="http://www.youtube.com/embed/eQzmLrSjmhg" frameborder="0" allowfullscreen></iframe>
-</div>
+Watch this video from Nerdwriter1 [Let's Fix Instagram (YouTube)](https://www.youtube.com/watch?v=eQzmLrSjmhg).
 
 <br>
 

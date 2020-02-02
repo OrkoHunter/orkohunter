@@ -8,11 +8,7 @@ categories = ["letters"]
 slug = "about-metakgp"
 +++
 
-  You can listen to this in background
-
-<div style="display: flex; justify-content: center;">
-<iframe width="600" height="400" src="http://www.youtube.com/embed/J76MeYAGaH8" frameborder="0" allowfullscreen></iframe>
-</div>
+You can listen to this in background [Before The Beginning - John Frusciante (YouTube)](https://www.youtube.com/watch?v=J76MeYAGaH8)
 
 ## :name-retracted: wrote -
 
