@@ -31,7 +31,7 @@ Read the wikipedia articles if you want to know more. [BFS](https://en.wikipedia
 
 ## What are you saying?
 
-BFS and DFS can be seen among people as traits of how they make friends. Similar to introversion and extroversion, BFS and DFS are the characteristics of people's approach to *friendship*.
+BFS and DFS can be seen among people as traits of how they make friends. Like introversion and extroversion, BFS and DFS are the characteristics of people's approach to *friendship*.
 
 > _You might already have some idea by now. Take few seconds and draw a picture. Imagine two people (one doing BFS and other doing DFS)
 and think how they are different. It is fun to observe and ponder. :)_
@@ -49,7 +49,7 @@ They would always be interested in taking their friendships on to the next level
 and want to work a lot on the existing ones.
 
 **BFS** people can generate the same intensity in new friendships, as with their existing friends. They don't need much time for this.
-However, most of the time BFS people are afraid to go deep into conversations with one friend. They would stop at one point.
+Yet, most of the time BFS people are afraid to go deep into conversations with one friend. They would stop at one point.
 They would fall out of conversations pretty easily. They wouldn't be interested in knowing more and more about their friends.
 They would be certain they know most of the things about their friends.
 
