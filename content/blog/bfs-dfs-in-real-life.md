@@ -57,7 +57,7 @@ They would be certain they know enough about them.
 with each other. It takes a significant amount of time for their newer friendships to reach the intensity of their existing
 friendships. They have strong perceptions, but loosely-held. They would cheer to look at things from other people's perceptions.
 
-_Let me know if you can think about more differences._
+_Let me know if you can think of more differences._
 
 ## Final words
 
