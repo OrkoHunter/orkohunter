@@ -50,8 +50,8 @@ and want to work a lot on the existing ones.
 
 **BFS** people can generate the same intensity in new friendships, as with their existing friends. They don't need much time for this.
 Yet, most of the time BFS people are afraid to go deep into conversations with one friend. They would stop at one point.
-They would fall out of conversations pretty easily. They wouldn't be interested in knowing more and more about their friends.
-They would be certain they know most of the things about their friends.
+They would fall out of conversations pretty easily. They wouldn't be interested in knowing more about their friends.
+They would be certain they know enough about them.
 
 **DFS** people never get bored with the friends they hangout with. They are willing to share deepest level of spiritual secrets
 with each other. It takes a significant amount of time for their newer friendships to reach the intensity of their existing
