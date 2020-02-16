@@ -34,7 +34,7 @@ Read the wikipedia articles if you want to know more. [BFS](https://en.wikipedia
 BFS and DFS can be seen among people as traits of how they make friends. Similar to introversion and extroversion, BFS and DFS are the characteristics of people's approach to *friendship*.
 
 > _You might already have some idea by now. Take few seconds and draw a picture. Imagine two people (one doing BFS and other doing DFS)
-and think how are they different. It is fun to observe and ponder. :)_
+and think how they are different. It is fun to observe and ponder. :)_
 >
 > College campus life is a perfect setting to spot both kinds of people.
 
