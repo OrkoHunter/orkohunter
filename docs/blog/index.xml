@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://orkohunter.net/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BFS vs DFS in friendships</title>
+      <link>https://orkohunter.net/blog/bfs-vs-dfs-in-friendships/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/blog/bfs-vs-dfs-in-friendships/</guid>
+      <description>In real life friendships, some prefer Breadth First Search, but some fancy Depth First Search. BFS and DFS
+are two search methods in Computer Science.</description>
+    </item>
     
     <item>
       <title>Letters</title>
