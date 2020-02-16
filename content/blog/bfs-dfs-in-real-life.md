@@ -67,4 +67,6 @@ Everyone has to do BFS first. In first year of college, you don't have enough no
 
 After this, if you are a DFS person, your DFS mode will trigger. And it never stops.
 
+I do not have a dichotomous view on which is the right way of living. I believe one has to find the right balance. 
+
 _Thanks to [Nishant Nikhil](https://nishnik.me) for bringing this up, one fine evening back in college._
