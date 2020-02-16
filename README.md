@@ -35,6 +35,8 @@ Follow https://github.com/gcushen/hugo-academic/releases and look at breaking ch
 Compile and update website
 ```
 hugo
+git add -A
+git commit -S -m "Commit message"
 git push
 ```
 
