@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://orkohunter.net/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PEP8Speaks - Now helping 5,000 open source projects write neat and clean Python</title>
+      <link>https://orkohunter.net/blog/pep8speaks-5000-projects/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/blog/pep8speaks-5000-projects/</guid>
+      <description>I made the first commit to PEP8Speaks in Dec 2016. More than 5000 open source projects are now using this bot to write neat and clean Python. It is a free and open source software and financially sponsored by Python Software Foundation and Weblate.org</description>
+    </item>
     
     <item>
       <title>BFS vs DFS in friendships</title>

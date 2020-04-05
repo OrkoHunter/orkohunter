@@ -6,10 +6,179 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://orkohunter.net/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PEP8Speaks - Now helping 5,000 open source projects write neat and clean Python</title>
+      <link>https://orkohunter.net/blog/pep8speaks-5000-projects/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/blog/pep8speaks-5000-projects/</guid>
+      <description>&lt;h1 id=&#34;what-is-this-project-&#34;&gt;What is this project? 🐍&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;PEP8Speaks = &lt;a href=&#34;https://pep8.org&#34;&gt;PEP 8&lt;/a&gt; + Speaks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/OrkoHunter/pep8speaks&#34;&gt;https://github.com/OrkoHunter/pep8speaks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PEP 8 is Python&#39;s recommended coding style convention, popular across software written in Python language.&lt;/p&gt;
+&lt;p&gt;PEP8Speaks is a GitHub app which reviews the Python code style in Pull Requests.&lt;/p&gt;
+&lt;h1 id=&#34;how-did-it-start-&#34;&gt;How did it start? 📜&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;My primary motivation to create this project was to reduce the workload of code maintainers and reviewers in Open Source.&lt;/strong&gt;
+They spend a valuable amount of time doing code reviews. Checking and fixing code style is something that can be automated.
+Hence, it must be!&lt;/p&gt;
+&lt;p&gt;I made the first commit in December 2016. I was in my third year of college. In my first two summer breaks,
+I had been contributing to Open Source projects in Python,
+mainly because of the Google Summer of Code program. And in a few months, I was about to be a GSoC mentor,
+which meant doing code reviews.
+PEP8Speaks came alive out of my personal need.&lt;/p&gt;
+&lt;h1 id=&#34;users-and-adoption-&#34;&gt;Users and adoption 📈&lt;/h1&gt;
+&lt;p&gt;Creating and maintaining the project was not the hardest part. After the initial few months, I rant out of all my ideas.
+So, the development slowed down. Hence I wanted other projects to start using it.&lt;/p&gt;
+&lt;p&gt;More users meant a lot of things.
+I got to work on new features, optimizations, security, etc. Being very young in my career, meant
+this was a wonderful way to do Software development.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PEP8Speaks is useful for an open source project which has many contributors i.e. organizations&lt;/strong&gt;.
+It is not very helpful if you are the only
+one working on your project. Hence most of the time, if someone finds it useful, they have to convince all the maintainers
+in their organization to start using it.&lt;/p&gt;
+&lt;p&gt;Larger orgs are more hesitant in adding new things as a requirement or dependency because they are worried that it
+would not work properly.
+Hence, I needed to &lt;strong&gt;build trust in the project&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;growth-efforts&#34;&gt;Growth efforts&lt;/h2&gt;
+&lt;p&gt;In short, organic growth requires me to do the following -&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Being open for feature requests.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many cool features in PEP8Speaks are not my original ideas, but recommendations from the community.&lt;/p&gt;
+&lt;p&gt;Developers rarely want
+to change the way they work. Instead, they love bending (customizing) the tools they use.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If only PEP8Speaks were to support this new feature A,&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;if only PEP8Speaks supported this feature B,&lt;/em&gt;
+&lt;em&gt;&amp;hellip;we would love to adopt it!&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Implementing feature requests.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One way of gaining trust in the community is to listen to the issues and incoming Pull Requests. These users helped
+a lot in spreading the word.&lt;/p&gt;
+&lt;p&gt;And so, I need to address all the feature requests.
+But it is also limited by the time I have. So, I need to pick among those requests.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Having a helpful README&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Every knowledge required to install and customize PEP8Speaks has to be on the README. And also, in a visually discoverable way.
+Having a &lt;em&gt;kickass&lt;/em&gt; README is a must.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Spreading the word at the right places&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I was &lt;a href=&#34;https://www.youtube.com/watch?v=7tcJi378B2M&#34;&gt;a speaker at the SciPy 2017 conference&lt;/a&gt; in Austin.
+In the lightning talks session, &lt;a href=&#34;https://www.youtube.com/watch?v=dtgiYrf2bv8&#34;&gt;I talked about PEP8Speaks&lt;/a&gt;.
+The ballroom had close to a thousand Python developers. (SciPy conference is a yearly &amp;ldquo;pilgrimage&amp;rdquo; in the Scientific Python world.)&lt;/p&gt;
+&lt;p&gt;And this is the reason, a lot of PEP8Speaks users include scientific Python projects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;PEP8Speaks bot has commented on &lt;a href=&#34;https://github.com/search?o=desc&amp;amp;q=commenter%3Apep8speaks&amp;amp;s=&amp;amp;type=Issues&#34;&gt;around 17,000 pull requests&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;most-popular-users&#34;&gt;Most popular users&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Logo&lt;/th&gt;
+&lt;th&gt;Organization&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars1.githubusercontent.com/u/21206976?v=4&amp;amp;s=100&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/pandas-dev/pandas&#34;&gt;Pandas&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Powerful data manipulation tools for Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars0.githubusercontent.com/u/476009?v=4&amp;amp;s=100&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/adobe&#34;&gt;Adobe&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Open source from Adobe&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars0.githubusercontent.com/u/623819?v=4&amp;amp;s=100&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/openSUSE&#34;&gt;openSUSE&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Linux distribution&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars0.githubusercontent.com/u/58386951?v=4&amp;amp;s=100&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/PyTorchLightning/pytorch-lightning&#34;&gt;PyTorch Lightning&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The lightweight PyTorch wrapper for ML researchers.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars3.githubusercontent.com/u/1284191?v=4&amp;amp;s=100&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/pydata/xarray&#34;&gt;xarray (PyData)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;N-D labeled arrays and datasets in Python (Python for Data)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars2.githubusercontent.com/u/963197?s=100&amp;amp;v=4&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/sunpy&#34;&gt;SunPy&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Python for Solar Physics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars0.githubusercontent.com/u/847984?v=3&amp;amp;s=100&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/astropy&#34;&gt;Astropy&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Astronomy in Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars3.githubusercontent.com/u/17349883?v=3&amp;amp;s=100&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/scikit-learn-contrib&#34;&gt;Scikit Learn Contrib&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;scikit-learn compatible projects&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars1.githubusercontent.com/u/897180?s=100&amp;amp;v=4&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/scikit-image&#34;&gt;Scikit Image&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Image processing in Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://avatars0.githubusercontent.com/u/1284937?v=4&amp;amp;s=100&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/spyder-ide/spyder&#34;&gt;Spyder IDE&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Scientific Python Development Environment&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/NetworkX/NetworkX&#34;&gt;NetworkX&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Python library for graph theory and complex networks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/statsmodels/statsmodels&#34;&gt;Statsmodels&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Statistical modeling and econometrics in Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;GitHub API allows me to find out all the users of the project.
+I keep the &lt;a href=&#34;https://github.com/OrkoHunter/pep8speaks/wiki/List-of-users-and-orgs&#34;&gt;list of all organizations and users&lt;/a&gt; on the public wiki.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;sponsorship-&#34;&gt;Sponsorship 💳&lt;/h1&gt;
+&lt;p&gt;Even though the project is a free and open source software, it needs to be hosted on a server to work. The server receives around 3,000 API requests per minute.
+I deployed it on Heroku because it was free of cost.
+Heroku gave a limited number of hours per month for the servers to run. Within 1 year, the app started exhausting all the hours
+very quickly. And then I had to pay for the server costs.&lt;/p&gt;
+&lt;p&gt;In March 2019, I wrote a case to receive funding for the project. &lt;a href=&#34;https://github.com/OrkoHunter/pep8speaks/wiki/Funding&#34;&gt;https://github.com/OrkoHunter/pep8speaks/wiki/Funding&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I &lt;a href=&#34;https://github.com/OrkoHunter/pep8speaks/wiki/PSF-Grant-application&#34;&gt;wrote&lt;/a&gt; to the PSF for the
+&lt;a href=&#34;https://www.python.org/psf/grants/&#34;&gt;Python Software Foundation grant&lt;/a&gt;. They agreed to cover one year of server costs. 🎉&lt;/p&gt;
+&lt;p&gt;The project also received funding from &lt;a href=&#34;https://weblate.org&#34;&gt;Weblate&lt;/a&gt; and &lt;a href=&#34;https://ccextractor.org/&#34;&gt;CCExtractor&lt;/a&gt;, which is amazing!&lt;/p&gt;
+&lt;h1 id=&#34;future-of-the-project-&#34;&gt;Future of the project ⏳&lt;/h1&gt;
+&lt;p&gt;The project does not have many bugs, but I do receive one or two issues in the repository per month. I have a local setup with
+few Jupyter Notebooks where I
+do the debugging and I fix the problem for them. My main concern is that debugging PEP8Speaks is not straightforward.
+I want to make the development process smooth. This means the project can be maintained by more people, not one person.&lt;/p&gt;
+&lt;p&gt;PEP8Speaks can be installed on public repositories with a few clicks, but running on private repositories is not trivial.
+I have written the &lt;a href=&#34;https://github.com/OrkoHunter/pep8speaks/wiki/Instructions-to-deploy-a-fork&#34;&gt;instructions to do it&lt;/a&gt;.
+There are currently &lt;a href=&#34;https://github.com/search?q=pep8speaks&amp;amp;type=Users&#34;&gt;9 private forks&lt;/a&gt; of PEP8Speaks, that I know of.
+But, I want to make it easier for private repositories to start using it. Just like
+running CircleCI or Codecov on private repos.&lt;/p&gt;
+&lt;p&gt;The last most important thing in my mind is to improve the infrastructure. Write more developer-focused documentation, technical spec
+of the project and support new contributions.&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BFS vs DFS in friendships</title>
