@@ -3,7 +3,7 @@
 # This widget displays recent posts from `content/blog/`.
 widget = "custom-posts"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 37  # Order that this section will appear.
+weight = 38  # Order that this section will appear.
 headless = true
 
 title = "Recent posts"
