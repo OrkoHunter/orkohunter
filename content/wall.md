@@ -24,7 +24,7 @@ This is my wall where I put names of people or things which directly influence m
 ## Essays
 
 * [A retrospection of life spent at IIT](https://web.archive.org/web/20190216224524/https://qz.com/india/431397/i-sacrificed-my-health-and-teenage-years-to-study-at-the-iits-but-was-it-worth-it/)
-* [The heart-felt speech by Guido on creating Python and its preset day influences](https://web.archive.org/web/20190216224602/https://neopythonic.blogspot.com/2016/04/kings-day-speech.html)
+* [The heart-felt speech by Guido on creating Python and its present day influences](https://web.archive.org/web/20190216224602/https://neopythonic.blogspot.com/2016/04/kings-day-speech.html)
 * [How a TV Sitcom triggered the downfall of western civilization](https://web.archive.org/web/20190216224636/https://medium.com/s/story/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0)
 * [How to Become a hacker - Eric S. Raymond](https://web.archive.org/web/20190216224748/http://www.catb.org/esr/faqs/hacker-howto.html)
 * [Values by Heroku co-founder Adam Wiggins](https://web.archive.org/web/20190216224830/https://gist.github.com/adamwiggins/5687294)
