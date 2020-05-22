@@ -6,10 +6,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://orkohunter.net/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joining Spotify in Sweden</title>
+      <link>https://orkohunter.net/blog/spotify/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/blog/spotify/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/spotify.png&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;https://newsroom.spotify.com/media-kit/logo-and-brand-assets/&#34;&gt;&lt;em&gt;Image source&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;life-in-japan&#34;&gt;Life in Japan&lt;/h2&gt;
+&lt;p&gt;All the things that I knew about Japan turned out to be true, as soon as I arrived here 8 months ago.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Japan is a &lt;strong&gt;beautiful&lt;/strong&gt; place to live! The &lt;a href=&#34;https://en.wikipedia.org/wiki/Cherry_blossom&#34;&gt;cherry blossoms&lt;/a&gt; season just started. There is a lot of nature surrounding downtown Tokyo. I haven&amp;rsquo;t experienced the peak of summer here yet, but the cold climate has been cherry on top of it all.&lt;/p&gt;
+&lt;p&gt;I spent five years in my college campus where you could spot trees from anywhere (my hostel room, classrooms and the roads). Having all this nature around me once again was a relief.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Most &lt;strong&gt;people are mindful, quiet and private&lt;/strong&gt;. This is great for those who want to live a private life. I believe my friends and I used to be the only ones talking in the entire freaking train.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Delicacies&lt;/strong&gt;! I don&amp;rsquo;t remember having a bad meal ever. The proportion size and the amount of calories are thoughtfully decided. The meals are prioritized to be healthy &lt;em&gt;and&lt;/em&gt; tasty. This is not true for many countries.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Japan is very &lt;strong&gt;safe&lt;/strong&gt;. I know many of my friends never locked their apartments before going out (bad idea). Walking outside late at nights does not feel threatening. I am raised to be careful about incoming traffic and being stoic about what could go wrong. Certainly, I have never had any bad experience. I didn&amp;rsquo;t encounter any homeless people either.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The city is mostly clean. People do not enter anyone&amp;rsquo;s house with their shoes on. There is almost zero vandalism.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;strong&gt;customer service&lt;/strong&gt; can not be imagined and replicated easily in other societies of the world. I know and have heard that people in India are very helpful. I felt people in Japan sometimes do &lt;em&gt;beyond normal&lt;/em&gt; things for their customers. People take their jobs very seriously. The entire bank staff greets you when you come in. You will not be left unattended even for a minute. And everyone will say Thank you and keep bowing until you get out of the door and disappear. My God, I used to feel bad.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The not-so-good things that I had heard are also true!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Language barrier&lt;/p&gt;
+&lt;p&gt;You can get by in Tokyo if you don&amp;rsquo;t know Japanese and have friends whom you can talk to. But my life was of a &lt;em&gt;tourist&lt;/em&gt; and was limited in social terms. Essential shopping (groceries, etc.) becomes limited. I have to show an image and hope that the person can recognize what I am asking for. Using a public service e.g. Hospitals, courier service is hard. I can not enquire what I want to. Google Translate is barely helpful, and is useless most of the times.&lt;/p&gt;
+&lt;p&gt;Many people learn Japanese after coming here. They see a life here and want to settle. As of now, I know I only want to &lt;em&gt;settle&lt;/em&gt; in India and maybe in an English speaking country. My work required no Japanese, hence I did not learn. Instead I invested my time in learning new paradigms of programming in a large company. I feel I made the right decision and learnt a lot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rush hour traffic&lt;/p&gt;
+&lt;p&gt;You need courage to commute in the morning. Even if I wanted to start my day early, it is not going to happen. Trains are packed at more than 200% of their capacity between 7-9 AM. I won&amp;rsquo;t need to hold any bars in the moving trains because maybe five people would be pushing me from all directions. Lo and behold the laws of physics, I won&amp;rsquo;t fall or even move when the train accelerated. xD&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;principles-of-work&#34;&gt;Principles of work&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Things I learnt in my first job&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;living-asynchronously&#34;&gt;Living asynchronously&lt;/h3&gt;
+&lt;p&gt;Three years ago, I read this blog post by Quincy Larson, the founder of freecodecamp.org, titled &lt;a href=&#34;https://www.freecodecamp.org/news/live-asynchronously-c8e7172fe7ea/&#34;&gt;Live asynchronously.&lt;/a&gt;. I got inspired by it. I took the concepts of Promises and callbacks in Javascript on a philosophical level.&lt;/p&gt;
+&lt;p&gt;Working Synchronously is the easy option. Async is hard to code and to practice in real life.&lt;/p&gt;
+&lt;p&gt;Living async means writing neglibile number of messages/emails which require you to constantly wait until there is response. They block you from continuing to work on something else. Living async means lesser number of unimportant meetings and sync ups. In fact, when I used to be stuck in the beginning, I used to write my doubts as long expressive messages and would not expect a response immediately. I think I learnt this from the Open Source communities. ;)&lt;/p&gt;
+&lt;h3 id=&#34;working-concurrently&#34;&gt;Working concurrently&lt;/h3&gt;
+&lt;p&gt;I always took two or more concurrent (independent) tasks at the same time. If I get blocked or maybe bored with the first task, I would switch to the second one and would wait until I get unblocked. It is not feasible when the first task is huge. But even then, it can be broken down into chunks of concurrent pieces. And then, I would &amp;ldquo;parallelly process&amp;rdquo; them on my end.&lt;/p&gt;
+&lt;h3 id=&#34;writing-daily-notes&#34;&gt;Writing daily notes&lt;/h3&gt;
+&lt;p&gt;I used to take notes aggressively when I started working. I would write more than 100 words each day. I would publish them on an internal Confluence space.&lt;/p&gt;
+&lt;p&gt;The main reasons for doing this were -&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;We forget&lt;/strong&gt;. The meetings with our managers, mentors and coworkers in our first month are crucial. They convey some of the most important things about the company, team, project, etc. It was important for me to write &lt;em&gt;all&lt;/em&gt; of it down.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self review&lt;/strong&gt;. At the end of the day, I would go through my notes and publish a summary of things I did, things I learnt, etc. It would take 10 minutes each day. My quarterly self reviews used to be very very long and exhaustive, since I had the logs of what I did. After six months, I changed the frequency of publishing the logs to weekly, but I would still take daily private notes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Being public&lt;/strong&gt;. My page was easily accessible by visiting &lt;code&gt;go/himanshu&lt;/code&gt; from inside the company. I loved that I was being transparent about how I am spending my time in the company. And it also helped my indirect co-workers to know what I do here.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;docs-docs-code-docs-docs-technical-specs&#34;&gt;Docs, docs. code. docs. docs. Technical specs.&lt;/h3&gt;
+&lt;p&gt;Working on code without documentation is not fun. You are surprised each time you add a new feature. You have low confidence when making changes. For the love of humanity, document your decisions and the architecture.&lt;/p&gt;
+&lt;h3 id=&#34;integration-tests&#34;&gt;Integration tests&lt;/h3&gt;
+&lt;p&gt;Unit tests are great. But I love end to end integration tests a lot. They give me more confidence that the functionality will not break with my PRs being merged. I couldn&amp;rsquo;t resist writing an integration test for the project I was working on. &lt;a href=&#34;https://natooktesting.wordpress.com/2017/08/24/x-unit-tests-0-integration-tests/&#34;&gt;You might have seen some gifs about X unit tests and 0 integration tests.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;no-unconstructive-criticism&#34;&gt;No unconstructive criticism&lt;/h3&gt;
+&lt;p&gt;When we join a new place, we notices hundreds of things that can be done better (according to us). If I go on complaining about all, and do not offer to fix any, I am being unhelpful. So, I did not offer any unnessary feedback or criticism unless they were constructive.
+This is the Chapter 1 of &lt;a href=&#34;https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People&#34;&gt;How to Win Friends and Influence People by Dale Carnegie&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;scoping-a-project-breaking-down-into-smaller-tasks&#34;&gt;Scoping a project, breaking down into smaller tasks&lt;/h3&gt;
+&lt;p&gt;A good engineer is supposed to see the bigger picture of a project. They collaborate hand in hand with Product managers and help in writing the Spec. They break the project into smaller tasks which help them correctly estimate the timeline. They offer creative solutions which the PM might not be aware of.
+This skill comes with experience and time spent in the company and is valued by everyone around.&lt;/p&gt;
+&lt;h2 id=&#34;next-steps-with-spotify&#34;&gt;Next steps with Spotify&lt;/h2&gt;
+&lt;p&gt;In a few months, I will relocate to Stockholm, Sweden. Hopefully, the travel is permitted by then. My work will be related to Spotify&amp;rsquo;s newly open sourced project called &lt;a href=&#34;https://github.com/spotify/backstage&#34;&gt;Backstage&lt;/a&gt;. Spotify has been developing this for four years and has now decided to open source it, to simplify the infrastructure complexity in companies. Check it out, you&amp;rsquo;ll find it interesting. &lt;a href=&#34;https://backstage.io/&#34;&gt;backstage.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am personally very excited that I will get to work closely with &lt;a href=&#34;https://www.linkedin.com/in/decause/&#34;&gt;Remy Decausemaker&lt;/a&gt; again. Remy was my direct manager at Twitter. He now leads the Open Source program at Spotify. I have learnt so much about Open Source in the time that I have worked with him and I feel blessed that there lies more. :)&lt;/p&gt;
+&lt;p&gt;As far as I know from Spotify engineering blogs and the people, it has a strong engineering culture. Teams (Squads) have autonomy of the work they do. People share knowledge and support collaboration and individual growth. I intend to stay in the company for long and hopefully I come out as a much better engineer.&lt;/p&gt;
+&lt;p&gt;Plus, Spotify is a product that I have been using for many years. It has helped me find artists who have touched my soul. I am very excited about what lies ahead.&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PEP8Speaks - Now helping 5,000 open source projects write neat and clean Python</title>
@@ -20,7 +98,7 @@
       <description>&lt;h1 id=&#34;what-is-this-project-&#34;&gt;What is this project? 🐍&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;PEP8Speaks = &lt;a href=&#34;https://pep8.org&#34;&gt;PEP 8&lt;/a&gt; + Speaks&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/OrkoHunter/pep8speaks&#34;&gt;https://github.com/OrkoHunter/pep8speaks&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;PEP 8 is Python&#39;s recommended coding style convention, popular across software written in Python language.&lt;/p&gt;
+&lt;p&gt;PEP 8 is Python&amp;rsquo;s recommended coding style convention, popular across software written in Python language.&lt;/p&gt;
 &lt;p&gt;PEP8Speaks is a GitHub app which reviews the Python code style in Pull Requests.&lt;/p&gt;
 &lt;h1 id=&#34;how-did-it-start-&#34;&gt;How did it start? 📜&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;My primary motivation to create this project was to reduce the workload of code maintainers and reviewers in Open Source.&lt;/strong&gt;
@@ -198,7 +276,7 @@ and &lt;a href=&#34;https://en.wikipedia.org/wiki/Depth-first_search&#34;&gt;Dep
 &lt;p&gt;But in DFS, we start with a neighbour and keep going in its branch as deep as we can, and then backtrack to a second neighbour and go deep into its branch, and so on.&lt;/p&gt;
 &lt;p&gt;Read the wikipedia articles if you want to know more. &lt;a href=&#34;https://en.wikipedia.org/wiki/Breadth-first_search&#34;&gt;BFS&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://en.wikipedia.org/wiki/Depth-first_search&#34;&gt;DFS&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;what-are-you-saying&#34;&gt;What are you saying?&lt;/h2&gt;
-&lt;p&gt;BFS and DFS can be seen among people as traits of how they make friends. Like introversion and extroversion, BFS and DFS are the characteristics of people&#39;s approach to &lt;em&gt;friendship&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;BFS and DFS can be seen among people as traits of how they make friends. Like introversion and extroversion, BFS and DFS are the characteristics of people&amp;rsquo;s approach to &lt;em&gt;friendship&lt;/em&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;You might already have some idea by now. Take few seconds and draw a picture. Imagine two people (one doing BFS and other doing DFS)
 and think how they are different. It is fun to observe and ponder. :)&lt;/em&gt;&lt;/p&gt;
@@ -211,16 +289,16 @@ They have a fear of missing out on creating new friendships as time slips by.&lt
 &lt;p&gt;A person who is on the other extreme with &lt;strong&gt;DFS&lt;/strong&gt; would have a significant number of acquaintances but a smaller number of friends.
 They would always be interested in taking their friendships on to the next level. They are NOT afraid of missing out on new friendships
 and want to work a lot on the existing ones.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BFS&lt;/strong&gt; people can generate the same intensity in new friendships, as with their existing friends. They don&#39;t need much time for this.
+&lt;p&gt;&lt;strong&gt;BFS&lt;/strong&gt; people can generate the same intensity in new friendships, as with their existing friends. They don&amp;rsquo;t need much time for this.
 Yet, most of the time BFS people are afraid to go deep into conversations with one friend. They would stop at one point.
-They would fall out of conversations pretty easily. They wouldn&#39;t be interested in knowing more about their friends.
+They would fall out of conversations pretty easily. They wouldn&amp;rsquo;t be interested in knowing more about their friends.
 They would be certain they know enough about them.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;DFS&lt;/strong&gt; people never get bored with the friends they hangout with. They are willing to share deepest level of spiritual secrets
 with each other. It takes a significant amount of time for their newer friendships to reach the intensity of their existing
-friendships. They have strong perceptions, but loosely-held. They would cheer to look at things from other people&#39;s perceptions.&lt;/p&gt;
+friendships. They have strong perceptions, but loosely-held. They would cheer to look at things from other people&amp;rsquo;s perceptions.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Let me know if you can think of more differences.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;final-words&#34;&gt;Final words&lt;/h2&gt;
-&lt;p&gt;Everyone has to do BFS first. In first year of college, you don&#39;t have enough nodes to do DFS with. So, you spend the first
+&lt;p&gt;Everyone has to do BFS first. In first year of college, you don&amp;rsquo;t have enough nodes to do DFS with. So, you spend the first
 (and maybe second) year doing BFS. You join clubs, you hangout with your hostel-mates, and neighbours to create
 &lt;a href=&#34;https://orkohunter.net/blog/threads/&#34;&gt;threads&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;After this, if you are a DFS person, your DFS mode will trigger. And it never stops.&lt;/p&gt;
@@ -372,7 +450,7 @@ This contained all of my messages, photos, videos, and probably a lot more infor
 &lt;p&gt;Just when you thought, Python could not be more fun.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;1-hello-world&#34;&gt;1. Hello World&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; __hello__
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; __hello__
 Hello World&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;!&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;2-the-classic&#34;&gt;2. The classic&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; import this
@@ -401,110 +479,110 @@ Namespaces are one honking great idea -- let&#39;s do more of those!
 &lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;3-the-missing-line-from-the-classic&#34;&gt;3. The missing line from the classic&lt;/h3&gt;
 &lt;p&gt;The Zen of Python was introduced in &lt;a href=&#34;https://www.python.org/dev/peps/pep-0020/#id2&#34;&gt;PEP 20&lt;/a&gt;. It is supposed to be 20 aphorisms, but only 19 of which have been written down.&lt;/p&gt;
 &lt;h3 id=&#34;4-a-simple-life-lesson&#34;&gt;4. A simple life lesson&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; this
-&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; love &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; this
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; this &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; love
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; this
+&lt;span style=&#34;color:#f92672&#34;&gt;...&lt;/span&gt;
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; love &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; this
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; this &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; love
 True
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; love &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; True
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; love &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; True
 False
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; love &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; False
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; love &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; False
 False
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; love &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; True &lt;span style=&#34;color:#f92672&#34;&gt;or&lt;/span&gt; False
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; love &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; True &lt;span style=&#34;color:#f92672&#34;&gt;or&lt;/span&gt; False
 True
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; love &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; True &lt;span style=&#34;color:#f92672&#34;&gt;or&lt;/span&gt; False; love &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; love  &lt;span style=&#34;color:#75715e&#34;&gt;# FML&lt;/span&gt;
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; love &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; True &lt;span style=&#34;color:#f92672&#34;&gt;or&lt;/span&gt; False; love &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; love  &lt;span style=&#34;color:#75715e&#34;&gt;# FML&lt;/span&gt;
 True
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;5-comics-yeah&#34;&gt;5. Comics, yeah.&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; antigravity
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;6-its-not-a-choice-it-defines-who-we-are&#34;&gt;6. It&#39;s not a choice, it defines who we are&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; __future__ &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; braces
-  File &lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;lt;stdin&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;, line &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; antigravity
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;6-its-not-a-choice-it-defines-who-we-are&#34;&gt;6. It&amp;rsquo;s not a choice, it defines who we are&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; __future__ &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; braces
+  File &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;lt;stdin&amp;gt;&amp;#34;&lt;/span&gt;, line &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;
 &lt;span style=&#34;color:#a6e22e&#34;&gt;SyntaxError&lt;/span&gt;: &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; a chance
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;7-origins&#34;&gt;7. Origins&lt;/h3&gt;
 &lt;p&gt;The name Python has nothing to do with the type of Snake.&lt;/p&gt;
 &lt;h3 id=&#34;8-the-confuscation&#34;&gt;8. The confuscation&lt;/h3&gt;
 &lt;p&gt;This is how the &lt;code&gt;this.py&lt;/code&gt; module looks, which prints the Zen of Python.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;s &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;#34;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Gur Mra bs Clguba, ol Gvz Crgref&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Ornhgvshy vf orggre guna htyl.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Rkcyvpvg vf orggre guna vzcyvpvg.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Fvzcyr vf orggre guna pbzcyrk.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Pbzcyrk vf orggre guna pbzcyvpngrq.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Syng vf orggre guna arfgrq.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Fcnefr vf orggre guna qrafr.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Ernqnovyvgl pbhagf.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Fcrpvny pnfrf nera&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;g fcrpvny rabhtu gb oernx gur ehyrf.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Nygubhtu cenpgvpnyvgl orngf chevgl.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Reebef fubhyq arire cnff fvyragyl.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Hayrff rkcyvpvgyl fvyraprq.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Va gur snpr bs nzovthvgl, ershfr gur grzcgngvba gb thrff.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Gurer fubhyq or bar-- naq cersrenoyl bayl bar --boivbhf jnl gb qb vg.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Nygubhtu gung jnl znl abg or boivbhf ng svefg hayrff lbh&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;er Qhgpu.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Abj vf orggre guna arire.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Nygubhtu arire vf bsgra orggre guna *evtug* abj.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Vs gur vzcyrzragngvba vf uneq gb rkcynva, vg&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;f n onq vqrn.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Vs gur vzcyrzragngvba vf rnfl gb rkcynva, vg znl or n tbbq vqrn.&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Anzrfcnprf ner bar ubaxvat terng vqrn -- yrg&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;f qb zber bs gubfr!&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;#34;&amp;#34;&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;s &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;#34;&amp;#34;Gur Mra bs Clguba, ol Gvz Crgref
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Ornhgvshy vf orggre guna htyl.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Rkcyvpvg vf orggre guna vzcyvpvg.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Fvzcyr vf orggre guna pbzcyrk.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Pbzcyrk vf orggre guna pbzcyvpngrq.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Syng vf orggre guna arfgrq.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Fcnefr vf orggre guna qrafr.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Ernqnovyvgl pbhagf.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Fcrpvny pnfrf nera&amp;#39;g fcrpvny rabhtu gb oernx gur ehyrf.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Nygubhtu cenpgvpnyvgl orngf chevgl.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Reebef fubhyq arire cnff fvyragyl.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Hayrff rkcyvpvgyl fvyraprq.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Va gur snpr bs nzovthvgl, ershfr gur grzcgngvba gb thrff.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Gurer fubhyq or bar-- naq cersrenoyl bayl bar --boivbhf jnl gb qb vg.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Nygubhtu gung jnl znl abg or boivbhf ng svefg hayrff lbh&amp;#39;er Qhgpu.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Abj vf orggre guna arire.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Nygubhtu arire vf bsgra orggre guna *evtug* abj.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Vs gur vzcyrzragngvba vf uneq gb rkcynva, vg&amp;#39;f n onq vqrn.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Vs gur vzcyrzragngvba vf rnfl gb rkcynva, vg znl or n tbbq vqrn.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Anzrfcnprf ner bar ubaxvat terng vqrn -- yrg&amp;#39;f qb zber bs gubfr!&amp;#34;&amp;#34;&amp;#34;&lt;/span&gt;
 
 d &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; {}
 &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; c &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; (&lt;span style=&#34;color:#ae81ff&#34;&gt;65&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;97&lt;/span&gt;):
     &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; i &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; range(&lt;span style=&#34;color:#ae81ff&#34;&gt;26&lt;/span&gt;):
         d[chr(i&lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt;c)] &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; chr((i&lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;13&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;26&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; c)
 
-&lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;join([d&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;get(c, c) &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; c &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; s]))
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The code for the Zen violates itself. It&#39;s not beautiful but ugly, not explicit but implicit.
+&lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;join([d&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;get(c, c) &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; c &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; s]))
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The code for the Zen violates itself. It&amp;rsquo;s not beautiful but ugly, not explicit but implicit.
 This would probably be the &lt;em&gt;only&lt;/em&gt; module to go against the spirit of what it says itself.
 .&lt;/p&gt;
 &lt;h3 id=&#34;9-cc-anyone&#34;&gt;9. C/C++ anyone?&lt;/h3&gt;
 &lt;p&gt;From the Zen again,&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;There should be one-- and preferably only one --obvious way to do it.
 &lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;10-naming-identifiers-can-be-unspeakably-cool&#34;&gt;10. Naming identifiers can be unspeakably cool&lt;/h3&gt;
-&lt;p&gt;Just when you thought that working in Python couldn&#39;t possibly &lt;em&gt;be&lt;/em&gt; any more fun,&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; math &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pi
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;π&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pi
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; area &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;π&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; r&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;
+&lt;p&gt;Just when you thought that working in Python couldn&amp;rsquo;t possibly &lt;em&gt;be&lt;/em&gt; any more fun,&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; math &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pi
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;π&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pi
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; area &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;π&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; r&lt;span style=&#34;color:#f92672&#34;&gt;**&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;
 
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; résumé &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;knows Python&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Python&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; résumé
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; résumé &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;knows Python&amp;#39;&lt;/span&gt;
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Python&amp;#39;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; résumé
 True
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;11-picking-a-place-for-meetup&#34;&gt;11. Picking a place for meetup?&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; antigravity &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; geohash
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;# Your location, a date and that date&amp;#39;s (or most recent) DJIA opening.&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; geohash(&lt;span style=&#34;color:#ae81ff&#34;&gt;37.421542&lt;/span&gt;, &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;122.085589&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;b&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;2005-05-26-10458.68&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;)
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; antigravity &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; geohash
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;# Your location, a date and that date&amp;#39;s (or most recent) DJIA opening.&lt;/span&gt;
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; geohash(&lt;span style=&#34;color:#ae81ff&#34;&gt;37.421542&lt;/span&gt;, &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;122.085589&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;b&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;2005-05-26-10458.68&amp;#39;&lt;/span&gt;)
 &lt;span style=&#34;color:#ae81ff&#34;&gt;37.857713&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;122.544543&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This can generate a GPS coordinate in a region which is 1 longitude long and 1
 latitude wide based on your location.&lt;/p&gt;
 &lt;h3 id=&#34;12-the-flufl---friendly-language-uncle-for-life-from-pep-401----bdfl-retirementhttpswwwpythonorgdevpepspep-0401&#34;&gt;12. The FLUFL - Friendly Language Uncle For Life from &lt;a href=&#34;https://www.python.org/dev/peps/pep-0401&#34;&gt;PEP 401 &amp;ndash; BDFL Retirement&lt;/a&gt;&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; __future__ &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; barry_as_FLUFL
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; __future__ &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; barry_as_FLUFL
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;
 True
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;
-  File &lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;lt;stdin&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;, line &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;
+  File &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;lt;stdin&amp;gt;&amp;#34;&lt;/span&gt;, line &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;
     &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;
        &lt;span style=&#34;color:#f92672&#34;&gt;^&lt;/span&gt;
 &lt;span style=&#34;color:#a6e22e&#34;&gt;SyntaxError&lt;/span&gt;: invalid syntax
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Recognized that the != inequality operator in Python 3.0 was a horrible, finger pain inducing mistake, the FLUFL reinstates the &amp;lt;&amp;gt; diamond operator as the sole spelling.&lt;/p&gt;
 &lt;h3 id=&#34;13-inpynite&#34;&gt;13. InPynite?&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; infinity &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; float(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;infinity&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;)
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; hash(infinity)
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; infinity &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; float(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;infinity&amp;#39;&lt;/span&gt;)
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; hash(infinity)
 &lt;span style=&#34;color:#ae81ff&#34;&gt;314159&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; hash(float(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;-inf&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;))
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; hash(float(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;-inf&amp;#39;&lt;/span&gt;))
 &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;314159&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;A hash is a fixed sized integer that identifies a particular value. On a closer look, the hash of infinity is 10^5 x pi. Interestingly, hash(float(&#39;-inf&amp;rsquo;)) yields -10^5 x pi in python3, whereeas -271828 i.e - 10^5 x e in python2.&lt;/p&gt;
 &lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Easiest hello world program in a language without calling any function&lt;/li&gt;
-&lt;li&gt;Each and every line is the philosophy of Python&#39;s design and is a supreme holy guide&lt;/li&gt;
+&lt;li&gt;Each and every line is the philosophy of Python&amp;rsquo;s design and is a supreme holy guide&lt;/li&gt;
 &lt;li&gt;Maybe just to show that there always should be a new line at the end of a file!&lt;/li&gt;
 &lt;li&gt;Not an easter egg, a joke in the interpreter&lt;/li&gt;
 &lt;li&gt;It opens this &lt;a href=&#34;https://xkcd.com/353&#34;&gt;xkcd comic&lt;/a&gt; which demonstrates how easy it is to do stuff with modules&lt;/li&gt;
 &lt;li&gt;This is to instantly close down any conversation about introducing curly braces to Python&lt;/li&gt;
-&lt;li&gt;Guido van Rossum is a big fan of &lt;a href=&#34;https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus&#34;&gt;Monty Python&#39;s Flying Circus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;It&#39;s a substitution cipher called &lt;a href=&#34;https://en.wikipedia.org/wiki/ROT13&#34;&gt;ROT13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guido van Rossum is a big fan of &lt;a href=&#34;https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus&#34;&gt;Monty Python&amp;rsquo;s Flying Circus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a substitution cipher called &lt;a href=&#34;https://en.wikipedia.org/wiki/ROT13&#34;&gt;ROT13&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;In many languages there are two ways to do the same thing &lt;code&gt;--no&lt;/code&gt; and &lt;code&gt;no--&lt;/code&gt;. The message has a hidden example in itself&lt;/li&gt;
 &lt;li&gt;Support for unicode character set for naming identifiers was added in Python3. Though, it is not explicitly preferred while writing code, it adds flavour to working with scientific formulas&lt;/li&gt;
-&lt;li&gt;The original code is &lt;a href=&#34;https://github.com/python/cpython/blob/master/Lib/antigravity.py&#34;&gt;here&lt;/a&gt; with the &lt;a href=&#34;https://xkcd.com/426/&#34;&gt;xkcd comic&lt;/a&gt; referenced, and maybe that&#39;s why this is also in the &lt;code&gt;antigravity&lt;/code&gt; module&lt;/li&gt;
-&lt;li&gt;The &lt;a href=&#34;https://www.python.org/dev/peps/pep-0401/&#34;&gt;PEP 401&lt;/a&gt; is an April Fools&amp;rsquo; Joke - The PEP&#39;s number is 401, i.e. 4/01 or April 1st (April Fools&amp;rsquo; Day). The PEP states that Guido van Rossum is stepping down. The new title given to him would be pronounced &amp;ldquo;BDEVIL&amp;rdquo; (Benevolent Dictator Emeritus Vacationing Indefinitely from the Language) and Guido&#39;s successor will be Barry Warsaw, or as he is affectionately known, Uncle Barry. Uncle Barry&#39;s official title is &amp;ldquo;FLUFL&amp;rdquo; (Friendly Language Uncle For Life). There are in-jokes about the Parrot virtual machine and the &amp;ldquo;non-existent&amp;rdquo; Python Secret Underground (possibly a throw-back to &lt;a href=&#34;https://en.wikipedia.org/wiki/There_Is_No_Cabal&#34;&gt;&amp;ldquo;TINC&amp;rdquo; on USENET&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;The original code is &lt;a href=&#34;https://github.com/python/cpython/blob/master/Lib/antigravity.py&#34;&gt;here&lt;/a&gt; with the &lt;a href=&#34;https://xkcd.com/426/&#34;&gt;xkcd comic&lt;/a&gt; referenced, and maybe that&amp;rsquo;s why this is also in the &lt;code&gt;antigravity&lt;/code&gt; module&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://www.python.org/dev/peps/pep-0401/&#34;&gt;PEP 401&lt;/a&gt; is an April Fools&amp;rsquo; Joke - The PEP&amp;rsquo;s number is 401, i.e. 4/01 or April 1st (April Fools&amp;rsquo; Day). The PEP states that Guido van Rossum is stepping down. The new title given to him would be pronounced &amp;ldquo;BDEVIL&amp;rdquo; (Benevolent Dictator Emeritus Vacationing Indefinitely from the Language) and Guido&amp;rsquo;s successor will be Barry Warsaw, or as he is affectionately known, Uncle Barry. Uncle Barry&amp;rsquo;s official title is &amp;ldquo;FLUFL&amp;rdquo; (Friendly Language Uncle For Life). There are in-jokes about the Parrot virtual machine and the &amp;ldquo;non-existent&amp;rdquo; Python Secret Underground (possibly a throw-back to &lt;a href=&#34;https://en.wikipedia.org/wiki/There_Is_No_Cabal&#34;&gt;&amp;ldquo;TINC&amp;rdquo; on USENET&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/Python/comments/6wrd8t/nice_lil_easter_egg_i_suppose/&#34;&gt;Source&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;add-more&#34;&gt;Add more&lt;/h2&gt;
@@ -693,7 +771,7 @@ fiexport last\_fortune=$(cowsay -f ${cows[$[ ( $RANDOM % $MAX ) + 1 ]]} `fortune
 &lt;p&gt;&lt;strong&gt;Github connects you with other people who are interested in sharing and creating together.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;So there are really two ways to begin with. Here goes the first one.&lt;/p&gt;
 &lt;p&gt;Create a repository : Repository is what you call the stuff you are going to upload and work on. Go to &lt;a href=&#34;https://github.com/new&#34;&gt;https://github.com/new&lt;/a&gt; and create a repository. Let’s name it hello-world. 
-Add some description, or you might want to add it later. Initialize it with a Readme. It&#39;s a good practice and let&#39;s you clone it immediately. (Yeah right, see below)&lt;/p&gt;
+Add some description, or you might want to add it later. Initialize it with a Readme. It&amp;rsquo;s a good practice and let&amp;rsquo;s you clone it immediately. (Yeah right, see below)&lt;/p&gt;
 &lt;p&gt;Clone it : Open your console, move to the directory where you want to work and do this.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;$ git clone https://github.com/username/hello-world.git
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This will create a directory in your computer. Now, this isn’t a simple directory. It is a ‘clone’ of the github repository. You can say that the files in it are controlled by the version control system git and tracked with the repository on github. Note : If you have not installed git, see &lt;a href=&#34;https://git-scm.com/book/en/v2/Getting-Started-Installing-Git&#34;&gt;this&lt;/a&gt;.&lt;/p&gt;
@@ -780,7 +858,7 @@ git push -u origin master
 &lt;pre&gt;&lt;code&gt;wget -O .gitignore https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore
 git add -A
 git commit -m &amp;quot;Added .gitignore file&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now, you’ll try to remove the pyc files, using rm -rf *.pyc. But as soon as you&#39;ll do this, (and if you&#39;re using oh-my-zsh), you&#39;ll see a cross on your prompt. That means, git has &lt;em&gt;detected&lt;/em&gt; a change.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now, you’ll try to remove the pyc files, using rm -rf *.pyc. But as soon as you&amp;rsquo;ll do this, (and if you&amp;rsquo;re using oh-my-zsh), you&amp;rsquo;ll see a cross on your prompt. That means, git has &lt;em&gt;detected&lt;/em&gt; a change.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;But wait? Why is git detecting changes to pyc files, when I’ve already added the gitignore!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Now, if you’re me, you’ll feel betrayed by git. You’ll make a few calls and send messages to people, and say &lt;em&gt;“gitignore is not obeying me”&lt;/em&gt;, and they’ll hang up on you, saying &lt;em&gt;“it must be your fault”&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Believe me, even the “future me” would have said the same.&lt;/p&gt;
