@@ -7,10 +7,44 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://orkohunter.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The OrkoHunter Podcast</title>
+      <link>https://orkohunter.net/podcast/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/podcast/</guid>
+      <description>&lt;p&gt;This is a series of public conversations with my friends and colleagues about tech and life.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://orkohunter.net/img/podcast-logo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;why-a-podcast&#34;&gt;Why a Podcast?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;and not just blog posts.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;I love to read and write blog posts but I realized they are not enough. Podcast is a dialogue. Blog posts are monologoues. Podcast requires me to work on my speaking/conversational skills. Blog posts need me to work on my writing skills.&lt;/li&gt;
+&lt;li&gt;A lot of my blog posts have come from conversations with my friends. I felt it is a good idea to publish some of those raw conversations.&lt;/li&gt;
+&lt;li&gt;An excuse to find time and have meaningful conversations ;)&lt;/li&gt;
+&lt;li&gt;It is another form of knowledge sharing and can help some people.&lt;/li&gt;
+&lt;li&gt;The whole experience is exciting and fun for everyone involved!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;what-will-you-talk-about&#34;&gt;What will you talk about?&lt;/h2&gt;
+&lt;p&gt;My interest revolves around Software Engineering, Open Source, Life in College, Music, Literature and Spirituality. But these do not include the interests of my friends, so there should be more!&lt;/p&gt;
+&lt;h2 id=&#34;how-frequent-will-the-episodes-be&#34;&gt;How frequent will the episodes be?&lt;/h2&gt;
+&lt;p&gt;Optimistically, I hope to create at least one episode per month.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-get-notified&#34;&gt;How to get notified?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Subscribe via the &lt;a href=&#34;https://www.youtube.com/channel/UCGw2D1bMcZPzVUlIulkPWPg&#34;&gt;Youtube Channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow Podcast on &lt;a href=&#34;https://open.spotify.com/show/63uiWzrJ2093CxYcJLxXC8?si=7qZOjQ7oTCqjUUNHgX8hbA&#34;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;On &lt;a href=&#34;https://anchor.fm/the-orkohunter-podcast&#34;&gt;Anchor.fm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to hear me talk about something specific or with someone, let me know. I will need your ideas in the near future as soon as I run out of mine&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Blog posts</title>
@@ -83,6 +117,8 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;essays&#34;&gt;Essays&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://paulgraham.com/vb.html&#34;&gt;Life is Short by Paul Graham&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/&#34;&gt;Do not remain nameless to yourself, Letter by Richard Feynman&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224524/https://qz.com/india/431397/i-sacrificed-my-health-and-teenage-years-to-study-at-the-iits-but-was-it-worth-it/&#34;&gt;A retrospection of life spent at IIT&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224602/https://neopythonic.blogspot.com/2016/04/kings-day-speech.html&#34;&gt;The heart-felt speech by Guido on creating Python and its present day influences&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224636/https://medium.com/s/story/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0&#34;&gt;How a TV Sitcom triggered the downfall of western civilization&lt;/a&gt;&lt;/li&gt;

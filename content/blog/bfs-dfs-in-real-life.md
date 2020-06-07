@@ -31,10 +31,10 @@ Read the wikipedia articles if you want to know more. [BFS](https://en.wikipedia
 
 ## What are you saying?
 
-BFS and DFS can be seen among people as traits of how they make friends. Like introversion and extroversion, BFS and DFS are the characteristics of people's approach to *friendship*.
+BFS and DFS can be seen among people as traits of how they make friends. Like introversion and extroversion, BFS and DFS are the characteristics of people's approach to _friendship_.
 
 > _You might already have some idea by now. Take few seconds and draw a picture. Imagine two people (one doing BFS and other doing DFS)
-and think how they are different. It is fun to observe and ponder. :)_
+> and think how they are different. It is fun to observe and ponder. :)_
 >
 > College campus life is a perfect setting to spot both kinds of people.
 
@@ -67,6 +67,6 @@ Everyone has to do BFS first. In first year of college, you don't have enough no
 
 After this, if you are a DFS person, your DFS mode will trigger. And it never stops.
 
-I do not have a dichotomous view on which is the right way of living. I believe one has to find the right balance. 
+I do not have a dichotomous view on which is the right way of living. I believe one has to find the right balance.
 
 _Thanks to [Nishant Nikhil](https://nishnik.me) for bringing this up, one fine evening back in college._
