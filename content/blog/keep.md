@@ -10,10 +10,9 @@ slug = "keep"
 
 ## A Meta CLI toolkit
 
-
 > Writwick Wraj loves using the command line.
-> Writwick googles “How to do X in terminal?” and multiple forums and blog posts finally provide him the magical *command* for the rescue. Problem Solved !
-> Fast forward couple weeks, Writwick has to do X in terminal, again. Wraj remembers solving this few weeks ago. Let him do a reverse-i-search with *Ctrl+R*. Nope, can’t remember sh*t. Browser search history? 25 web pages found matching *X*. Argh!
+> Writwick googles “How to do X in terminal?” and multiple forums and blog posts finally provide him the magical _command_ for the rescue. Problem Solved !
+> Fast forward couple weeks, Writwick has to do X in terminal, again. Wraj remembers solving this few weeks ago. Let him do a reverse-i-search with _Ctrl+R_. Nope, can’t remember sh*t. Browser search history? 25 web pages found matching *X\*. Argh!
 > Writwik finally finds the solution. From this time Writwik starts writing the commands somewhere online for the future.
 > Wait, why shouldn’t he keep the command in his terminal itself if this is only place where he’ll ever have use it?
 
@@ -34,5 +33,8 @@ The Source Code is hosted at GitHub : <https://github.com/Orkohunter/keep>
 
 Keep can be installed using pip
 
-$ pip install keepHappy Coding !
+```
+$ pip install keep
+```
 
+Happy Coding !

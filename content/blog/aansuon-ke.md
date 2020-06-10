@@ -20,5 +20,6 @@ slug = "aanshuon-ke-bimb-se"
 
 उसे गहराइयों की सुकूँ भाती चली गयी ।
 
-Thanks to Sandeep Jha for the first two lines.
+# .
 
+Thanks to Sandeep Jha for the first two lines.

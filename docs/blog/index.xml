@@ -77,17 +77,17 @@ And I want to quote what I read and later express some of my thoughts on the sub
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/blog/aur-tasveerein/</guid>
-      <description>जो इन रंगों से कागज़ तुम सजाते हो,
+      <description>You can listen to my naratted version on Youtube.
+ जो इन रंगों से कागज़ तुम सजाते हो,
 जो ये सुन्दर रंग-चित्र तुम बनाते हो,
 तुम्हारे मन में अभी
 और तसवीरें आने को हैं न !
-जो मधुर गीत ये तुम सुनाते हो,
+. जो मधुर गीत ये तुम सुनाते हो,
 धुन ये प्यारी गुन गुनाते हो,
-तुम्हारे दिल में अभी और तरंगें बजने को हैं न !
-जो ये प्यारी बातें उसे बताते हो,
-जो ये सुन्दर सपनें खुदको दिखाते हो,
-तुम्हारी ज़िन्दगी में
-कितना और सोचने को है न !</description>
+तुम्हारे दिल में अभी
+और तरंगें बजने को हैं न !
+. जो ये प्यारी बातें उसे बताते हो,
+जो ये सुन्दर सपनें खुदको दिखाते हो,</description>
     </item>
     
     <item>
@@ -173,7 +173,8 @@ Few months ago, a significant percentage of my peers were involved in the proces
       
       <guid>https://orkohunter.net/blog/python-easter-eggs/</guid>
       <description>Just when you thought, Python could not be more fun.
- 1. Hello World &amp;gt;&amp;gt;&amp;gt; import __hello__ Hello World! 2. The classic &amp;gt;&amp;gt;&amp;gt; import this The Zen of Python, by Tim Peters Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren&#39;t special enough to break the rules.</description>
+ Read on GitHub https://github.com/OrkoHunter/python-easter-eggs
+1. Hello World &amp;gt;&amp;gt;&amp;gt; import __hello__ Hello World 2. The classic &amp;gt;&amp;gt;&amp;gt; import this The Zen of Python, by Tim Peters Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren&#39;t special enough to break the rules.</description>
     </item>
     
     <item>
@@ -193,14 +194,19 @@ Few months ago, a significant percentage of my peers were involved in the proces
       <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/blog/dhuaan/</guid>
-      <description>ग़र्द उड़ाते उन पहियों को हर सांझ हथेली मार - मार
+      <description>ग़र्द उड़ाते उन पहियों को
+हर सांझ हथेली मार - मार
 सड़कें जो नापी सब ने ;
 उस धुएं में छुपे
 सत्य की परवाह थी क्या किसे ?
-ढलते उसी वक्त में चूल्हे में गोयठे सुलगाती हज़ारों बार आँखें सेंकी ;
+. ढलते उसी वक्त में
+चूल्हे में गोयठे सुलगाती
+हज़ारों बार आँखें सेंकी ;
 उन अगणित माताओं के
 नयनों की परवाह थी क्या किसे ?
-उन्मुक्त मित्र-मंडलियों संग जब धुएं में विलुप्त अंतर्मन फिरदौस की सैर हम करते ;
+. उन्मुक्त मित्र-मंडलियों संग
+जब धुएं में विलुप्त अंतर्मन
+फिरदौस की सैर हम करते ;
 तब दिल में उस बुझते</description>
     </item>
     
@@ -254,7 +260,7 @@ What Instagram should never be about   Sharing pictures with your face in it Co
 ख़ुशी का भरोसा दिया मैंने
 न जाने मेरा हाथ क्यों न थामाँ उसने
 उसे गहराइयों की सुकूँ भाती चली गयी ।
-Thanks to Sandeep Jha for the first two lines.</description>
+. Thanks to Sandeep Jha for the first two lines.</description>
     </item>
     
     <item>
@@ -335,12 +341,22 @@ So, I either eat or surf the web when I’m not studying. That’s pretty much i
       <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/blog/masaan/</guid>
-      <description>तसव्वुर से उसके ही कुछ, यूँ उतर के तुम उसके नज़रों से छल करती ,
-आज छज्जे पे बैठ के उसके दिल का, अकस्मात् टोह क्यों ले रही
-याद है वो मेले में इनायत थी मिली उसे जो गुब्बारों की सनसनी दौड़ में आतिशबाजियों के बीच मन विक्षिप्त कर दिया था तुमने
-जब संगम के किनारे उस शांत
-मदमस्त हवा के बीच सलीके में लब काँप उठे थे उसके
-प्रेम की चरमसीमा थी वो या अमरसंगीत का शुभारम्भ जब घाट पर उस दिन तुम्हारा मोती चुरा कर उसने अपनी रूह के संग</description>
+      <description>तसव्वुर से उसके ही
+कुछ, यूँ उतर के तुम
+उसके नज़रों से छल करती ,
+. आज छज्जे पे बैठ के उसके
+दिल का, अकस्मात्
+टोह क्यों ले रही
+. याद है वो मेले में
+इनायत थी मिली उसे
+जो गुब्बारों की सनसनी दौड़ में
+आतिशबाजियों के बीच
+मन विक्षिप्त कर दिया था तुमने
+. जब संगम के किनारे
+उस शांत
+मदमस्त हवा के बीच
+सलीके में
+लब काँप उठे थे उसके</description>
     </item>
     
     <item>
