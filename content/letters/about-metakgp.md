@@ -14,7 +14,6 @@ You can listen to this in background [Before The Beginning - John Frusciante (Yo
 
 > I wrote this couple of days ago, I wanted to send it to a private chat. But I don't think I can, so I am sending it here. Of all people at MetaKGP, I surely think I can correspond freely with you.
 
-
 > Hello :name-retracted:, :name-retracted: and :name-retracted:!
 
 > I am writing this specifically for you guys because for me MetaKGP has always been defined by you three. (+ :name-retracted: and Himanshu)
@@ -61,9 +60,9 @@ Can I tell you something about Kharagpur Winter of Code? :name-retracted: has st
 
 One of my perspectives for MetaKGP is the same. It is trying to help students without giving any sustainable incentive, and hoping they would stick together. No, they won't. I still go back to the group because I know that some people in there share the same passion for Software as I do. Why are we not working on developing that passion? Why are we not passionate about creating things anymore? Small things, doesn't matter, but it should be solving the problem of at least one person. Let us do that! Let us empower more beginners to achieve this. Second years like :name-retracted: and "name-retracted: have such bright college life ahead, they do things which less than 1% of their batch would be able to comprehend. This is what we should be doing. And people like :name-retracted: and :name-retracted: are their inspirations when they do these things. The people who inspire them, just don't know how they are helping others without actually willing to.
 
-I believe the "problem with MetaKGP" began when :name-retracted: misunderstood it. He started believing that promoting MetaKGP will solve all the problems because it represents the core concept of Freedom in software and a war against proprietary things (in this case, closed KGP societies and Hall culture). The concept of being open to everyone and hierarchy, all routed his passion towards promoting MetaKGP. It was hard to argue with him because he had forgotten what it feels to be the first year and knowing rat shit about these technologies and ideas. He had lost the concept of being a guide to juniors long time ago and he became a friend to everyone. Alas, that was never going to solve the issue. Willingly or unwillingly, everyone started spreading "word" about MetaKGP. 
+I believe the "problem with MetaKGP" began when :name-retracted: misunderstood it. He started believing that promoting MetaKGP will solve all the problems because it represents the core concept of Freedom in software and a war against proprietary things (in this case, closed KGP societies and Hall culture). The concept of being open to everyone and hierarchy, all routed his passion towards promoting MetaKGP. It was hard to argue with him because he had forgotten what it feels to be the first year and knowing rat shit about these technologies and ideas. He had lost the concept of being a guide to juniors long time ago and he became a friend to everyone. Alas, that was never going to solve the issue. Willingly or unwillingly, everyone started spreading "word" about MetaKGP.
 
-But if you read :name-retracted:'s :article-name-retracted: you will find the motive *":exact-words-retracted:"* For me,
+But if you read :name-retracted:'s :article-name-retracted: you will find the motive _":exact-words-retracted:"_ For me,
 
 - Collaboration comes when we work together to organize a big event, not one person contacting people to come and speak. Collaboration is when someone messages you "I will take care of this", but you insist on sharing the work because you know they would get exhausted by the amount of work involved and they just said it because they are junior to you.
 - Openness is when we freely respond to juniors and batchmates "Yaar room pe aa ja kabhi bhi; Chal milte hain; Yaha se padh le". Two days ago, I met 3 unknown juniors from RK. They wished to open a startup of memes. They didn't know what GET/POST requests are. I told them everything, how they can use MVC, databases, image editing with js, apps, security of servers. I left them with the suggestion, "Don't do this if you are aiming for users, do this because you want this product to be alive, do it just for the sake of creating it. Users will follow. And even if they don't, you'll never regret the fact of creating something." I spent 2 hours with them and comforted them to approach me anytime in future. I guess that would be openness. I did not add them to KOSS or MetaKGP because it will not help them as of now, and they would probably be a victim of inferiority complex, as a lot of my friends were when I added them to KLUG in my first year. I was different and developed the false belief that this was the correct way and hence it would work for everyone.
@@ -86,10 +85,10 @@ PS. I was listening to Post Rock the whole time. ;)
 
 > At the first place, you don't need to be sorry for that. This incident has very little correlation to the cab discussion.
 
-> You have provided a more than verbose level of description, I would say -vv. And it resonates my own view. 
+> You have provided a more than verbose level of description, I would say -vv. And it resonates my own view.
 
 > :some comments on the previous email:
 
-> Oh this mail was such a great relief, few bad things happened these days and then you read a letter like this. I really liked the way you structured the letter, it seems like whatever is written are thoughts which came spontaneously to the mind but analysis which had always been there with ready references. *Chuckle*
+> Oh this mail was such a great relief, few bad things happened these days and then you read a letter like this. I really liked the way you structured the letter, it seems like whatever is written are thoughts which came spontaneously to the mind but analysis which had always been there with ready references. _Chuckle_
 
 > I hope ki you are going good with the guitar!
