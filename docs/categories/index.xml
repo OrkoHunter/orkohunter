@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://orkohunter.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Non-Tech</title>
+      <link>https://orkohunter.net/categories/non-tech/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/categories/non-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://orkohunter.net/categories/tech/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/categories/tech/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>podcast</title>
@@ -27,24 +45,6 @@
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/categories/letters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://orkohunter.net/categories/tech/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/categories/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Non-Tech</title>
-      <link>https://orkohunter.net/categories/non-tech/</link>
-      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/categories/non-tech/</guid>
       <description></description>
     </item>
     
