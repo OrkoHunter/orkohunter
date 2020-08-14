@@ -10,7 +10,7 @@ role = "Software Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Mercari US", url = "https://www.mercari.com/" }, { name = "IIT Kharagpur", url = "http://iitkgp.ac.in" } ]
+organizations = [ { name = "Spotify", url = "https://www.spotify.com/" }, { name = "IIT Kharagpur", url = "http://iitkgp.ac.in" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -54,7 +54,7 @@ interests = []
 
 +++
 
-Hello! My name is Himanshu Mishra. I am a Software Engineer at Mercari US, living in Tokyo, Japan.
+Hello! My name is Himanshu Mishra. I am a Software Engineer at Spotify, living in Stockholm, Sweden.
 I graduated from IIT Kharagpur, India.
 
 I spent my college days discovering my affection for Software engineering.

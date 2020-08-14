@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://orkohunter.net/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>PEP 8 Speaks</title>
       <link>https://orkohunter.net/project/pep8speaks/</link>
-      <pubDate>Sun, 17 Feb 2019 00:00:00 +0900</pubDate>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://orkohunter.net/project/pep8speaks/</guid>
       <description>A GitHub integration to automatically review Python code style on Pull Requests.
