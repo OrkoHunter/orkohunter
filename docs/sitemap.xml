@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://orkohunter.net/blog/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+    <loc>https://orkohunter.net/podcast/anish-raj/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://orkohunter.net/categories/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://orkohunter.net/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orkohunter.net/categories/podcast/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orkohunter.net/podcast/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orkohunter.net/blog/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,16 +49,6 @@
   
   <url>
     <loc>https://orkohunter.net/podcast/nishant-kgp-and-things/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://orkohunter.net/categories/podcast/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://orkohunter.net/podcast/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url>
   

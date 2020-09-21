@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://orkohunter.net/letters/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://orkohunter.net/letters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Letter with no subject</title>
       <link>https://orkohunter.net/letters/letter-with-no-subject-1/</link>

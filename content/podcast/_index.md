@@ -42,8 +42,8 @@ Optimistically, I hope to create at least one episode per month.
 
 - Subscribe via the [Youtube Channel](https://www.youtube.com/channel/UCGw2D1bMcZPzVUlIulkPWPg)
 - Follow Podcast on [Spotify](https://open.spotify.com/show/63uiWzrJ2093CxYcJLxXC8?si=7qZOjQ7oTCqjUUNHgX8hbA)
-- On [Anchor.fm](https://anchor.fm/the-orkohunter-podcast)
+- Follow on [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNTUwZWYyYy9wb2RjYXN0L3Jzcw)
 
-If you want to hear me talk about something specific or with someone, let me know. I will need your ideas in the near future as soon as I run out of mine
+If you want to hear me talk about something specific or with someone, let me know. I will need your ideas in the near future as soon as I run out of mine.
 
 ---

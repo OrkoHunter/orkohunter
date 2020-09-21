@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://orkohunter.net/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://orkohunter.net/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Live Asynchronously</title>
       <link>https://orkohunter.net/blog/live-asynchronously/</link>

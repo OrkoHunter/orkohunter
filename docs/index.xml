@@ -7,24 +7,15 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://orkohunter.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog posts</title>
-      <link>https://orkohunter.net/blog/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The OrkoHunter Podcast</title>
       <link>https://orkohunter.net/podcast/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/podcast/</guid>
       <description>&lt;p&gt;This is a series of public conversations with my friends and colleagues about tech and life.&lt;/p&gt;
@@ -48,11 +39,20 @@
 &lt;ul&gt;
 &lt;li&gt;Subscribe via the &lt;a href=&#34;https://www.youtube.com/channel/UCGw2D1bMcZPzVUlIulkPWPg&#34;&gt;Youtube Channel&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Follow Podcast on &lt;a href=&#34;https://open.spotify.com/show/63uiWzrJ2093CxYcJLxXC8?si=7qZOjQ7oTCqjUUNHgX8hbA&#34;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;On &lt;a href=&#34;https://anchor.fm/the-orkohunter-podcast&#34;&gt;Anchor.fm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow on &lt;a href=&#34;https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNTUwZWYyYy9wb2RjYXN0L3Jzcw&#34;&gt;Google Podcasts&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;If you want to hear me talk about something specific or with someone, let me know. I will need your ideas in the near future as soon as I run out of mine&lt;/p&gt;
+&lt;p&gt;If you want to hear me talk about something specific or with someone, let me know. I will need your ideas in the near future as soon as I run out of mine.&lt;/p&gt;
 &lt;hr&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Blog posts</title>
+      <link>https://orkohunter.net/blog/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/blog/</guid>
+      <description></description>
     </item>
     
     <item>

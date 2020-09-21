@@ -7,18 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://orkohunter.net/podcast/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://orkohunter.net/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#2 | Anish Raj</title>
+      <link>https://orkohunter.net/podcast/anish-raj/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/podcast/anish-raj/</guid>
+      <description>Links  Youtube Spotify Google Podcasts  </description>
+    </item>
     
     <item>
-      <title>Nishant Nikhil - KGP and Things</title>
+      <title>#1 | Nishant Nikhil - KGP and Things</title>
       <link>https://orkohunter.net/podcast/nishant-kgp-and-things/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/podcast/nishant-kgp-and-things/</guid>
-      <description>Links  Spotify Youtube  </description>
+      <description>Links  Youtube Spotify Google Podcasts  </description>
     </item>
     
   </channel>

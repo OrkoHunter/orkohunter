@@ -6,21 +6,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://orkohunter.net/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Nishant Nikhil - KGP and Things</title>
+      <title>#2 | Anish Raj</title>
+      <link>https://orkohunter.net/podcast/anish-raj/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/podcast/anish-raj/</guid>
+      <description>&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yyOAtbyXYGE&#34;&gt;&lt;strong&gt;Youtube&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/episode/1JEa3CAPfcDrZujsNi3j0C?si=rM090A0qRdaLbuko6kz89Q&#34;&gt;&lt;strong&gt;Spotify&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNTUwZWYyYy9wb2RjYXN0L3Jzcw&#34;&gt;&lt;strong&gt;Google Podcasts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#1 | Nishant Nikhil - KGP and Things</title>
       <link>https://orkohunter.net/podcast/nishant-kgp-and-things/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/podcast/nishant-kgp-and-things/</guid>
       <description>&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/episode/0K5EvK4JRIDOaHvk1atRZ0?si=I90fuhZuRfuoocn2jgZAnA&#34;&gt;&lt;strong&gt;Spotify&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UqDifCJH4uQ&#34;&gt;&lt;strong&gt;Youtube&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/episode/0K5EvK4JRIDOaHvk1atRZ0?si=I90fuhZuRfuoocn2jgZAnA&#34;&gt;&lt;strong&gt;Spotify&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNTUwZWYyYy9wb2RjYXN0L3Jzcw&#34;&gt;&lt;strong&gt;Google Podcasts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
