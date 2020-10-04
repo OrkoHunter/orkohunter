@@ -45,7 +45,7 @@ Three years ago, I read this blog post by Quincy Larson, the founder of freecode
 
 Working Synchronously is the easy option. Async is hard to code and to practice in real life.
 
-Living async means writing neglibile number of messages/emails which require you to constantly wait until there is response. They block you from continuing to work on something else. Living async means lesser number of unimportant meetings and sync ups. In fact, when I used to be stuck in the beginning, I used to write my doubts as long expressive messages and would not expect a response immediately. I think I learnt this from the Open Source communities. ;)
+Living async means writing negligible number of messages/emails which require you to constantly wait until there is response. They block you from continuing to work on something else. Living async means lesser number of unimportant meetings and sync ups. In fact, when I used to be stuck in the beginning, I used to write my doubts as long expressive messages and would not expect a response immediately. I think I learnt this from the Open Source communities. ;)
 
 ### Working concurrently
 
@@ -71,7 +71,7 @@ Unit tests are great. But I love end to end integration tests a lot. They give m
 
 ### No unconstructive criticism
 
-When we join a new place, we notices hundreds of things that can be done better (according to us). If I go on complaining about all, and do not offer to fix any, I am being unhelpful. So, I did not offer any unnessary feedback or criticism unless they were constructive.
+When we join a new place, we notice hundreds of things that can be done better (according to us). If I go on complaining about all, and do not offer to fix any, I am being unhelpful. So, I did not offer any unnecessary feedback or criticism unless they were constructive.
 This is the Chapter 1 of [How to Win Friends and Influence People by Dale Carnegie](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People).
 
 ### Scoping a project, breaking down into smaller tasks
