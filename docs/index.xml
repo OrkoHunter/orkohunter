@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://orkohunter.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog posts</title>
+      <link>https://orkohunter.net/blog/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The OrkoHunter Podcast</title>
@@ -44,15 +53,6 @@
 &lt;p&gt;If you want to hear me talk about something specific or with someone, let me know. I will need your ideas in the near future as soon as I run out of mine.&lt;/p&gt;
 &lt;hr&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Blog posts</title>
-      <link>https://orkohunter.net/blog/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/</guid>
-      <description></description>
     </item>
     
     <item>
