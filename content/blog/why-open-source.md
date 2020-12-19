@@ -38,7 +38,7 @@ In India, more than a million students graduate engineering courses _every year_
 
 These numbers break my heart. Not everyone gets the chance to experience joy and growth in their career.
 
-Open Source is a small but a beam of hope for these students. Google Summer of Code doesn't look at your IIT JEE rank for you to participate in it. Maintainers don't look at what Department or college you study in, before answering your questions. All these nonsensical privilege barriers do not exist in your way to improve yourself and learn.
+Open Source is small but a beam of hope for these students. Google Summer of Code doesn't look at your IIT JEE rank for you to participate in it. Maintainers don't look at what Department or college you study in, before answering your questions. All these nonsensical privilege barriers do not exist in your way to improve yourself and learn.
 
 ## You become a volunteer
 
