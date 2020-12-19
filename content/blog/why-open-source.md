@@ -2,7 +2,7 @@
 date = "2020-12-19"
 title = "Why should one do Open Source in college?"
 subtitle = ""
-summary = "If you are planning to stay close to Software after graduation, this article might win you over to do some Open Source during college."
+summary = "If you are planning to stay close to Software after graduation, this article might win you over to do Open Source."
 draft = false
 categories = ["Tech"]
 slug = "why-do-open-source-in-college"
