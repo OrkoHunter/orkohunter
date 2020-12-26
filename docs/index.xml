@@ -7,10 +7,21 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://orkohunter.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Notes</title>
+      <link>https://orkohunter.net/notes/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/notes/</guid>
+      <description>&lt;p&gt;Some of my notes, made public.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://orkohunter.net/blog/we-should-write-notes/&#34;&gt;We should write notes (for life lessons)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blog posts</title>
@@ -24,7 +35,7 @@
     <item>
       <title>The OrkoHunter Podcast</title>
       <link>https://orkohunter.net/podcast/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://orkohunter.net/podcast/</guid>
       <description>&lt;p&gt;This is a series of public conversations with my friends and colleagues about tech and life.&lt;/p&gt;
