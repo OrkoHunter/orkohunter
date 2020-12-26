@@ -60,7 +60,7 @@ I haven't seen that much competition when it comes to Open Source contributions.
 
 [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) has said - _"If you find science boring, you're learning it from a wrong teacher."_
 
-I feel the same for programming. Students would not like the complexity of a doubly linked list written in C, but may enjoy Python's 10 lines of code for their web server. Sure a lot of people like writing Software, but not everyone _"loves"_ to do it for their career.
+I feel the same for programming. Students may not like the complexity of a doubly linked list written in C, but might enjoy Python's 10 lines of code for their web server. Sure a lot of people like writing Software, but not everyone _"loves"_ to do it for their career.
 
 In contrast of only working with a handful of internship projects, working on many well designed Open Source software increase our chances of falling in love with it. And it helps.
 
