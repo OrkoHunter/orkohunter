@@ -47,6 +47,8 @@ Working Synchronously is the easy option. Async is hard to code and to practice 
 
 Living async means writing negligible number of messages/emails which require you to constantly wait until there is response. They block you from continuing to work on something else. Living async means lesser number of unimportant meetings and sync ups. In fact, when I used to be stuck in the beginning, I used to write my doubts as long expressive messages and would not expect a response immediately. I think I learnt this from the Open Source communities. ;)
 
+_Edit: Some folks asked me on twitter to elaborate on this, so I wrote a follow up blog post about [living asynchronously](https://orkohunter.net/blog/live-asynchronously/)._
+
 ### Working concurrently
 
 I always took two or more concurrent (independent) tasks at the same time. If I get blocked or maybe bored with the first task, I would switch to the second one and would wait until I get unblocked. It is not feasible when the first task is huge. But even then, it can be broken down into chunks of concurrent pieces. And then, I would "parallelly process" them on my end.
