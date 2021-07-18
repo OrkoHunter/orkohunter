@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Himanshu Mishra</copyright>
-    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://orkohunter.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog posts</title>
+      <link>https://orkohunter.net/blog/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://orkohunter.net/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Notes</title>
@@ -20,15 +29,6 @@
       <guid>https://orkohunter.net/notes/</guid>
       <description>&lt;p&gt;Some of my notes, made public. &lt;a href=&#34;https://orkohunter.net/blog/we-should-write-notes/&#34;&gt;We should write notes (for life lessons)&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Blog posts</title>
-      <link>https://orkohunter.net/blog/</link>
-      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://orkohunter.net/blog/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -128,7 +128,7 @@
 &lt;h2 id=&#34;essays&#34;&gt;Essays&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://paulgraham.com/vb.html&#34;&gt;Life is Short by Paul Graham&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/&#34;&gt;Do not remain nameless to yourself, Letter by Richard Feynman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fs.blog/2014/08/richard-feynman-what-problems-to-solve/&#34;&gt;Do not remain nameless to yourself, Letter by Richard Feynman&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224524/https://qz.com/india/431397/i-sacrificed-my-health-and-teenage-years-to-study-at-the-iits-but-was-it-worth-it/&#34;&gt;A retrospection of life spent at IIT&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224602/https://neopythonic.blogspot.com/2016/04/kings-day-speech.html&#34;&gt;The heart-felt speech by Guido on creating Python and its present day influences&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20190216224636/https://medium.com/s/story/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0&#34;&gt;How a TV Sitcom triggered the downfall of western civilization&lt;/a&gt;&lt;/li&gt;
