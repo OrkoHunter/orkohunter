@@ -24,7 +24,7 @@ This is my wall where I put names of people or things which directly influence m
 ## Essays
 
 - [Life is Short by Paul Graham](http://paulgraham.com/vb.html)
-- [Do not remain nameless to yourself, Letter by Richard Feynman](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
+- [Do not remain nameless to yourself, Letter by Richard Feynman](https://fs.blog/2014/08/richard-feynman-what-problems-to-solve/)
 - [A retrospection of life spent at IIT](https://web.archive.org/web/20190216224524/https://qz.com/india/431397/i-sacrificed-my-health-and-teenage-years-to-study-at-the-iits-but-was-it-worth-it/)
 - [The heart-felt speech by Guido on creating Python and its present day influences](https://web.archive.org/web/20190216224602/https://neopythonic.blogspot.com/2016/04/kings-day-speech.html)
 - [How a TV Sitcom triggered the downfall of western civilization](https://web.archive.org/web/20190216224636/https://medium.com/s/story/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0)
