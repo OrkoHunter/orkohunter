@@ -1,7 +1,7 @@
 <div align="center">
 Hey! I'm @OrkoHunter.
 <br/>
-I am an engineer at <img alt="Spotify logo" width="22px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/assets/orkohunter/spotify.svg" /> Spotify, living in Stockholm, Sweden 🇸🇪 &nbsp;. I am from India 🇮🇳 &nbsp;.
+I am an engineer at <img alt="Spotify logo" width="16px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/assets/orkohunter/spotify.svg" /> Spotify, living in Stockholm, Sweden 🇸🇪 &nbsp;. I am from India 🇮🇳 &nbsp;.
 <br/>
 <br/>
 
