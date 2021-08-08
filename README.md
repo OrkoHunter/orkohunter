@@ -8,3 +8,6 @@ Hey! I'm @OrkoHunter
   <img alt="Himanshu's LinkedIn" width="22px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/assets/orkohunter/linkedin.svg" />
 </a>
 </div>
+
+<!-- Not interested in displaying the profile views. -->
+<img width="0" height="0" src="https://komarev.com/ghpvc/?username=orkohunter" />
