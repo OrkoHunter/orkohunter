@@ -1,12 +1,12 @@
-+++
-date = "2020-12-26"
-title = "Naval Ravikant on JRE"
-subtitle = "Two hours of Naval Ravikant on Joe Rogan Podcast"
-summary = "Two hours of Naval Ravikant on Joe Rogan Podcast"
-draft = false
-categories = ["notes"]
-slug = "/notes/naval-jre"
-+++
+---
+date: "2020-12-26"
+title: "Naval Ravikant on JRE"
+subtitle: "Two hours of Naval Ravikant on Joe Rogan Podcast"
+summary: "Two hours of Naval Ravikant on Joe Rogan Podcast"
+draft: false
+categories: ["notes"]
+slug: "/notes/naval-jre"
+---
 
 Source: https://www.youtube.com/watch?v=3qHkcs3kG44
 (Lots and lots of wisdom here. And it's easy to listen to him.)
