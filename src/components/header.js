@@ -19,13 +19,11 @@ const HeaderContainer = styled.header`
     gap: 24px;
   }
 
-  @media only screen and (max-width: 900px) {
-    margin-top: 48px;
+  /* @media only screen and (max-width: 900px) {
   }
 
   @media only screen and (max-width: 600px) {
-    margin-top: 40px;
-  }
+  } */
 `;
 
 const OrkoHunter = styled.span`
