@@ -1,12 +1,12 @@
-+++
-date = "2017-12-13"
-title = "About Metakgp"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["letters"]
-slug = "about-metakgp"
-+++
+---
+date: "2017-12-13"
+title: "About Metakgp"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["letters"]
+slug: "/letters/about-metakgp"
+---
 
 You can listen to this in background [Before The Beginning - John Frusciante (YouTube)](https://www.youtube.com/watch?v=J76MeYAGaH8)
 

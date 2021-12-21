@@ -1,12 +1,12 @@
-+++
-date = "2018-11-16"
-title = "और तसवीरें आने को हैं न !"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Non-Tech"]
-slug = "aur-tasveerein"
-+++
+---
+date: "2018-11-16"
+title: "और तसवीरें आने को हैं न !"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/aur-tasveerein"
+---
 
 [You can listen to my naratted version on Youtube.](https://www.youtube.com/watch?v=RrlWoA4D5XQ)
 

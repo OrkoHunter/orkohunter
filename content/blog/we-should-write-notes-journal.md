@@ -1,14 +1,14 @@
-+++
-date = "2019-01-12"
-title = "We should write notes (for life lessons)"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Non-Tech"]
-slug = "we-should-write-notes"
-+++
+---
+date: "2019-01-12"
+title: "We should write notes (for life lessons)"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/we-should-write-notes"
+---
 
-During my JEE preparations, I used to make a *lot* of notes. Everyone did. Our Physics teacher was a storyteller. His stories used to make me wonder. I used to write them down as well.
+During my JEE preparations, I used to make a _lot_ of notes. Everyone did. Our Physics teacher was a storyteller. His stories used to make me wonder. I used to write them down as well.
 
 I studied for two years. Thus, it was very important to write things down and keep revising. It was impossible to remember the lessons we learnt, without making good notes. My academic journey is about to end with my graduation. I realize I would not be making any notes.
 

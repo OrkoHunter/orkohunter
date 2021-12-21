@@ -1,12 +1,12 @@
-+++
-date = "2017-01-20"
-title = "What do I do when I’m bored from studying (or not studying) for the exams?"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Tech"]
-slug = "ping-me-and-keep"
-+++
+---
+date: "2017-01-20"
+title: "What do I do when I’m bored from studying (or not studying) for the exams?"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Tech"]
+slug: "/blog/ping-me-and-keep"
+---
 
 The semester is about to end and I have no clue about what is going in the end semester examinations. I have been studying a good amount of complicated Mathematics. I usually lose my temper studying my other subjects like Environmental Science, Biology and Economics. For how long will I have to study “everything”. Sigh.
 
@@ -27,4 +27,3 @@ My second toy project in the meantime came out to be `keep`. I usually don’t r
 Oh, and yes, I used python for all of the things above.
 
 Happy Coding !
-

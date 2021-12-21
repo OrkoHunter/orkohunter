@@ -1,12 +1,12 @@
-+++
-date = "2017-03-04"
-title = "धुआं (Dhuaan)"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Non-Tech"]
-slug = "dhuaan"
-+++
+---
+date: "2017-03-04"
+title: "धुआं (Dhuaan)"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/dhuaan"
+---
 
 ग़र्द उड़ाते उन पहियों को
 

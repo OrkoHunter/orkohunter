@@ -1,12 +1,12 @@
-+++
-date = "2016-11-24"
-title = "मसान (Masaan)"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Non-Tech"]
-slug = "masaan"
-+++
+---
+date: "2016-11-24"
+title: "मसान (Masaan)"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/masaan"
+---
 
 तसव्वुर से उसके ही
 

@@ -1,12 +1,12 @@
-+++
-date = "2017-01-23"
-title = "आंसुओं के बिंब से छलकती हुई दुनिया, देखी थी मैंने एक बार"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Non-Tech"]
-slug = "aanshuon-ke-bimb-se"
-+++
+---
+date: "2017-01-23"
+title: "आंसुओं के बिंब से छलकती हुई दुनिया, देखी थी मैंने एक बार"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/aanshuon-ke-bimb-se"
+---
 
 आंसुओं के बिंब से छलकती हुई दुनिया, देखी थी मैंने एक बार
 

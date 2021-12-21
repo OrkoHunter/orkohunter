@@ -11,7 +11,7 @@ const Divider = styled.hr`
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />
+    <Seo title="Himanshu Mishra | @OrkoHunter" />
     <About />
     <Divider />
   </Layout>

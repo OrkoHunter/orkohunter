@@ -1,12 +1,12 @@
-+++
-date = "2018-02-24"
-title = "The era of fake acquaintance"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["letters"]
-slug = "the-era-of-fake-acquaintance"
-+++
+---
+date: "2018-02-24"
+title: "The era of fake acquaintance"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["letters"]
+slug: "/letters/the-era-of-fake-acquaintance"
+---
 
 ## I wrote
 
@@ -27,18 +27,18 @@ From a curious homosapien, who used the internet to blab to you about internet. 
 ## :name-retracted: responded
 
 > Hi!
-> This predicament, as you are feeling, is understandable. The oddity of changing societal rules and relationships, brought about by social-media corporations, is at times overwhelming. But if you try to understand this phenomenon at an abstract level, then perhaps we can get a bigger picture. 
+> This predicament, as you are feeling, is understandable. The oddity of changing societal rules and relationships, brought about by social-media corporations, is at times overwhelming. But if you try to understand this phenomenon at an abstract level, then perhaps we can get a bigger picture.
 
 > What you have thought to be a "fake" acquaintance is not fake per se, but just another expression of the changes that are taking place in our society due to social media. It is at best, friendship in the normal sense of the word or at worst, a "virtual" acquaintance.
 
-> Humanity has come so far only because of the large-scale cooperations between diverse groups of people.This cooperation could be achieved, thanks to fictional stories like religions, society, and other collectivities which made it easier for people to trust each other. But as we all know, socio-political evolutions necessitated new stories to bind people together, and in the process, we developed theories like democracy, communism, nation-states to fit the narrative of the time better. So the critical thing to note here is that as the narrative has changed so have the rules governing the society. 
+> Humanity has come so far only because of the large-scale cooperations between diverse groups of people.This cooperation could be achieved, thanks to fictional stories like religions, society, and other collectivities which made it easier for people to trust each other. But as we all know, socio-political evolutions necessitated new stories to bind people together, and in the process, we developed theories like democracy, communism, nation-states to fit the narrative of the time better. So the critical thing to note here is that as the narrative has changed so have the rules governing the society.
 
-> It is in this context that I want to place your qualms about the internet. The internet is undoubtedly forcing us to adopt a new narrative of our time and respecting the course of history over several millennia; we must be ready to accept this reality and better adapt to the changing times by altering the "rules" of the society. 
+> It is in this context that I want to place your qualms about the internet. The internet is undoubtedly forcing us to adopt a new narrative of our time and respecting the course of history over several millennia; we must be ready to accept this reality and better adapt to the changing times by altering the "rules" of the society.
 
-> Coming to the specific case of "acquaintance on the facebook but not in real life," I do not find anything odd here. In fact, I find it empowering that acquaintances could be made even without knowing each other in real life. It is for the first time human-history that you can cooperate and collaborate with others, on a large and expansive scale, even without knowing them in real life. You don't need to have commonalities like religion, nationalities, ideologies and any other collectivities to come together and cooperate with each other. Cooperation is not predicated on external factors which are not in your control but internal factors that you can control. A person from Pakistan can send me a friend request on facebook, and if I want, I can become his friend and vice-versa. The acquaintance or the friendship, in this case, was established just because two persons wanted to become friends. How improbable this sounds without internet, in the complex realities of our time? 
+> Coming to the specific case of "acquaintance on the facebook but not in real life," I do not find anything odd here. In fact, I find it empowering that acquaintances could be made even without knowing each other in real life. It is for the first time human-history that you can cooperate and collaborate with others, on a large and expansive scale, even without knowing them in real life. You don't need to have commonalities like religion, nationalities, ideologies and any other collectivities to come together and cooperate with each other. Cooperation is not predicated on external factors which are not in your control but internal factors that you can control. A person from Pakistan can send me a friend request on facebook, and if I want, I can become his friend and vice-versa. The acquaintance or the friendship, in this case, was established just because two persons wanted to become friends. How improbable this sounds without internet, in the complex realities of our time?
 
-> Coming to your regret about not talking to them with the same passion in real life, I think here the critical factor being emphasized by you is the emotional content of these acquaintances. That the emotionality of it all is diminishing is what you want to say. But the emotion is just an after-effect. It is not the cause. You become friend with someone because you find something good in them for you and hence better cooperation. That in the end, you develop emotional attachments is just a side-effect in my view. Sometimes these emotions may create a feedback loop and ensure even better cooperation, like two lovers getting married. But unmindful emotions may lead to undesired consequences too, like hyper-nationalists going berserk in their common love for the country. I think, as long as the cause of cooperation is understood well, side-effects like emotions can be controlled or channeled in a better way. 
+> Coming to your regret about not talking to them with the same passion in real life, I think here the critical factor being emphasized by you is the emotional content of these acquaintances. That the emotionality of it all is diminishing is what you want to say. But the emotion is just an after-effect. It is not the cause. You become friend with someone because you find something good in them for you and hence better cooperation. That in the end, you develop emotional attachments is just a side-effect in my view. Sometimes these emotions may create a feedback loop and ensure even better cooperation, like two lovers getting married. But unmindful emotions may lead to undesired consequences too, like hyper-nationalists going berserk in their common love for the country. I think, as long as the cause of cooperation is understood well, side-effects like emotions can be controlled or channeled in a better way.
 
-> Techno-humanism aims to enhance human's life using technology and binds humanity in a novel way that breaks the shackles of boundaries between nations, religious differences, and any other differences. In this respect at least, social media like facebook, twitter have done well, irrespective of whether it was their motive or not. Traditional relationships which we are most familiar with are undergoing a paradigm shift, and it's again just a reflection of the changing times. 
+> Techno-humanism aims to enhance human's life using technology and binds humanity in a novel way that breaks the shackles of boundaries between nations, religious differences, and any other differences. In this respect at least, social media like facebook, twitter have done well, irrespective of whether it was their motive or not. Traditional relationships which we are most familiar with are undergoing a paradigm shift, and it's again just a reflection of the changing times.
 
 > --It is getting long. :P I hope my ramblings did not bore you. Hope to have a wide discussion on it over a cup of tea sometime. :D

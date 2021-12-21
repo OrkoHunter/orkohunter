@@ -1,12 +1,12 @@
-+++
-date = "2017-01-25"
-title = "Quick guide to git and github (Part 1)"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Tech"]
-slug = "quick-guide-to-git-and-github-1"
-+++
+---
+date: "2017-01-25"
+title: "Quick guide to git and github (Part 1)"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Tech"]
+slug: "/blog/quick-guide-to-git-and-github-1"
+---
 
 > Before we start, make sure you have an account on GitHub. Go to [https://github.com](https://github.com/). Pick a username, enter your email id and choose a password. Next, choose _unlimited personal repositories for free_. In the final step you can give some input to github and voila ! You are now a github user. (If you are redirect from KWoC, use the username there.) There is plethora of git guides over internet, some are really good and some really suck. I here am writing a simple blog for the newbies who have successfully made an account over github and are really excited about it.
 
@@ -105,4 +105,3 @@ That’s it! You’ve published your changes to your GitHub repository.
 NOTE : This is a very basic start. There are more concepts to be explored. You can search for specifics. StackOverflow also has great resources. We’ll leave the nitty gritties of Git for another day.
 
 Happy Coding!
-

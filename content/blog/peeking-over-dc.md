@@ -1,12 +1,12 @@
-+++
-date = "2018-04-18"
-title = "Peeking over what people search on DC"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Tech"]
-slug = "peeking-over-dc-search"
-+++
+---
+date: "2018-04-18"
+title: "Peeking over what people search on DC"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Tech"]
+slug: "/blog/peeking-over-dc-search"
+---
 
 > IS THIS EVEN POSSIBLE?
 
@@ -32,7 +32,7 @@ Alright, alright.
 
 ## Theory
 
-Let’s say Mr X and I are connected to a DC hub. Let’s say it happens that both of us are online at the same time. Mr X searched for `New movies` in their favorite DC client e.g. DC++, LinuxDC++, etc. Their client sends this request to the hub we both are connected, to fetch a search result. The hub then forwards the request to *everyone* who is connected to it and returns the index for Mr X to click and download any file from anyone.
+Let’s say Mr X and I are connected to a DC hub. Let’s say it happens that both of us are online at the same time. Mr X searched for `New movies` in their favorite DC client e.g. DC++, LinuxDC++, etc. Their client sends this request to the hub we both are connected, to fetch a search result. The hub then forwards the request to _everyone_ who is connected to it and returns the index for Mr X to click and download any file from anyone.
 
 > SO GIVE ME THE SCRIPT. OR DO YOU HAVE THE CODE OR A REPOSITORY?
 

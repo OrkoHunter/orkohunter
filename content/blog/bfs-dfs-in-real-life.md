@@ -1,13 +1,13 @@
-+++
-date = "2020-02-09"
-title = "BFS vs DFS in friendships"
-subtitle = "In real life friendships, some prefer Breadth First Search, but some fancy Depth First Search"
-summary = """In real life friendships, some prefer Breadth First Search, but some fancy Depth First Search. BFS and DFS
-are two search methods in Computer Science."""
-draft = false
-categories = ["Tech", "Non-Tech"]
-slug = "bfs-vs-dfs-in-friendships"
-+++
+---
+date: "2020-02-09"
+title: "BFS vs DFS in friendships"
+subtitle: "In real life friendships, some prefer Breadth First Search, but some fancy Depth First Search"
+summary: "In real life friendships, some prefer Breadth First Search, but some fancy Depth First Search. BFS and DFS
+are two search methods in Computer Science."
+draft: false
+categories: ["Tech", "Non-Tech"]
+slug: "/blog/bfs-vs-dfs-in-friendships"
+---
 
 If you already know and remember what [Breadth First Search (BFS)](https://en.wikipedia.org/wiki/Breadth-first_search) and
 [Depth First Search (DFS)](https://en.wikipedia.org/wiki/Depth-first_search) are, skip to **What are you saying?**

@@ -51,7 +51,7 @@ const Header = ({ siteTitle }) => (
     <NavContainer>
       <Link to="/blog">Blog</Link>
       <Link to="/podcast">Podcast</Link>
-      <Link to="letters">Letters</Link>
+      <Link to="/letters">Letters</Link>
       <Link to="/notes">Notes</Link>
       <Link to="/files/cv.pdf">CV</Link>
     </NavContainer>

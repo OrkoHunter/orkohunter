@@ -5,7 +5,7 @@ subtitle = "Two hours of Naval Ravikant on Joe Rogan Podcast"
 summary = "Two hours of Naval Ravikant on Joe Rogan Podcast"
 draft = false
 categories = ["notes"]
-slug = "naval-jre"
+slug = "/notes/naval-jre"
 +++
 
 Source: https://www.youtube.com/watch?v=3qHkcs3kG44

@@ -1,12 +1,12 @@
-+++
-date = "2019-04-07"
-title = "Letters"
-subtitle = "I made some of my letters and their responses public on my website."
-summary = "I made some of my letters and their responses public on my website."
-draft = false
-categories = ["Non-Tech"]
-slug = "letters"
-+++
+---
+date: "2019-04-07"
+title: "Letters"
+subtitle: "I made some of my letters and their responses public on my website."
+summary: "I made some of my letters and their responses public on my website."
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/letters"
+---
 
 ## What did you do??
 

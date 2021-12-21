@@ -1,12 +1,12 @@
-+++
-date = "2018-03-02"
-title = "The Discovery of pseudo-Acquaintance"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Non-Tech"]
-slug = "pseudo-acquaintance"
-+++
+---
+date: "2018-03-02"
+title: "The Discovery of pseudo-Acquaintance"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/pseudo-acquaintance"
+---
 
 It’s the dawn of the 20th century. If we pick two homo sapiens on earth, we can classify their relationship as one of these three types:
 
@@ -27,6 +27,7 @@ I know someone on Facebook, I “interact” with them, but I don’t speak with
 And the fact that the first world countries already have incorporated a bit of this culture, raises merely questions about parenting. What if we are not concerned about our children, and the first friend they make, do not physically exist around them. I am surely, not saying one is better than others; there are so many pros of the Scientific Revolution, Internet being a tiny monster of it. I am just saying that, are people responsible? Is Facebook responsible enough to know that it has created an illusion of friendships and relationship and does it care about it? From the weekly product and feature launches, for the sole purpose of us interacting more on their platform, and increasing their value as advertisers and not looking up from our phones, I think it does not care at all. Or is it in control of anyone to care about it? Something like a trained Deep Learning model, over which we only have very few control after some time.
 
 ---
+
 <br>
 > This article above was an email to a few close friends, right after I realized my first pseudo-acquaintance. I am thankful to their responses, they made me rethink every bit.
 
@@ -39,5 +40,6 @@ It has been quite long since I joined Facebook.com and I have spent a lot of tim
 The last thing that I want to say is that there are mostly no good and no wrong sides. As a human, we always have to use our discretion and find something in between. Hence I can not blindly delete Facebook to solve this problem, I’ll have to see the way to use it for my productivity, as long as it doesn’t consume a lot of my time to do that.
 
 ---
+
 <br>
 Update, [I deleted my Facebook account](https://medium.com/@OrkoHunter/deletefacebook-10f365c5d36e).

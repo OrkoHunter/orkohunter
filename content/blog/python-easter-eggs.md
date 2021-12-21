@@ -1,12 +1,12 @@
-+++
-date = "2017-05-08"
-title = "Python's easter eggs and hidden jokes"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Tech"]
-slug = "python-easter-eggs"
-+++
+---
+date: "2017-05-08"
+title: "Python's easter eggs and hidden jokes"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Tech"]
+slug: "/blog/python-easter-eggs"
+---
 
 > Just when you thought, Python could not be more fun.
 
@@ -94,7 +94,7 @@ The name Python has nothing to do with the type of Snake.
 This is how the `this.py` module looks, which prints the Zen of Python.
 
 ```py
-s = """Gur Mra bs Clguba, ol Gvz Crgref
+s: """Gur Mra bs Clguba, ol Gvz Crgref
 
 Ornhgvshy vf orggre guna htyl.
 Rkcyvpvg vf orggre guna vzcyvpvg.

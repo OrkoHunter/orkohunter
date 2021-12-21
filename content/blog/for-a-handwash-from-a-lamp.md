@@ -1,12 +1,12 @@
-+++
-date = "2017-01-20"
-title = "For a handwash from a lamp, A Short Love letter"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Non-Tech"]
-slug = "handwash-to-lamp"
-+++
+---
+date: "2017-01-20"
+title: "For a handwash from a lamp, A Short Love letter"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/handwash-to-lamp"
+---
 
 My beloved,
 
@@ -22,4 +22,3 @@ Love you forever.
 
 Yours and only yours, 
 Mainstream FDS 500 GENIE 11W, 220V, E27 Bulb Base Lamp.
-

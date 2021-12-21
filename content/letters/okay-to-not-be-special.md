@@ -1,12 +1,12 @@
-+++
-date = "2018-07-17"
-title = "It is okay not to be special"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["letters"]
-slug = "it-is-okay-not-to-be-special"
-+++
+---
+date: "2018-07-17"
+title: "It is okay not to be special"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["letters"]
+slug: "/letters/it-is-okay-not-to-be-special"
+---
 
 Hi :name-retracted:!
 

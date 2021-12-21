@@ -1,12 +1,12 @@
-+++
-date = "2021-07-18"
-title = "Aldous Huxley's world of perceptions"
-subtitle = ""
-summary = "What we ordinarily call reality, is merely that slice of total fact which our biological equipment, our linguistic heritage and our social conventions of thought and feeling make it possible for us to apprehend."
-draft = false
-categories = ["Non-Tech"]
-slug = "huxleys-world-of-perceptions"
-+++
+---
+date: "2021-07-18"
+title: "Aldous Huxley's world of perceptions"
+subtitle: ""
+summary: "What we ordinarily call reality, is merely that slice of total fact which our biological equipment, our linguistic heritage and our social conventions of thought and feeling make it possible for us to apprehend."
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/huxleys-world-of-perceptions"
+---
 
 You may already know of this novel called 1984, and its author George Orwell. Aldous Huxley wrote a dystopian classic called Brave New World, which is contemporary to 1984 and has a similar literary significance. Although Huxley is slightly less familiar, I have come to realize.
 

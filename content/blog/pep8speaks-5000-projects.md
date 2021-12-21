@@ -7,10 +7,11 @@ to write neat and clean Python. It is a free and open source software and financ
 Foundation and Weblate.org"
 draft: false
 categories: ["Tech"]
-slug: "pep8speaks-5000-projects"
+slug: "/blog/pep8speaks-5000-projects"
 ---
 
 # What is this project? 🐍
+
 _PEP8Speaks = [PEP 8](https://pep8.org) + Speaks_
 
 GitHub: https://github.com/OrkoHunter/pep8speaks
@@ -56,19 +57,19 @@ In short, organic growth requires me to do the following -
 1. **Being open for feature requests.**
 
    Many cool features in PEP8Speaks are not my original ideas, but recommendations from the community.
-   
+
    Developers rarely want
    to change the way they work. Instead, they love bending (customizing) the tools they use.
-   
-   _If only PEP8Speaks were to support this new feature A,_  
+
+   _If only PEP8Speaks were to support this new feature A,_
    _if only PEP8Speaks supported this feature B,_
    _...we would love to adopt it!_
-    
+
 2. **Implementing feature requests.**
 
    One way of gaining trust in the community is to listen to the issues and incoming Pull Requests. These users helped
    a lot in spreading the word.
-   
+
    And so, I need to address all the feature requests.
    But it is also limited by the time I have. So, I need to pick among those requests.
 
@@ -82,31 +83,30 @@ In short, organic growth requires me to do the following -
    I was [a speaker at the SciPy 2017 conference](https://www.youtube.com/watch?v=7tcJi378B2M) in Austin.
    In the lightning talks session, [I talked about PEP8Speaks](https://www.youtube.com/watch?v=dtgiYrf2bv8).
    The ballroom had close to a thousand Python developers. (SciPy conference is a yearly "pilgrimage" in the Scientific Python world.)
-   
-   And this is the reason, a lot of PEP8Speaks users include scientific Python projects. 
 
+   And this is the reason, a lot of PEP8Speaks users include scientific Python projects.
 
 > **PEP8Speaks bot has commented on [around 17,000 pull requests](https://github.com/search?o=desc&q=commenter%3Apep8speaks&s=&type=Issues).**
 
 ## Most popular users
 
-| Logo | Organization | Description |
-|-|-|-|
-| ![](https://avatars1.githubusercontent.com/u/21206976?v=4&s=100) | [Pandas](https://github.com/pandas-dev/pandas) | Powerful data manipulation tools for Python |
-| ![](https://avatars0.githubusercontent.com/u/476009?v=4&s=100) | [Adobe](https://github.com/adobe) | Open source from Adobe |
-| ![](https://avatars0.githubusercontent.com/u/623819?v=4&s=100) | [openSUSE](https://github.com/openSUSE) | Linux distribution |
-| ![](https://avatars0.githubusercontent.com/u/58386951?v=4&s=100) | [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) | The lightweight PyTorch wrapper for ML researchers. |
-| ![](https://avatars3.githubusercontent.com/u/1284191?v=4&s=100) | [xarray (PyData)](https://github.com/pydata/xarray) | N-D labeled arrays and datasets in Python (Python for Data) |
-| ![](https://avatars2.githubusercontent.com/u/963197?s=100&v=4) | [SunPy](https://github.com/sunpy) | Python for Solar Physics |
-| ![](https://avatars0.githubusercontent.com/u/847984?v=3&s=100) | [Astropy](https://github.com/astropy) | Astronomy in Python |
-| ![](https://avatars3.githubusercontent.com/u/17349883?v=3&s=100) | [Scikit Learn Contrib](https://github.com/scikit-learn-contrib) | scikit-learn compatible projects |
-| ![](https://avatars1.githubusercontent.com/u/897180?s=100&v=4) | [Scikit Image](https://github.com/scikit-image) | Image processing in Python |
-| ![](https://avatars0.githubusercontent.com/u/1284937?v=4&s=100) | [Spyder IDE](https://github.com/spyder-ide/spyder) | The Scientific Python Development Environment |
-| ![]() | [NetworkX](https://github.com/NetworkX/NetworkX) | Python library for graph theory and complex networks |
-| ![]() | [Statsmodels](https://github.com/statsmodels/statsmodels) | Statistical modeling and econometrics in Python |
+| Logo                                                             | Organization                                                               | Description                                                 |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| ![](https://avatars1.githubusercontent.com/u/21206976?v=4&s=100) | [Pandas](https://github.com/pandas-dev/pandas)                             | Powerful data manipulation tools for Python                 |
+| ![](https://avatars0.githubusercontent.com/u/476009?v=4&s=100)   | [Adobe](https://github.com/adobe)                                          | Open source from Adobe                                      |
+| ![](https://avatars0.githubusercontent.com/u/623819?v=4&s=100)   | [openSUSE](https://github.com/openSUSE)                                    | Linux distribution                                          |
+| ![](https://avatars0.githubusercontent.com/u/58386951?v=4&s=100) | [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) | The lightweight PyTorch wrapper for ML researchers.         |
+| ![](https://avatars3.githubusercontent.com/u/1284191?v=4&s=100)  | [xarray (PyData)](https://github.com/pydata/xarray)                        | N-D labeled arrays and datasets in Python (Python for Data) |
+| ![](https://avatars2.githubusercontent.com/u/963197?s=100&v=4)   | [SunPy](https://github.com/sunpy)                                          | Python for Solar Physics                                    |
+| ![](https://avatars0.githubusercontent.com/u/847984?v=3&s=100)   | [Astropy](https://github.com/astropy)                                      | Astronomy in Python                                         |
+| ![](https://avatars3.githubusercontent.com/u/17349883?v=3&s=100) | [Scikit Learn Contrib](https://github.com/scikit-learn-contrib)            | scikit-learn compatible projects                            |
+| ![](https://avatars1.githubusercontent.com/u/897180?s=100&v=4)   | [Scikit Image](https://github.com/scikit-image)                            | Image processing in Python                                  |
+| ![](https://avatars0.githubusercontent.com/u/1284937?v=4&s=100)  | [Spyder IDE](https://github.com/spyder-ide/spyder)                         | The Scientific Python Development Environment               |
+| ![]()                                                            | [NetworkX](https://github.com/NetworkX/NetworkX)                           | Python library for graph theory and complex networks        |
+| ![]()                                                            | [Statsmodels](https://github.com/statsmodels/statsmodels)                  | Statistical modeling and econometrics in Python             |
 
 > GitHub API allows me to find out all the users of the project.
-> I keep the [list of all organizations and users](https://github.com/OrkoHunter/pep8speaks/wiki/List-of-users-and-orgs) on the public wiki. 
+> I keep the [list of all organizations and users](https://github.com/OrkoHunter/pep8speaks/wiki/List-of-users-and-orgs) on the public wiki.
 
 # Sponsorship 💳
 
@@ -123,7 +123,7 @@ I [wrote](https://github.com/OrkoHunter/pep8speaks/wiki/PSF-Grant-application) t
 The project also received funding from [Weblate](https://weblate.org) and [CCExtractor](https://ccextractor.org/), which is amazing!
 
 # Future of the project ⏳
- 
+
 The project does not have many bugs, but I do receive one or two issues in the repository per month. I have a local setup with
 few Jupyter Notebooks where I
 do the debugging and I fix the problem for them. My main concern is that debugging PEP8Speaks is not straightforward.

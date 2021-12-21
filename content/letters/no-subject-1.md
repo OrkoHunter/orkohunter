@@ -1,12 +1,12 @@
-+++
-date = "2020-06-05"
-title = "Letter with no subject"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["letters"]
-slug = "letter-with-no-subject-1"
-+++
+---
+date: "2020-06-05"
+title: "Letter with no subject"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["letters"]
+slug: "/letters/letter-with-no-subject-1"
+---
 
 ## :name-retracted: wrote -
 

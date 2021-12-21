@@ -1,12 +1,12 @@
-+++
-date = "2020-06-21"
-title = "Live Asynchronously"
-subtitle = "Bringing the philosophy of asynchronous programming into life."
-summary = "Bringing the philosophy of asynchronous programming into life."
-draft = false
-categories = ["Tech", "Non-Tech"]
-slug = "live-asynchronously"
-+++
+---
+date: "2020-06-21"
+title: "Live Asynchronously"
+subtitle: "Bringing the philosophy of asynchronous programming into life."
+summary: "Bringing the philosophy of asynchronous programming into life."
+draft: false
+categories: ["Tech", "Non-Tech"]
+slug: "/blog/live-asynchronously"
+---
 
 I first heard the phrase "Live Asynchronously" in [this article](https://www.freecodecamp.org/news/live-asynchronously-c8e7172fe7ea/) written by the amazing Quincy Larson, the creator of freecodecamp.org.
 

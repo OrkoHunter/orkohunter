@@ -1,12 +1,12 @@
-+++
-date = "2014-10-22"
-title = "Oh, Today is Diwali? Happy Diwali !"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Non-Tech"]
-slug = "diwali"
-+++
+---
+date: "2014-10-22"
+title: "Oh, Today is Diwali? Happy Diwali !"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/diwali"
+---
 
 _"First brush your teeth, then touch anything,"_ Mommy used to say whenever I tried to sneak in to the kitchen for the Diwali sweets. Today, as I woke up at 8:30, nothing replaced my butter bread breakfast combination. And when I checked my facebook, it reminded me that today is Diwali! So, _"Happy Diwali friends"_ is going to be my status too, as if just to tell 'em that I am celebrating too.
 

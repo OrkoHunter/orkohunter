@@ -1,12 +1,12 @@
-+++
-date = "2019-01-10"
-title = "Geniune Love and Infatuation"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Non-Tech"]
-slug = "love-and-infatuation"
-+++
+---
+date: "2019-01-10"
+title: "Geniune Love and Infatuation"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Non-Tech"]
+slug: "/blog/love-and-infatuation"
+---
 
 After a long time, I read something so meaningful on reddit. **How do you distinguish genuine love for someone from infatuation?** was the question.
 

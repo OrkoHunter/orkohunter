@@ -1,12 +1,12 @@
-+++
-date = "2018-08-04"
-title = "On Psychedelics"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["letters"]
-slug = "on-psychedelics"
-+++
+---
+date: "2018-08-04"
+title: "On Psychedelics"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["letters"]
+slug: "/letters/on-psychedelics"
+---
 
 ## I wrote -
 
@@ -30,13 +30,13 @@ Think of our ancient tradition. Children during their brahmacharya were recommen
 
 > I believe the emotions I have collected from the small out-of-world experience I had is the best thing I kept with myself after the trip. Now I listen to the same music with more intense emotions. Now I live the same life with more vividness. (And the most wonderful thing about reading your mail is: I hadn't given many thoughts how these emotions emerged, I will now. Surely, these trips have changed my composition as human. (Romantic ahaa!))
 
-> We all have our unique mental models about the world and there are a lot of mental models trying to dictate our ways through life. (Most people aren't even aware of them. - I wasn't aware until I went for that Himachal trip). 
+> We all have our unique mental models about the world and there are a lot of mental models trying to dictate our ways through life. (Most people aren't even aware of them. - I wasn't aware until I went for that Himachal trip).
 
-> Example: the usage of 'we' everywhere is a small mental model about the world, watching a series of actions like a sequential programmer is another mental model, trying to optimize petty things, and watching people as a neural network model is another. We had these experiences and we have these models in our mind. 
+> Example: the usage of 'we' everywhere is a small mental model about the world, watching a series of actions like a sequential programmer is another mental model, trying to optimize petty things, and watching people as a neural network model is another. We had these experiences and we have these models in our mind.
 
 > These are the consequences of being from :state-name-retracted:, being a c++/python programmer, competitive programmers, deep learning engineer in the order the examples are given.
 
-> And when I took pyshedelics, I created another mental model. It is about open-mindedness. It is compassionate and weak as a twig, at the same time it is strong as the storms. It embraces other mental models and tries to break them from bias. 
+> And when I took pyshedelics, I created another mental model. It is about open-mindedness. It is compassionate and weak as a twig, at the same time it is strong as the storms. It embraces other mental models and tries to break them from bias.
 
 > Maybe if I hadn't taken it, I wouldn't have come out from the clutches of commitment. Staying in commitment for the sake of it is biased. (Commitment in itself is not).
 
@@ -45,14 +45,14 @@ Think of our ancient tradition. Children during their brahmacharya were recommen
 > "Kahu kaise tujhe ki ek samandar se sukoon mila par dhoop nikalne pe wapas jana hai" (Hindi)
 
 > And it doesn't mean that you hate the ocean, that you have suddenly started hating it. It's just that if 'love' is there, you'll carry the essence of the oceans within you, wherever you go.
-Everyone carries something, and you shouldn't carry the things just for the sake of carrying(commitment just for the sake of commitment) but only if you want to (love).
+> Everyone carries something, and you shouldn't carry the things just for the sake of carrying(commitment just for the sake of commitment) but only if you want to (love).
 
 > I am always a tiny bit confused in this matter. There is yet some fingerprints on the glass, next psychedelic would help me get it cleaner.
 
-> So here is how I used some open-mindedness I gathered from my trips. It shackled some norms set in my mind. 
+> So here is how I used some open-mindedness I gathered from my trips. It shackled some norms set in my mind.
 
-> > I highly recommend a thoughtful psychedelic experience to my friends once in life. 
+> > I highly recommend a thoughtful psychedelic experience to my friends once in life.
 
-> Just to clarify, I would like to add a single point. It's for everyone but not 'every'time. I can provide almost anyone with an LSD but not DMT. Even :name-retracted:, I have never given him DMT. It's just that you have to feel (judge) whether they would embrace what they see. These are tough things we are looking at, it can make people but break them too. 
+> Just to clarify, I would like to add a single point. It's for everyone but not 'every'time. I can provide almost anyone with an LSD but not DMT. Even :name-retracted:, I have never given him DMT. It's just that you have to feel (judge) whether they would embrace what they see. These are tough things we are looking at, it can make people but break them too.
 
 > I really believe you already know this but added for the sake of availability bias.

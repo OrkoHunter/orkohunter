@@ -1,12 +1,12 @@
-+++
-date = "2017-01-20"
-title = "Losing and Re-Gaining trust on .gitignore"
-subtitle = ""
-summary = ""
-draft = false
-categories = ["Tech"]
-slug = "losing-and-regaining-truct-on-gitignore"
-+++
+---
+date: "2017-01-20"
+title: "Losing and Re-Gaining trust on .gitignore"
+subtitle: ""
+summary: ""
+draft: false
+categories: ["Tech"]
+slug: "/blog/losing-and-regaining-truct-on-gitignore"
+---
 
 I would like to share an interesting story of a problem which I’ve faced many times since I started using git. This story is about “losing and re-gaining trust on .gitignore”.
 
@@ -30,11 +30,11 @@ git add -A
 git commit -m "Added .gitignore file"
 ```
 
-Now, you’ll try to remove the pyc files, using rm -rf *.pyc. But as soon as you'll do this, (and if you're using oh-my-zsh), you'll see a cross on your prompt. That means, git has _detected_ a change.
+Now, you’ll try to remove the pyc files, using rm -rf \*.pyc. But as soon as you'll do this, (and if you're using oh-my-zsh), you'll see a cross on your prompt. That means, git has _detected_ a change.
 
-*But wait? Why is git detecting changes to pyc files, when I’ve already added the gitignore!*
+_But wait? Why is git detecting changes to pyc files, when I’ve already added the gitignore!_
 
-Now, if you’re me, you’ll feel betrayed by git. You’ll make a few calls and send messages to people, and say *“gitignore is not obeying me”*, and they’ll hang up on you, saying *“it must be your fault”*.
+Now, if you’re me, you’ll feel betrayed by git. You’ll make a few calls and send messages to people, and say _“gitignore is not obeying me”_, and they’ll hang up on you, saying _“it must be your fault”_.
 
 Believe me, even the “future me” would have said the same.
 
@@ -60,4 +60,3 @@ Ta-da ! And that’s when, my friends, the trust I have in git’s simplicity i
 Thank you for reading.
 
 When a python script is compiled, it generates compiled code as pyc files, also called byte code.
-
