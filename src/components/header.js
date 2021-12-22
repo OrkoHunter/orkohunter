@@ -26,9 +26,11 @@ const HeaderContainer = styled.header`
   } */
 `;
 
-const OrkoHunter = styled.span`
+const OrkoHunter = styled(Link)`
   font-weight: 600;
   font-size: 32px;
+  color: black;
+  text-decoration: none;
 `;
 
 const NavContainer = styled.nav`
@@ -46,7 +48,7 @@ const NavContainer = styled.nav`
 
 const Header = ({ siteTitle }) => (
   <HeaderContainer>
-    <OrkoHunter>@OrkoHunter</OrkoHunter>
+    <OrkoHunter to="/">@OrkoHunter</OrkoHunter>
 
     <NavContainer>
       <Link to="/blog">Blog</Link>

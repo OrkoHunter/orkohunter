@@ -18,3 +18,12 @@ body {
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
 }
+
+a {
+  text-decoration: none;
+  color: #356a8d;
+}
+
+a:hover {
+  color: rgb(63, 81, 181);
+}

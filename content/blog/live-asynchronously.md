@@ -5,6 +5,7 @@ subtitle: "Bringing the philosophy of asynchronous programming into life."
 summary: "Bringing the philosophy of asynchronous programming into life."
 draft: false
 categories: ["Tech", "Non-Tech"]
+featured: true
 slug: "/blog/live-asynchronously"
 ---
 

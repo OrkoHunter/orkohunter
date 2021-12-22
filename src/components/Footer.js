@@ -3,7 +3,7 @@ import SocialNav from "./SocialNav";
 import styled from "styled-components";
 
 const FooterHtml = styled.footer`
-  margin-top: 24px;
+  margin-top: 128px;
   margin-bottom: 24px;
   display: flex;
   flex-direction: column;

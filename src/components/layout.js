@@ -5,7 +5,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 
 const MainContainer = styled.div`
-  max-width: calc((10 * 100%) / 12);
+  max-width: calc((10 * 100vw) / 12);
   margin-left: auto;
   margin-right: auto;
 `;

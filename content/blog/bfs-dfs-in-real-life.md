@@ -6,6 +6,7 @@ summary: "In real life friendships, some prefer Breadth First Search, but some f
 are two search methods in Computer Science."
 draft: false
 categories: ["Tech", "Non-Tech"]
+featured: true
 slug: "/blog/bfs-vs-dfs-in-friendships"
 ---
 

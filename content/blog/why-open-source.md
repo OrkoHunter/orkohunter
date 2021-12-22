@@ -1,10 +1,11 @@
 ---
 date: "2020-12-19"
 title: "Why should one do Open Source in college?"
-subtitle: ""
+subtitle: "If you are planning to stay close to Software after graduation, this article might win you over to do Open Source."
 summary: "If you are planning to stay close to Software after graduation, this article might win you over to do Open Source."
 draft: false
 categories: ["Tech"]
+featured: true
 slug: "/blog/why-do-open-source-in-college"
 ---
 

@@ -5,6 +5,7 @@ subtitle: "Thoughts on Japan, my principles of work and what lies ahead."
 summary: "I have written about living in Japan, my work principles and what lies ahead."
 draft: false
 categories: ["Tech"]
+featured: true
 slug: "/blog/spotify"
 ---
 

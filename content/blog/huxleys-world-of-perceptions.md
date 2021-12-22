@@ -1,10 +1,11 @@
 ---
 date: "2021-07-18"
 title: "Aldous Huxley's world of perceptions"
-subtitle: ""
+subtitle: "What we ordinarily call reality, is merely that slice of total fact which our biological equipment, our linguistic heritage and our social conventions of thought and feeling make it possible for us to apprehend."
 summary: "What we ordinarily call reality, is merely that slice of total fact which our biological equipment, our linguistic heritage and our social conventions of thought and feeling make it possible for us to apprehend."
 draft: false
 categories: ["Non-Tech"]
+featured: true
 slug: "/blog/huxleys-world-of-perceptions"
 ---
 

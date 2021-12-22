@@ -47,7 +47,7 @@ const SocialNav = () => (
     <Link target="_blank" href="mailto:himanshu@orkohunter.net">
       <FaEnvelope size={32} />
     </Link>
-    <Link target="_blank" href="https://orkohunter.net/blog/index.xml">
+    <Link target="_blank" href="/rss.xml">
       <FaRssSquare size={32} />
     </Link>
   </Container>
