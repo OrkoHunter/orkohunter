@@ -99,9 +99,16 @@ const Button = styled.button`
   }
 `;
 
-const PostsContainer = ({ posts, featured }) => (
+const PostsContainer = ({ posts, featured, letters }) => (
   <AllPostsContainer>
     {featured && <h1>Featured Posts</h1>}
+    {letters && (
+      <p>
+        These are some of my letters and their responses which I have made
+        public. Read more on the{" "}
+        <Link to="/blog/letters">announcement blog post</Link>.
+      </p>
+    )}
     {posts.map(post => (
       <Link to={post.node.frontmatter.slug}>
         <BlogListRowContainer>

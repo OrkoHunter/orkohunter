@@ -21,7 +21,7 @@ export const allBlogPostsQuery = graphql`
   {
     allMarkdownRemark(
       filter: {
-        fileAbsolutePath: { regex: "/blog/" }
+        fileAbsolutePath: { regex: "/content/blog/" }
         frontmatter: { draft: { ne: true } }
       }
       sort: { fields: frontmatter___date, order: DESC }
