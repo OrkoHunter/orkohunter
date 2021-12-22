@@ -18,6 +18,20 @@ const AllPostsContainer = styled.div`
   }
 `;
 
+const TitleContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+`;
+
+const Title = styled.span`
+  font-size: 32px;
+`;
+
+const SubTitle = styled.span`
+  font-size: 20px;
+`;
+
 const BlogListRowContainer = styled.div`
   color: black;
   text-decoration: none;
@@ -32,7 +46,8 @@ const BlogListRowContainer = styled.div`
   }
 
   &:hover {
-    color: rgb(63, 81, 181) !important;
+    /* color: rgb(63, 81, 181) !important; */
+    color: rgba(0, 0, 0, 0.6) !important;
   }
 `;
 
@@ -56,20 +71,6 @@ const ClockContainer = styled.div`
   display: flex;
   align-items: center;
   gap: 8px;
-`;
-
-const TitleContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-`;
-
-const Title = styled.span`
-  font-size: 32px;
-`;
-
-const SubTitle = styled.span`
-  font-size: 20px;
 `;
 
 const StyledLink = styled(Link)`
