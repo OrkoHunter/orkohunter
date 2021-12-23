@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
-import { FaCalendarAlt, FaRegClock } from "react-icons/fa";
+import DateTimeContainer from "./DateTimeContainer";
 
 const AllPostsContainer = styled.div`
   font-family: Montserrat, serif;
@@ -24,14 +24,6 @@ const TitleContainer = styled.div`
   gap: 8px;
 `;
 
-const Title = styled.span`
-  font-size: 32px;
-`;
-
-const SubTitle = styled.span`
-  font-size: 20px;
-`;
-
 const BlogListRowContainer = styled.div`
   color: black;
   text-decoration: none;
@@ -51,28 +43,6 @@ const BlogListRowContainer = styled.div`
   }
 `;
 
-const DateTimeContainer = styled.div`
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  min-width: 240px;
-  margin-top: 4px;
-  font-size: 20px;
-`;
-
-const CalendarContainer = styled.div`
-  display: flex;
-  align-items: center;
-  min-width: 128px;
-  gap: 8px;
-`;
-
-const ClockContainer = styled.div`
-  display: flex;
-  align-items: center;
-  gap: 8px;
-`;
-
 const StyledLink = styled(Link)`
   margin-left: auto;
   margin-right: auto;
@@ -85,7 +55,8 @@ const Button = styled.button`
   height: 64px;
   border-radius: 32px;
   border: none;
-  background-color: #356a8d;
+  /* background-color: #356a8d; */
+  background-color: rgba(0, 0, 0, 1);
 
   font-family: Montserrat, serif;
   font-size: 20px;
@@ -94,7 +65,8 @@ const Button = styled.button`
 
   &:hover {
     cursor: pointer;
-    background-color: rgb(63, 81, 181);
+    /* background-color: rgb(63, 81, 181); */
+    background-color: rgba(0, 0, 0, 0.6);
     transition: 0.5s;
   }
 `;
@@ -112,19 +84,13 @@ const PostsContainer = ({ posts, featured, letters }) => (
     {posts.map(post => (
       <Link to={post.node.frontmatter.slug}>
         <BlogListRowContainer>
-          <DateTimeContainer>
-            <CalendarContainer>
-              <FaCalendarAlt size={16} />
-              <span>{post.node.frontmatter.date}</span>
-            </CalendarContainer>
-            <ClockContainer>
-              <FaRegClock size={16} />
-              <span>{post.node.timeToRead} min</span>
-            </ClockContainer>
-          </DateTimeContainer>
+          <DateTimeContainer
+            date={post.node.frontmatter.date}
+            timeToRead={post.node.timeToRead}
+          />
           <TitleContainer>
-            <Title>{post.node.frontmatter.title}</Title>
-            <SubTitle>{post.node.frontmatter.subtitle}</SubTitle>
+            <h2>{post.node.frontmatter.title}</h2>
+            <h3>{post.node.frontmatter.subtitle}</h3>
           </TitleContainer>
         </BlogListRowContainer>
       </Link>

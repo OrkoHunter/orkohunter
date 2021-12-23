@@ -10,14 +10,15 @@ const Container = styled.div`
   font-family: Montserrat, serif;
 `;
 
-const Title = styled.div`
+const Title = styled.h1`
   font-size: 32px;
   margin-bottom: 32px;
 `;
 
-const SubTitle = styled.div`
+const SubTitle = styled.h2`
   font-size: 24px;
   margin-top: 32px;
+  font-weight: 400;
 `;
 
 const About = () => (
@@ -35,7 +36,7 @@ const About = () => (
     />
 
     <SubTitle>
-      Open Source | Software Engineer | Developer Advocate | Writer
+      Open Source | Software Engineer | Developer Relations | Writer
     </SubTitle>
   </Container>
 );

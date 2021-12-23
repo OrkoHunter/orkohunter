@@ -2,9 +2,17 @@ import React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import styled from "styled-components";
+import DateTimeContainer from "../components/DateTimeContainer";
 
 const Container = styled.div`
-  margin-top: 96px;
+  margin-top: 56px;
+  max-width: 100ch;
+  margin-left: auto;
+  margin-right: auto;
+`;
+
+const Content = styled.div`
+  font-family: Roboto, serif;
 `;
 
 export default function Template({
@@ -12,17 +20,17 @@ export default function Template({
 }) {
   const { markdownRemark } = data; // data.markdownRemark holds your post data
   console.log(data);
-  const { frontmatter, html } = markdownRemark;
+  const { frontmatter, html, timeToRead } = markdownRemark;
   return (
     <Layout>
       <Container>
         <div className="blog-post">
           <h1>{frontmatter.title}</h1>
-          <h2>{frontmatter.date}</h2>
-          <div
-            className="blog-post-content"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
+          <p>{frontmatter.subtitle}</p>
+
+          <DateTimeContainer date={frontmatter.date} timeToRead={timeToRead} />
+
+          <Content dangerouslySetInnerHTML={{ __html: html }} />
         </div>
       </Container>
     </Layout>
@@ -36,7 +44,7 @@ export const pageQuery = graphql`
       timeToRead
       frontmatter {
         categories
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "MMM DD, YYYY")
         draft
         slug
         subtitle

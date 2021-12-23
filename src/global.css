@@ -8,8 +8,8 @@ html {
 }
 body {
   margin: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  /* -webkit-font-smoothing: antialiased; */
+  /* -moz-osx-font-smoothing: grayscale; */
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -26,4 +26,36 @@ a {
 
 a:hover {
   color: rgb(63, 81, 181);
+}
+
+h1 {
+  font-family: Montserrat, serif;
+  font-size: 40px;
+  line-height: 1.25;
+  color: #333;
+  font-weight: 400;
+  margin-bottom: 24px;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-family: Montserrat, serif;
+  /* font-size: 40px; */
+  /* line-height: 1.25; */
+  /* color: #333; */
+  font-weight: 400;
+  margin-bottom: 24px;
+  margin-top: 24px;
+  /* letter-spacing: 2px; */
+}
+
+p {
+  line-height: 32px;
+  font-size: 24px;
+  color: #333;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-font-smoothing: antialiased !important;
+  text-rendering: optimizelegibility !important;
+  letter-spacing: 0.03em;
 }
