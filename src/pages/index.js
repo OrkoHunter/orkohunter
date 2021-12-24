@@ -16,7 +16,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-      <Seo title="Himanshu Mishra | @OrkoHunter" />
+      <Seo />
       <About />
       <Divider />
       <PostsContainer posts={posts} featured />

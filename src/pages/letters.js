@@ -4,7 +4,7 @@ import Layout from "../components/Layout";
 import Seo from "../components/Seo";
 import PostsContainer from "../components/PostsContainer";
 
-export default function BlogHomePage({
+export default function LettersHomePage({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const allLetters = data.allMarkdownRemark.edges;

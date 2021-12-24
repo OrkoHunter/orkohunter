@@ -12,21 +12,21 @@ slug: "/blog/twitter-vs-facebook"
 
 Both Facebook and Twitter allow posts to be publicly accessible by people who have not joined the platform. It is good to note that the default setting of Facebook is to be private with posts and Twitter to be open to the web. While managing the Facebook and Twitter account of an organization I am involved in, I noticed a serious design pattern involved in displaying the public posts and their stark differences.
 
-#### Case 1: Stages of interacting with Twitter
+## Case 1: Stages of interacting with Twitter
 
 If you open a [public tweet](https://twitter.com/kossiitkgp/status/954776125573554176) in incognito mode, or while being logged out, you’ll land on something like this —
 
-![](./1*jYcPCOlsEVbI7WL7oEhE9A.png)
+![Picture of a tweet](./1*jYcPCOlsEVbI7WL7oEhE9A.png)
 
 **Stage 1** of interaction consists of the _content of the tweet_ with the highest visibility, followed by who created the tweet, then more details about the tweet. At this point of time, there is no available “Sign Up” button to be clicked. You can now easily close the tab since most of the times, your purpose would be the information contained in the tweet.
 
 But if you feel engaged and you click on the close button on the top right corner, you’ll land on the profile page of the account which created the tweet, which I call the **Stage 2.**
 
-![](./1*fgnX8sn_C3B7RBuzTF614g.png)
+![](./twitter_profile.png)
 
 You can see that the majority percentage of the web page is covered with the profile information. On the sidebar and header, there are interactive elements which lead you to sign up on the platform. And you would do, if you seem impressed. Let’s have a look at Facebook.
 
-**Case 2: Stages of interacting with a public post on Facebook**
+## Case 2: Stages of interacting with a public post on Facebook
 
 If you open a [public post](https://www.facebook.com/kossiitkgp/photos/a.551030724973932.1073741826.524856034258068/1588200897923571/) on Facebook, you land on something like this —
 
@@ -40,7 +40,7 @@ Let’s click on _Not Now_, and move the **Stage 2** of the view.
 
 On this webpage, the area covered with the information about the post is still comparable or maybe less than the _engageble area of log in and sign up_. It’s funny to note that there are **five** interactive buttons on this single web page to Join Facebook.
 
-#### Conclusions:
+## Conclusions:
 
 — Facebook’s main focus is on targeting as many people as they can, while Twitter’s main focus does not _appear_ so. Even if both the products want users, Facebook is **desperately user-hungry** in public.
 
