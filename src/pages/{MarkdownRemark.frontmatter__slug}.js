@@ -3,10 +3,11 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import styled from "styled-components";
 import DateTimeContainer from "../components/DateTimeContainer";
+import { SubTitle } from "../components/Typography";
 
 const Container = styled.div`
   margin-top: 56px;
-  max-width: 100ch;
+  max-width: 80ch;
   margin-left: auto;
   margin-right: auto;
 `;
@@ -26,7 +27,7 @@ export default function Template({
       <Container>
         <div className="blog-post">
           <h1>{frontmatter.title}</h1>
-          <p>{frontmatter.subtitle}</p>
+          <SubTitle>{frontmatter.subtitle}</SubTitle>
 
           <DateTimeContainer date={frontmatter.date} timeToRead={timeToRead} />
 

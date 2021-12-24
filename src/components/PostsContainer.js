@@ -2,40 +2,31 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
 import DateTimeContainer from "./DateTimeContainer";
+import { SubTitle } from "./Typography";
 
 const AllPostsContainer = styled.div`
   font-family: Montserrat, serif;
   margin-top: 96px;
   display: flex;
   flex-direction: column;
-  gap: 40px;
-  max-width: calc((6 * 100vw) / 12);
+  max-width: 80ch;
   margin-left: auto;
   margin-right: auto;
-
-  @media only screen and (max-width: 1024px) {
-    max-width: calc((8 * 100vw) / 12);
-  }
+  gap: 32px;
 `;
 
 const TitleContainer = styled.div`
   display: flex;
   flex-direction: column;
-  gap: 8px;
 `;
 
 const BlogListRowContainer = styled.div`
   color: black;
   text-decoration: none;
   display: flex;
-  gap: 64px;
   align-items: start;
-  min-height: 104px;
-
-  @media only screen and (max-width: 1024px) {
-    flex-direction: column;
-    gap: 16px;
-  }
+  /* min-height: 104px; */
+  flex-direction: column;
 
   &:hover {
     /* color: rgb(63, 81, 181) !important; */
@@ -90,7 +81,7 @@ const PostsContainer = ({ posts, featured, letters }) => (
           />
           <TitleContainer>
             <h2>{post.node.frontmatter.title}</h2>
-            <h3>{post.node.frontmatter.subtitle}</h3>
+            <SubTitle>{post.node.frontmatter.subtitle}</SubTitle>
           </TitleContainer>
         </BlogListRowContainer>
       </Link>
