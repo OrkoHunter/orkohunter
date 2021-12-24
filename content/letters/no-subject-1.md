@@ -6,6 +6,7 @@ summary: ""
 draft: false
 categories: ["letters"]
 slug: "/letters/letter-with-no-subject-1"
+featured: true
 ---
 
 ## :name-retracted: wrote -

@@ -62,7 +62,7 @@ const Button = styled.button`
   }
 `;
 
-const PostsContainer = ({ posts, featured, letters }) => (
+const PostsContainer = ({ posts, featured, letters, notes }) => (
   <AllPostsContainer>
     {featured && <h1>Featured Posts</h1>}
     {letters && (
@@ -70,6 +70,14 @@ const PostsContainer = ({ posts, featured, letters }) => (
         These are some of my letters and their responses which I have made
         public. Read more on the{" "}
         <Link to="/blog/letters">announcement blog post</Link>.
+      </p>
+    )}
+    {notes && (
+      <p>
+        Some of my notes, made public.{" "}
+        <Link to="/blog/we-should-write-notes">
+          We should write notes (for life lessons).
+        </Link>
       </p>
     )}
     {posts.map(post => (

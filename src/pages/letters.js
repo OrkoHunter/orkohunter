@@ -11,13 +11,12 @@ export default function LettersHomePage({
   return (
     <Layout>
       <Seo title="Letters | Himanshu Mishra | @OrkoHunter" />
-
       <PostsContainer posts={allLetters} letters />
     </Layout>
   );
 }
 
-export const allBlogPostsQuery = graphql`
+export const allPostsQuery = graphql`
   query {
     allMarkdownRemark(
       filter: {

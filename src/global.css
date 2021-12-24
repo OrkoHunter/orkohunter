@@ -93,3 +93,9 @@ blockquote p {
   font-style: italic;
   display: inline;
 }
+
+ul,
+ol {
+  font-size: 20px;
+  color: #333;
+}

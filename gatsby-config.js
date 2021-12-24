@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Himanshu Mishra | @OrkoHunter`,
+    title: `Himanshu Mishra (@OrkoHunter)`,
     description: `Personal website and blog of Himanshu Mishra (@OrkoHunter)`,
     author: `@OrkoHunter`,
     siteUrl: `https://orkohunter.net/`,

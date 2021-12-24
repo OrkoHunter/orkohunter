@@ -4,6 +4,7 @@ import Layout from "../components/Layout";
 import styled from "styled-components";
 import DateTimeContainer from "../components/DateTimeContainer";
 import { SubTitle } from "../components/Typography";
+import Seo from "../components/Seo";
 
 const Container = styled.div`
   margin-top: 56px;
@@ -24,8 +25,15 @@ export default function Template({
   const { frontmatter, html, timeToRead } = markdownRemark;
   return (
     <Layout>
+      <Seo
+        title={`${frontmatter.title} | Himanshu Mishra (@OrkoHunter)`}
+        description={
+          frontmatter.subtitle ??
+          "Personal blog of Himanshu Mishra (@OrkoHunter)"
+        }
+      />
       <Container>
-        <div className="blog-post">
+        <div>
           <h1>{frontmatter.title}</h1>
           <SubTitle>{frontmatter.subtitle}</SubTitle>
 

@@ -1,5 +1,46 @@
 import React from "react";
-// Some of my notes, made public. [We should write notes (for life lessons)](/blog/we-should-write-notes/)
-const Page = () => <div>Hello world</div>;
+import { graphql, Link } from "gatsby";
+import Layout from "../components/Layout";
+import Seo from "../components/Seo";
+import PostsContainer from "../components/PostsContainer";
 
-export default Page;
+export default function NotesHomePage({
+  data, // this prop will be injected by the GraphQL query below.
+}) {
+  const allNotes = data.allMarkdownRemark.edges;
+  return (
+    <Layout>
+      <Seo title="Notes | Himanshu Mishra | @OrkoHunter" />
+      <PostsContainer posts={allNotes} notes />
+    </Layout>
+  );
+}
+
+export const allPostsQuery = graphql`
+  query {
+    allMarkdownRemark(
+      filter: {
+        fileAbsolutePath: { regex: "/content/notes/" }
+        frontmatter: { draft: { ne: true } }
+      }
+    ) {
+      edges {
+        node {
+          id
+          frontmatter {
+            categories
+            date
+            draft
+            slug
+            subtitle
+            summary
+            title
+          }
+          html
+          timeToRead
+        }
+      }
+      totalCount
+    }
+  }
+`;

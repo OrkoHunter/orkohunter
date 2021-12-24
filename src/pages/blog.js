@@ -11,7 +11,7 @@ export default function BlogHomePage({
 
   return (
     <Layout>
-      <Seo title="Blog | Himanshu Mishra | @OrkoHunter" />
+      <Seo title="Blog | Himanshu Mishra (@OrkoHunter)" />
       <PostsContainer posts={allPosts} />
     </Layout>
   );
