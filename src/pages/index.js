@@ -1,7 +1,6 @@
 import * as React from "react";
 import styled from "styled-components";
 import { graphql } from "gatsby";
-
 import Layout from "../components/Layout";
 import Seo from "../components/Seo";
 import About from "../components/About";
