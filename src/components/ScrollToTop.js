@@ -16,6 +16,7 @@ const IconButton = styled.button`
   color: black;
 
   &:hover {
+    cursor: pointer;
     transition: 0.3s;
     padding-bottom: 8px;
   }
