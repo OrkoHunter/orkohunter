@@ -5,6 +5,7 @@ import styled from "styled-components";
 import DateTimeContainer from "../components/DateTimeContainer";
 import { SubTitle } from "../components/Typography";
 import Seo from "../components/Seo";
+import Scroll from "../components/ScrollToTop";
 
 const Container = styled.div`
   margin-top: 56px;
@@ -43,6 +44,7 @@ export default function Template({
           <Content dangerouslySetInnerHTML={{ __html: html }} />
         </div>
       </Container>
+      <Scroll showBelow={250} />
     </Layout>
   );
 }
