@@ -5,7 +5,7 @@ subtitle: ""
 summary: ""
 draft: false
 categories: ["Tech"]
-./fortune.png
+image: ./fortune.png
 slug: "/blog/linux-fortunes"
 ---
 
