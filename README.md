@@ -1,15 +1,15 @@
 <div align="center">
 Hey! I'm @OrkoHunter.
 <br/>
-I am an engineer at <img alt="Spotify logo" width="16px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/assets/orkohunter/spotify.svg" /> Spotify, living in Stockholm, Sweden 🇸🇪 &nbsp;. I am from India 🇮🇳 &nbsp;.
+I am an engineer at <img alt="Spotify logo" width="16px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/src/images/logos/spotify.svg" /> Spotify, living in Stockholm, Sweden 🇸🇪 &nbsp;. I am from India 🇮🇳 &nbsp;.
 <br/>
 <br/>
 
 <a href="https://twitter.com/orkohunter">
-  <img alt="Himanshu's Twitter" width="22px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/assets/orkohunter/twitter.svg" />
+  <img alt="Himanshu's Twitter" width="22px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/src/images/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/orkohunter">
-  <img alt="Himanshu's LinkedIn" width="22px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/assets/orkohunter/linkedin.svg" />
+  <img alt="Himanshu's LinkedIn" width="22px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/src/images/logos/linkedin.svg" />
 </a>
 <!-- Not interested in displaying the profile views. -->
 <img width="0" height="0" src="https://komarev.com/ghpvc/?username=orkohunter" />
