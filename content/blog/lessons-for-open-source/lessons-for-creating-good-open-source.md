@@ -5,10 +5,11 @@ subtitle: ""
 summary: ""
 draft: false
 categories: ["Tech"]
+image: ./tree.png
 slug: "/blog/lessons-open-source"
 ---
 
-![](./1*YNBTPaCNBNWLoT7XAbJ1Lw.png)
+![](./tree.png)
 
 I was reading about _The Cathedral and the Bazaar_, a book by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond) on various (open source) software development methods. The wikipedia page for the book in short, lists few important lessons that he learned and they can not be more true.
 

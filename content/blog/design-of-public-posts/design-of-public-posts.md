@@ -5,6 +5,7 @@ subtitle: ""
 summary: ""
 draft: false
 categories: ["Tech"]
+image: ./twitter_profile.png
 slug: "/blog/twitter-vs-facebook"
 ---
 

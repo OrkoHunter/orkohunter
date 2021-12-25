@@ -5,10 +5,11 @@ subtitle: ""
 summary: ""
 draft: false
 categories: ["Non-Tech"]
+image: ./circle-of-i.png
 slug: "/blog/brain-mind-and-consciousness"
 ---
 
-> Layers of ‘I’ when perceiving anything which is external to it
+> Layers of ‘I’ when perceiving anything which is external to it
 
 Thanks to Montaigne, one of the first essay writers, for popularizing this literary genre. As the title suggests, I have had many musings upon the similarity and the differences of these three entities which can be thought as a subset of ‘_I’_ and which have very diffused boundaries among their definitions.
 
@@ -16,7 +17,7 @@ Thanks to Montaigne, one of the first essay writers, for popularizing this liter
 
 ### Let’s Define
 
-> Cogito ergo sum (I think therefore I am) — René Descartes
+> Cogito ergo sum (I think therefore I am) — René Descartes
 
 The entity ‘I’ or ‘Me’ is a strange topic of discussion. While some people would oversimplify this to the human body, others might overcomplicate and make this is a subject of spiritual mysticism. I want to remain sane on this topic and probably write the words which can make sense in daily life.
 
@@ -26,7 +27,7 @@ The Brain is very close to a computer program, and vice versa. It is programmed 
 
 The Brain then tries to pass this information to our Consciousness but in comes the Mind. The Mind is that child of ours, whom we love so much that we probably can never stop listening to. The Mind constitutes of our thoughts, our emotions associated with those thoughts, reactions and Ego. If you have disliked this essay so far, your brain has nothing to do with it; it just is feeding the information to your Mind, which is sitting only to judge the content. The Mind will then react and ask your Brain (followed by the senses) to either continue or stop reading.
 
-![‘I’ in terms of processing an information](./1*G7iss0cgkvwcZuBdvvjXmw.png)
+![‘I’ in terms of processing an information](./circle-of-i.png)
 
 We can look at the Mind as a semi-physical entity. On one side it shares boundaries with the physical bodies like sensations and hormones, while on the other hand, it has slight access to the metaphysical entities inside us which are hard to define as matter, i.e., Consciousness and Ego.
 

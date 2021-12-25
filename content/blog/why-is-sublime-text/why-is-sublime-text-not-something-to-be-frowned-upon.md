@@ -5,6 +5,7 @@ subtitle: ""
 summary: ""
 draft: false
 categories: ["Tech"]
+image: ./curve.jpg
 slug: "/blog/sublime-text"
 ---
 
@@ -16,7 +17,7 @@ The first thing that Sublime Text lovers say about vim and emacs is _“Why shou
 
 But before you’ll think of your easy life, they’ll make you hate your life first. As [Pascal Precht](https://pascalprecht.github.io/) in one of his blogs discuss about the learning curve wall of vim. Here is a picture which is very explanatory.
 
-![](./0*kB_zwuOIp-vb2SRy.jpg)
+![](./curve.jpg)
 
 The next argument by emacs users are _“We don’t like using touchpad and want everything right there in our editor, like mail, news, everything!”_
 

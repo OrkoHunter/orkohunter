@@ -5,6 +5,7 @@ subtitle: ""
 summary: ""
 draft: false
 categories: ["Non-Tech"]
+image: ./into_the_wild.jpeg
 slug: "/blog/quest-for-universal-action"
 ---
 
@@ -24,7 +25,9 @@ So, I aligned my line of thought with **_loving the work we do_**. If a farmer s
 
 It further gave me an idea that instead of (or along with) loving the work, we also need to **_enjoy with the peers who surround us_**. So, a lot of human beings are embraced by their parents, friends and/or children. It does not happen always, but we can still find some of these in different bandwidths of our life. It reminded me of the letter by Richard Feynman, [Do not remain nameless to yourself](https://fs.blog/2014/08/richard-feynman-what-problems-to-solve). So yeah, Living in love can be a universal thing to do. And it allowed me to picture this massive population of ours on the planet earth. But then, I found exceptions. I thought of Chris McCandless ([_Into the wild_](https://en.wikipedia.org/wiki/Into_the_Wild_%28film%29)) and how he did not find love in his family but Nature.
 
-![](./1*nVDd-ZNwdd9EGJ3iLxpEzg.jpeg)A scene from the movie Into the WildI was back to square one. Do we need another human being to live this life, happily? People can not always surround us. And further, outside of seven billion humans, there are other lives as well. What about dogs, or the trees, plants, and flowers which are alive? Or a lost animal somewhere in the jungle. Do they have to have a peer to share the love or their _pursuit of happiness_?
+![A scene from the movie Into the Wild](./into_the_wild.jpeg)
+
+I was back to square one. Do we need another human being to live this life, happily? People can not always surround us. And further, outside of seven billion humans, there are other lives as well. What about dogs, or the trees, plants, and flowers which are alive? Or a lost animal somewhere in the jungle. Do they have to have a peer to share the love or their _pursuit of happiness_?
 
 My problem set got bigger, and I appreciated _how difficult it must be for a democracy to form its constitution_ or King Hammurabi to write his [code](https://en.wikipedia.org/wiki/Code_of_Hammurabi). At this point, I felt a little exhausted in finding the answer to my question (it had been several months by now).
 

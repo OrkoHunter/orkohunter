@@ -5,12 +5,13 @@ subtitle: ""
 summary: ""
 draft: false
 categories: ["Tech"]
+./fortune.png
 slug: "/blog/linux-fortunes"
 ---
 
 ## fortune | cowsay
 
-![](./1*rCj17HZPwiRZRpJb-_IOJw.png)
+![](./fortune.png)
 
 > This is about how I maintain the space <https://github.com/OrkoHunter/mfdf/blob/master/fortunes>fortune is a Unix program which chooses a random message from its database of quotations and displays in the Shell. There are mainly three types of the quotations; literature, fortunes and riddles. I once tried adding fortune in my ~/.zshrc file so that a new fortune would appear whenever I create a new terminal session. There are many other places for making it appear e.g. Login, Logout, XScreenSaver, etc. However, I later went for
 

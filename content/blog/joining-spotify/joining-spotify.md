@@ -6,6 +6,7 @@ summary: "I have written about living in Japan, my work principles and what lies
 draft: false
 categories: ["Tech"]
 featured: true
+image: ./spotify.png
 slug: "/blog/spotify"
 ---
 

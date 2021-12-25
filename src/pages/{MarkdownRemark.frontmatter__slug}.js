@@ -31,6 +31,7 @@ export default function Template({
           frontmatter.subtitle ??
           "Personal blog of Himanshu Mishra (@OrkoHunter)"
         }
+        image={frontmatter.image?.childImageSharp?.fixed?.src}
       />
       <Container>
         <div>
@@ -59,6 +60,13 @@ export const pageQuery = graphql`
         subtitle
         summary
         title
+        image {
+          childImageSharp {
+            fixed {
+              src
+            }
+          }
+        }
       }
     }
   }

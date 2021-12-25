@@ -5,10 +5,11 @@ subtitle: ""
 summary: ""
 draft: false
 categories: ["Tech", "Non-Tech"]
+image: ./deleted.png
 slug: "/blog/delete-facebook"
 ---
 
-![](./1*0l-9QfuqEhDiBumKeTmGuQ.png)
+![](./deleted.png)
 
 After letting Facebook Inc. build a vast profile of me for 9 years, I deleted my facebook account. Privacy is not my _only_ concern, but I [personally reacted](https://medium.com/@OrkoHunter/the-discovery-of-pseudo-acquaintance-9f903601d916) to how Facebook has affected [the way we interact in our real life](https://www.theverge.com/2017/12/20/16800842/facebook-2017-russia-scandal-news-feed-criticism-defectors).
 
