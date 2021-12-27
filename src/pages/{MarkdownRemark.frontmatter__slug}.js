@@ -1,7 +1,8 @@
 import React from "react";
 import { graphql } from "gatsby";
-import Layout from "../components/Layout";
 import styled from "styled-components";
+import { Disqus } from "gatsby-plugin-disqus";
+import Layout from "../components/Layout";
 import DateTimeContainer from "../components/DateTimeContainer";
 import { SubTitle } from "../components/Typography";
 import Seo from "../components/Seo";
@@ -21,9 +22,16 @@ const Content = styled.div`
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
-  const { markdownRemark } = data; // data.markdownRemark holds your post data
+  const { markdownRemark, site } = data; // data.markdownRemark holds your post data
 
   const { frontmatter, html, timeToRead } = markdownRemark;
+
+  const disqusConfig = {
+    url: `${site.siteMetadata.siteUrl + frontmatter.slug}`,
+    identifier: frontmatter.slug,
+    title: frontmatter.title,
+  };
+
   return (
     <Layout>
       <Seo
@@ -42,6 +50,8 @@ export default function Template({
           <DateTimeContainer date={frontmatter.date} timeToRead={timeToRead} />
 
           <Content dangerouslySetInnerHTML={{ __html: html }} />
+
+          <Disqus config={disqusConfig} />
         </div>
       </Container>
       <Scroll showBelow={250} />
@@ -51,6 +61,14 @@ export default function Template({
 
 export const pageQuery = graphql`
   query ($id: String!) {
+    site {
+      siteMetadata {
+        title
+        description
+        author
+        siteUrl
+      }
+    }
     markdownRemark(id: { eq: $id }) {
       html
       timeToRead
