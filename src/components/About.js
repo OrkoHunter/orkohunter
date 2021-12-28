@@ -13,12 +13,14 @@ const Container = styled.div`
 const Title = styled.h1`
   font-size: 32px;
   margin-bottom: 32px;
+  text-align: center;
 `;
 
 const SubTitle = styled.h2`
   font-size: 24px;
   margin-top: 32px;
   font-weight: 400;
+  text-align: center;
 `;
 
 const About = () => (
