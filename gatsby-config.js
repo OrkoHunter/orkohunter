@@ -190,5 +190,6 @@ module.exports = {
         shortname: `orkohunter-net`,
       },
     },
+    `gatsby-plugin-sitemap`,
   ],
 };
