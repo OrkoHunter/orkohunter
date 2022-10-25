@@ -1,7 +1,7 @@
 <div align="center">
 Hey! I'm @OrkoHunter.
 
-<hr> 
+<hr>
 <a href="https://twitter.com/orkohunter">
   Twitter <img alt="Himanshu's Twitter" width="22px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/src/images/logos/twitter.svg" />
 </a>
@@ -14,6 +14,7 @@ Hey! I'm @OrkoHunter.
 
 ### Latest blog posts
 
+1. [Your product either lives long enough to become a platform or it dies out](https://orkohunter.net/blog/backstage-internal-developer-portal)
 1. [Aldous Huxley's world of perceptions](https://orkohunter.net/blog/huxleys-world-of-perceptions/)
 1. [Why should one do Open Source in college?](https://orkohunter.net/blog/why-do-open-source-in-college/)
 1. [Live Asynchronously](https://orkohunter.net/blog/live-asynchronously/)
