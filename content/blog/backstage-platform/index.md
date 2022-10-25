@@ -14,7 +14,7 @@ slug: "/blog/backstage-internal-developer-portal"
 
 ## Everything around you is a platform💡
 
-If you are building a software to be used by developers, you can not extensability. It needs to have a way of writing extensions/plugins/apps to extend the product.
+If you are building a software to be used by developers, you can not ignore extensibility. It needs to have a way of writing extensions/plugins/apps to extend the product.
 
 And that is true for almost all of the softwares we use. It’s true if you really think about it. Think of all the things developers use today.
 
@@ -22,7 +22,7 @@ Let’s start with more common examples. Smartphones and Computers. There were s
 
 If iPhone was a batteries included phone, with Apple responsible for creating all the modern apps people use, we wouldn’t be here today. Same goes for all operating systems like Linux, macOS and Windows. They are all platforms.
 
-What’s the next thing a developer uses? Probably a browser. Even there, you can build chrome extensions, firefox plugins and what not.
+What’s the next big thing a developer uses? Probably a browser. Even there, you can build chrome extensions, firefox plugins and what not.
 
 Not to forget some of the most popular websites in the world like youtube, facebook, amazon, twitter, spotify, etc. are conventionally platforms.
 
@@ -36,7 +36,7 @@ iTerm2 as terminal? zsh as shell? Plugins, plugins, plugins everywhere!
 
 ![Plugins everywhere meme](./plugins-everywhere.jpg)
 
-If you analyze your entire tech stack, you will surprised how many of them support writing plugins. From your database to your CI provider. From Kubernetes to Docker. From Figma to a Raspberry pi.
+If you analyze your entire tech stack, you will be surprised how many of them support writing plugins. From your database to your CI provider. From Kubernetes to Docker. From Figma to a Raspberry pi.
 
 And if any of these products are open source, you can do more than just extending them. You can technically change them from their very core.
 
