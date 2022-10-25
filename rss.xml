@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Himanshu Mishra | orkohunter.net RSS Feed]]></title><description><![CDATA[Personal website and blog of Himanshu Mishra (@OrkoHunter)]]></description><link>https://orkohunter.net</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 25 Oct 2022 14:29:02 GMT</lastBuildDate><item><title><![CDATA[Your product either lives long enough to become a platform or it dies out]]></title><description><![CDATA[Everything around you is a platform💡 If you are building a software to be used by developers, you can not extensability. It needs to have a…]]></description><link>https://orkohunter.net/blog/backstage-internal-developer-portal</link><guid isPermaLink="false">https://orkohunter.net/blog/backstage-internal-developer-portal</guid><pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Everything around you is a platform💡&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Himanshu Mishra | orkohunter.net RSS Feed]]></title><description><![CDATA[Personal website and blog of Himanshu Mishra (@OrkoHunter)]]></description><link>https://orkohunter.net</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 25 Oct 2022 14:36:25 GMT</lastBuildDate><item><title><![CDATA[Your product either lives long enough to become a platform or it dies out]]></title><description><![CDATA[Everything around you is a platform💡 If you are building a software to be used by developers, you can not extensability. It needs to have a…]]></description><link>https://orkohunter.net/blog/backstage-internal-developer-portal</link><guid isPermaLink="false">https://orkohunter.net/blog/backstage-internal-developer-portal</guid><pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c237bf07382b404857e58d24f780a6d7/8b6bd/backstage-header.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.55555555555555%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsTAAALEwEAmpwYAAACr0lEQVQoz2VSy04UQRSdNQkzQ7+qu6u6q+fZDATwwcNhHj0yYFyYmJhAFEETXeEDA8aEGBIlsmHjlyALV+oS4hbiDvkAEhNDXIwmJnKPqRphYyenb+XWvTfnnFspwXnHte0OM82Oa1nnYIbR8Ryn42SyXWRVzHTsdOb/WtPUtUKITioMQwRBAJ8xMNOEa9uw0xnE45dRe7CAwWYNA/UqBpqTGkPtBFxwMMOAa1kavutCzVFQA+kM3PfJtW1yslnKx2WKL12gqJCnQn9M+XKJCoMVKo8Mke+6xAyDPMchIQSFUp7P0AyllAil7MYgALNt5DjH8voa1t5u4fHGOh69eonnW5t4uPIU3GHwGIPgQqsLgoDOYkoIAc914fs+uO/rAk0/CPD+4wec/Org+OQ7vv04wfHP3/i09xlSNYchSpV+5IoFRPk8Rfm8IkUp5jBYhgVmWvBNu+uHYhqG2NvdhfpO/5wCRPr85eCgqySKcP3ePG7cvY3xpEHjSQMyn6OUrZbAfRSKBQjP03JDGSKKImxvb+Pr0RH29/exf3CAw8NDvNvZ0QMVo1srT3D/xQqu3bpJtemp7kDHcZDJZrVk5YvLmD4PDw+j1Wqh0WggSRKNer2uc6ViEYGUaC/ewcz8HCbaVykeGUaUy3WXosA5174IzhFyjmfLy3i9sYGlpSXMzs5ibm4Oq6ureLO5icWFBTimqQlo/z2PVJ9eivrJSFLcH5MMArL7+khyTlNJQu1Wi5J6XaNRq1Gr2aTpqSmqVavk2TZJIahULFI5jqlUKikrulseqFQw027j4tAQHMPQD7yvtxfpnh5UymXUq1VcGRtD6PvI9PTASKd1jbqbnJhAq9nE6Oio8p1S3POImSZZ2Sw5hkGuZWkoBgrMsnT+7O4s7/7LK0W26jVNJZv+AqJCgO4FBFX4AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/c237bf07382b404857e58d24f780a6d7/7c297/backstage-header.webp 180w,
+/static/c237bf07382b404857e58d24f780a6d7/33ecc/backstage-header.webp 360w,
+/static/c237bf07382b404857e58d24f780a6d7/df77d/backstage-header.webp 720w,
+/static/c237bf07382b404857e58d24f780a6d7/5c666/backstage-header.webp 1080w,
+/static/c237bf07382b404857e58d24f780a6d7/95f20/backstage-header.webp 1440w,
+/static/c237bf07382b404857e58d24f780a6d7/57a8e/backstage-header.webp 2354w&quot;
+              sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/c237bf07382b404857e58d24f780a6d7/e9ea2/backstage-header.png 180w,
+/static/c237bf07382b404857e58d24f780a6d7/53918/backstage-header.png 360w,
+/static/c237bf07382b404857e58d24f780a6d7/242a6/backstage-header.png 720w,
+/static/c237bf07382b404857e58d24f780a6d7/b4ad3/backstage-header.png 1080w,
+/static/c237bf07382b404857e58d24f780a6d7/89066/backstage-header.png 1440w,
+/static/c237bf07382b404857e58d24f780a6d7/8b6bd/backstage-header.png 2354w&quot;
+            sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/c237bf07382b404857e58d24f780a6d7/242a6/backstage-header.png&quot;
+            alt=&quot;Backstage header&quot;
+            title=&quot;Backstage header&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Everything around you is a platform💡&lt;/h2&gt;
 &lt;p&gt;If you are building a software to be used by developers, you can not extensability. It needs to have a way of writing extensions/plugins/apps to extend the product.&lt;/p&gt;
 &lt;p&gt;And that is true for almost all of the softwares we use. It’s true if you really think about it. Think of all the things developers use today.&lt;/p&gt;
 &lt;p&gt;Let’s start with more common examples. Smartphones and Computers. There were some good phones in 2007 but iPhone came and disrupted the market. What was so unique about it? It introduced the possibility of &quot;writing apps for phones&quot;. And anyone could write them. We now have several billion dollar companies which are technically just apps.&lt;/p&gt;
