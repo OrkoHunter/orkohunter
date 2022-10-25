@@ -10,6 +10,8 @@ image: ./backstage-header.png
 slug: "/blog/backstage-internal-developer-portal"
 ---
 
+![Backstage header](./backstage-header.png)
+
 ## Everything around you is a platform💡
 
 If you are building a software to be used by developers, you can not extensability. It needs to have a way of writing extensions/plugins/apps to extend the product.
