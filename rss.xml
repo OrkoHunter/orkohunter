@@ -1,4 +1,303 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Himanshu Mishra | orkohunter.net RSS Feed]]></title><description><![CDATA[Personal website and blog of Himanshu Mishra (@OrkoHunter)]]></description><link>https://orkohunter.net</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 25 Oct 2022 16:22:03 GMT</lastBuildDate><item><title><![CDATA[Your product either lives long enough to become a platform or it dies out]]></title><description><![CDATA[Everything around you is a platform💡 If you are building a software to be used by developers, you can not ignore extensibility. It needs to…]]></description><link>https://orkohunter.net/blog/backstage-internal-developer-portal</link><guid isPermaLink="false">https://orkohunter.net/blog/backstage-internal-developer-portal</guid><pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Himanshu Mishra | orkohunter.net RSS Feed]]></title><description><![CDATA[Personal website and blog of Himanshu Mishra (@OrkoHunter)]]></description><link>https://orkohunter.net</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Aug 2023 12:16:41 GMT</lastBuildDate><item><title><![CDATA[A brief history of Platform Engineering]]></title><description><![CDATA[I remember the day I heard the word microservices for the first time. For a while, I did not know what it truly meant. But it was a very hot…]]></description><link>https://orkohunter.net/blog/a-brief-history-of-platform-engineering</link><guid isPermaLink="false">https://orkohunter.net/blog/a-brief-history-of-platform-engineering</guid><pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/75708a3c5933aafa1f2459d7ad788707/f05da/logo-cover.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACZklEQVQoz2WT3UuTcRTH9x+JF954J92VFNRFhgXeCIWi7llTUIL2opZihnbRZFs1HShuM9hNas1hbonEJFPR1KZEvuHcC9Ntz8s+8Ty6ueWBw+88h/P98OX8np+Oy8jn8/wfkiSRTqdJJBLEYqfEYjHiiTjJZLKoKU01dKUwVeB2u/H5fIyPuRj94MLhdPL+nZMx9ygT4xNM+aZwuVz4/X5NI8tymSFdaTMcDlNRUcHmxgZLP3b5c3SojpI5l0menHGeybMWTWiztrc2IpFIGfQaMBQK0dXVxfDQEDngPCuBBGdZWNpJoSATT1ytxmazaSspc6gWBeDCwgIej4dXAwPMBGZRR7ZWohwc7rO3t8v29jYrX78TDoX5ubaK3eHE7nCUuSwDLi4u4vVM8mlmmpuVlTy7cxtz+1Ms1m4sJhM9VisWiwmr6TmGlhY629roNps1raIoV8DCh7oTi9mM1+ejsfYW1ro6rE1NDBiNvO7ooE/Q0/v4CUOCwBtBwNLYyPDg4AWw1GGpy/7+fvR6PWNuN6vr6wQDAab9fuaDQbx2O8PNzTg6OxkRBIwNDUxMThYdqpzL3+bKciqVorq6mof19bx80Ut7uxFB0GMwGGhpbuLRvbvcr6nhwY0b1FZVEQx8Ke5QAxZuRz1yOUmr5+bmaW3V09vTx8iIHZ/3I7OznwmFvxFZXtacb279YmsnSk4Ur9+y1lDy7P6W2P8rkoyDmINUAo4P4OQIEqdo/aODi1T7x4ewF5U5SytFqK702chyHlFU96kgihJiTiKbkbQ6l5ORJJlM5iKzWQVJUshm85quAPwH590+z8uc9P8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/75708a3c5933aafa1f2459d7ad788707/7c297/logo-cover.webp 180w,
+/static/75708a3c5933aafa1f2459d7ad788707/33ecc/logo-cover.webp 360w,
+/static/75708a3c5933aafa1f2459d7ad788707/df77d/logo-cover.webp 720w,
+/static/75708a3c5933aafa1f2459d7ad788707/5c666/logo-cover.webp 1080w,
+/static/75708a3c5933aafa1f2459d7ad788707/95f20/logo-cover.webp 1440w,
+/static/75708a3c5933aafa1f2459d7ad788707/8cc75/logo-cover.webp 4408w&quot;
+              sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/75708a3c5933aafa1f2459d7ad788707/e9ea2/logo-cover.png 180w,
+/static/75708a3c5933aafa1f2459d7ad788707/53918/logo-cover.png 360w,
+/static/75708a3c5933aafa1f2459d7ad788707/242a6/logo-cover.png 720w,
+/static/75708a3c5933aafa1f2459d7ad788707/b4ad3/logo-cover.png 1080w,
+/static/75708a3c5933aafa1f2459d7ad788707/89066/logo-cover.png 1440w,
+/static/75708a3c5933aafa1f2459d7ad788707/f05da/logo-cover.png 4408w&quot;
+            sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/75708a3c5933aafa1f2459d7ad788707/242a6/logo-cover.png&quot;
+            alt=&quot;logo cover&quot;
+            title=&quot;logo cover&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I remember the day I heard the word &lt;strong&gt;microservices&lt;/strong&gt; for the first time. For a while, I did not know what it truly meant. But it was a very hot topic, popping up in every conference and on everyone&apos;s slides.&lt;/p&gt;
+&lt;p&gt;This was 2015, Kubernetes had just been open sourced. Several companies had taken a leap of faith and started their year-long migrations, ditching SRE-managed monolithic server farms and adopting cloud native architectures. Most of the &lt;a href=&quot;https://thinkinsights.net/strategy/crossing-the-chasm/&quot;&gt;early adopters&lt;/a&gt; had already made this move by the time I got to be an insider at Twitter, Spotify and Mercari.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3f092f7e5d8954af907e652d9bc29284/6596b/google-trends.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.44444444444444%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABoklEQVQoz5VSXY/UMAzM//9txws6eLrjQ9DbsnvbNmniJraTQc52jwohBJZGdhwrnrHjQiqIlBEiIW2MLUtHIkaijDVuSFt5yxteLoQvLxFfT2lH7OfhnOAoV3jvMc8TRBh3a7WBKWEcR8QYcbRPQ8TDhwseHke8+3jG43PA+yePp28rXC4CEUGtDbVWMDNEFCyKwtJj1V95q7kuGcOZOlPD6XXr+HHd4Eym9yvWSF3OvASENb3FPljMmJbQaworRGpvcodo7YQoC5zNcE0ZYYclDdaIiu6xHGLuiAe/kr1REGIxyYwQfJ8TUeqS/tdsZKICG58zur9ba+3fcKiHCpgVjqVapjMz2Hb/9si9zmhUWyYzlAg8nlAyw9nmjsy6/xP2u9tjxohRlwl6HiHTq92AtcJxA+j7AJmuqFZXCipL7672ZYyFKJpq98KMbY2YxxlLUnhqmFeGTxW5KFxW4PJ5gCwzmAUcVmhKNxmUURJBc0bj0n0OEdFHbPZ/tcFGZrBdFFG4UqRLMeFaG9RY7qjNzu2W32Eq+vzqfZ67b603+QmPGqotq5H9LQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/3f092f7e5d8954af907e652d9bc29284/7c297/google-trends.webp 180w,
+/static/3f092f7e5d8954af907e652d9bc29284/33ecc/google-trends.webp 360w,
+/static/3f092f7e5d8954af907e652d9bc29284/df77d/google-trends.webp 720w,
+/static/3f092f7e5d8954af907e652d9bc29284/5c666/google-trends.webp 1080w,
+/static/3f092f7e5d8954af907e652d9bc29284/95f20/google-trends.webp 1440w,
+/static/3f092f7e5d8954af907e652d9bc29284/33483/google-trends.webp 2408w&quot;
+              sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/3f092f7e5d8954af907e652d9bc29284/e9ea2/google-trends.png 180w,
+/static/3f092f7e5d8954af907e652d9bc29284/53918/google-trends.png 360w,
+/static/3f092f7e5d8954af907e652d9bc29284/242a6/google-trends.png 720w,
+/static/3f092f7e5d8954af907e652d9bc29284/b4ad3/google-trends.png 1080w,
+/static/3f092f7e5d8954af907e652d9bc29284/89066/google-trends.png 1440w,
+/static/3f092f7e5d8954af907e652d9bc29284/6596b/google-trends.png 2408w&quot;
+            sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/3f092f7e5d8954af907e652d9bc29284/242a6/google-trends.png&quot;
+            alt=&quot;google trends&quot;
+            title=&quot;google trends&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Correlation of Microservice and Kubernetes. Source: Google Trends&lt;/p&gt;
+&lt;p&gt;However the seeds of this trend were planted long before in the history of software development.&lt;/p&gt;
+&lt;h2&gt;The Bezos Mandate: Origin of microservices&lt;/h2&gt;
+&lt;p&gt;One day in 2002, Jeff Bezos sent out a &lt;a href=&quot;https://gist.github.com/chitchcock/1281611&quot;&gt;mandate&lt;/a&gt; to all the teams. It was a visionary yet strong idea to force all the internal services to communicate with each other via APIs. They were to assume that all services can be externalized in near future. This directive shattered traditional silos within the organization and emphasized treating both internal and external customers with equal importance.&lt;/p&gt;
+&lt;p&gt;This seemingly simple shift in mindset laid the foundation for a monumental transformation that was yet to come. Four years later in 2006, Amazon launched AWS and shaped the cloud as we know today.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6cd61a2481708cb2328d7c6673978ad7/ded97/bezos.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABJUlEQVQoz52R246sIBBF/f9fHCfdSQuooKLcFJPek9qc00/zNCZlXSF7FV05Tzi3YF03etqyYFlXLEszyZ1z8N7jPE/knHHVit++TppyaNs2rNvGWC631vIiax3jaZo5U0rhhbkUxBgRY6IPIbLXSeOr7/F4PPF4PtH33/TGjDSlNbQxUEpjHKdPPCiF1zBgGBS0NuyJ+k5+s7WwzhFX1IiqlPMH77991OWC67pazlrhfK0VXUyJOCklHCFQ/nEc8PuO8A9p3/dmx0Ev/RACvG81znuPlHLboaBpQdOGCIIpWERWGq/XwB7rWlOAzAmyGdtahIo7FGXCP88W4zhimiSeWRMVtd5Eua5KTLGWNy8mq7nvu72yJO2VPREklsN/+d7vN34AV+9jPhDIqgMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/6cd61a2481708cb2328d7c6673978ad7/7c297/bezos.webp 180w,
+/static/6cd61a2481708cb2328d7c6673978ad7/33ecc/bezos.webp 360w,
+/static/6cd61a2481708cb2328d7c6673978ad7/df77d/bezos.webp 720w,
+/static/6cd61a2481708cb2328d7c6673978ad7/5c666/bezos.webp 1080w,
+/static/6cd61a2481708cb2328d7c6673978ad7/95f20/bezos.webp 1440w,
+/static/6cd61a2481708cb2328d7c6673978ad7/91ec5/bezos.webp 1816w&quot;
+              sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/6cd61a2481708cb2328d7c6673978ad7/e9ea2/bezos.png 180w,
+/static/6cd61a2481708cb2328d7c6673978ad7/53918/bezos.png 360w,
+/static/6cd61a2481708cb2328d7c6673978ad7/242a6/bezos.png 720w,
+/static/6cd61a2481708cb2328d7c6673978ad7/b4ad3/bezos.png 1080w,
+/static/6cd61a2481708cb2328d7c6673978ad7/89066/bezos.png 1440w,
+/static/6cd61a2481708cb2328d7c6673978ad7/ded97/bezos.png 1816w&quot;
+            sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/6cd61a2481708cb2328d7c6673978ad7/242a6/bezos.png&quot;
+            alt=&quot;bezos&quot;
+            title=&quot;bezos&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Bezos mandate about microservice architecture&lt;/p&gt;
+&lt;p&gt;This revolutionary platform allowed anyone to access computing resources like task queuing systems, server instances and storage, previously reserved for tech giants. This democratization of computing power unleashed unprecedented opportunities for startups, enterprises, and individuals to innovate without the burden of hefty upfront investments.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e91410152f5d04830d99895fbc0b7ebd/2a472/service-communication.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABYUlEQVQoz32Tza6CQAyFef+Hcs/KnTHGRE0ACToKwoD8WfPVWwLG3CbNMJ329PTMEAzDIGVZSp7n8nq91DFi9/t9Wi+Xi9xuN2nbdjpPkkRjzjkZx1HjQdM0GiRhu91K13VyOBw09ng8pKoqbcYeYM6x5/Ope3K89xOZgI7X61UdQBL3+72cz2eNZVmmgGZ938t/FpAAMsVQNyN2PB7ldDrpnpGIWT4GW5rBEmfaYN6x8n5RQEJd11ODb0DOTGP7/jD8E7R3TvLVSsam+RR4rxrOAWE1b8hUURTphGi5YCh9L61z4otiYvDNkFeBAWSXiO443wqI23PA2q7TQrrudrvFRcAYMMb7eSkAoQHicqN2k2ma6ggUIjgg5NDEWM6ZT88GqiQBGoahjsh+vV5LURQSx7Gum81Gp7AHPP8JbFWGzM0YFFmyCW4MaWasTJo54GJkExo3PWnCajFbvxn+0vANcb6lTwgrRckAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/e91410152f5d04830d99895fbc0b7ebd/7c297/service-communication.webp 180w,
+/static/e91410152f5d04830d99895fbc0b7ebd/33ecc/service-communication.webp 360w,
+/static/e91410152f5d04830d99895fbc0b7ebd/df77d/service-communication.webp 720w,
+/static/e91410152f5d04830d99895fbc0b7ebd/5c666/service-communication.webp 1080w,
+/static/e91410152f5d04830d99895fbc0b7ebd/95f20/service-communication.webp 1440w,
+/static/e91410152f5d04830d99895fbc0b7ebd/b5d34/service-communication.webp 2716w&quot;
+              sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/e91410152f5d04830d99895fbc0b7ebd/e9ea2/service-communication.png 180w,
+/static/e91410152f5d04830d99895fbc0b7ebd/53918/service-communication.png 360w,
+/static/e91410152f5d04830d99895fbc0b7ebd/242a6/service-communication.png 720w,
+/static/e91410152f5d04830d99895fbc0b7ebd/b4ad3/service-communication.png 1080w,
+/static/e91410152f5d04830d99895fbc0b7ebd/89066/service-communication.png 1440w,
+/static/e91410152f5d04830d99895fbc0b7ebd/2a472/service-communication.png 2716w&quot;
+            sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/e91410152f5d04830d99895fbc0b7ebd/242a6/service-communication.png&quot;
+            alt=&quot;service communication&quot;
+            title=&quot;service communication&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;The Kubernetes Revolution: Shaping the Cloud-Native Landscape&lt;/h2&gt;
+&lt;p&gt;As cloud computing gained momentum, the need for efficient orchestration and management of applications across diverse environments became evident. Enter Kubernetes, an open-source container orchestration platform initially developed by Google. Kubernetes provided the tools to deploy, scale, and manage applications seamlessly, regardless of the underlying infrastructure. Its rise marked a shift towards cloud-native technologies and microservices-based architectures.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.111111111111114%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQME/9oADAMBAAIQAxAAAAHNirdsVjAX/8QAGBAAAgMAAAAAAAAAAAAAAAAAABACETL/2gAIAQEAAQUCLUcr/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Bqv/EABYQAAMAAAAAAAAAAAAAAAAAABAgMf/aAAgBAQAGPwIRP//EABcQAQEBAQAAAAAAAAAAAAAAAAEQEQD/2gAIAQEAAT8h0oN4E//aAAwDAQACAAMAAAAQON//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAEDAQE/EIsIf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEAAwADAAAAAAAAAAAAAAERACFBMWFx/9oACAEBAAE/EErUh02H2Yh0DX1zCu+sBBCYEGbmPnP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/df065cc36f439040993376bae56c742e/7c297/k8s.webp 180w,
+/static/df065cc36f439040993376bae56c742e/33ecc/k8s.webp 360w,
+/static/df065cc36f439040993376bae56c742e/601b1/k8s.webp 500w&quot;
+              sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/df065cc36f439040993376bae56c742e/98e5d/k8s.jpg 180w,
+/static/df065cc36f439040993376bae56c742e/543cd/k8s.jpg 360w,
+/static/df065cc36f439040993376bae56c742e/953fe/k8s.jpg 500w&quot;
+            sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/df065cc36f439040993376bae56c742e/953fe/k8s.jpg&quot;
+            alt=&quot;k8s&quot;
+            title=&quot;k8s&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+Image source: &lt;a href=&quot;https://thenewstack.io/the-rise-of-the-cloud-native-cloud&quot;&gt;https://thenewstack.io/the-rise-of-the-cloud-native-cloud&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;The Growing Burden on Developers&lt;/h2&gt;
+&lt;p&gt;While these advancements brought unforseen agility for the teams, they also introduced new challenges. Developers, once focused primarily on coding, now find themselves responsible for the entire software delivery lifecycle end-to-end. From designing and developing to deploying, scaling, and maintaining applications, their role expanded significantly. This transition demanded a solution that could streamline these intricate processes and enable developers to concentrate on what they do best—innovating.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1d6ab6e1914566c88bc37de7deb37963/d3a8c/cognitive-load.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACPElEQVQoz22TyWtTURSH+1eJIiIUrS7VtVv3LhyxRbFSxIUIilgomBatC0WExrY0Jq+DdlBJaKsZaJuhbfIyNOOb8sZP8l5Mn7YXLvd3z7nn43cO3D4Aq91GbjY7Esdxjt++3N/l6DpIGhj0avs6wiyWkfb2e8F/VvfuhzmWhSU1QbfJ1Db4sPWIzaLg5jxgvYFcqRxxyHGuNA2UNtje/Xt2mpszJ5lOjPqAB1WkcuWok26rrjYNz5VhUVVEfuSDFKUMsd0wQ6HzhFIBH7AgIonFw5Z7c+ueqgqa2XMZzYW5/ukEwfhLYjmB28GzzKVe/wfM5jygbfdcYQGKN/RoPsTHxBPaukaitMLDpYuE0wF+iYsML19AyIz7gC0JuV53Aza2C7UVhUYtR0vzRjGVeM5g6BxNtUqqvMa9uX6EXICN/IKr57MTh0DLspBl2XPV6Uw1MNoKz5au8S427IZnkqOMLFxC0uoky6suJJIJsCkuMhjqJ5L2OzRNZEXF0GRKlTiK0cJyLJ4uX+Xt+pAHTI3y+OvlLnCN+5EBhNy42/KD+QGEzIQfaGDrJvuNODemziBsT7rJEeEKE7G7rg7GX7iFktoBrnBn7jRfdsbYyAvcmjtFOD3mA1o2e2WVTClPaP0Nid0omqIxuz7JUvIzNanBz50FgrEAYq3Alvib92uvWE1H2BbjzEbHWUl+o1RVO0AH3QSx5aDo/34SHZuq3WKvXUBBR8ehoJdoWTIaFgdmA8lS3betNmSrNn8AAcxs+0U7X3UAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/1d6ab6e1914566c88bc37de7deb37963/7c297/cognitive-load.webp 180w,
+/static/1d6ab6e1914566c88bc37de7deb37963/33ecc/cognitive-load.webp 360w,
+/static/1d6ab6e1914566c88bc37de7deb37963/df77d/cognitive-load.webp 720w,
+/static/1d6ab6e1914566c88bc37de7deb37963/5c666/cognitive-load.webp 1080w,
+/static/1d6ab6e1914566c88bc37de7deb37963/95f20/cognitive-load.webp 1440w,
+/static/1d6ab6e1914566c88bc37de7deb37963/acc97/cognitive-load.webp 4494w&quot;
+              sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/1d6ab6e1914566c88bc37de7deb37963/e9ea2/cognitive-load.png 180w,
+/static/1d6ab6e1914566c88bc37de7deb37963/53918/cognitive-load.png 360w,
+/static/1d6ab6e1914566c88bc37de7deb37963/242a6/cognitive-load.png 720w,
+/static/1d6ab6e1914566c88bc37de7deb37963/b4ad3/cognitive-load.png 1080w,
+/static/1d6ab6e1914566c88bc37de7deb37963/89066/cognitive-load.png 1440w,
+/static/1d6ab6e1914566c88bc37de7deb37963/d3a8c/cognitive-load.png 4494w&quot;
+            sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/1d6ab6e1914566c88bc37de7deb37963/242a6/cognitive-load.png&quot;
+            alt=&quot;cognitive load&quot;
+            title=&quot;cognitive load&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Enter Platform Engineering: Empowering Developer Productivity&lt;/h2&gt;
+&lt;p&gt;Recognizing the need to alleviate the growing complexity faced by developers, the concept of platform engineering emerged. Platform engineering entails creating an internal developer platform—a set of internal (and external) tools, services, and best practices that simplify the end-to-end software development process. This platform equips developers with the resources they need to build, test, deploy, and manage applications efficiently, while abstracting away much of the underlying infrastructure complexity.&lt;/p&gt;
+&lt;p&gt;By providing a standardized environment, automation capabilities, and reusable components, platform engineering empowers developers to focus on coding and business logic rather than grappling with deployment intricacies or operational concerns.&lt;/p&gt;
+&lt;h2&gt;What&apos;s next?&lt;/h2&gt;
+&lt;p&gt;Further in this series, I will explore&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A brief history of Backstage, another CNCF project among the ranks of Kubernetes and cloud native technologies.&lt;/li&gt;
+&lt;li&gt;What is an &quot;Internal Developer Portal&quot; and how it is the backbone of any platform org in a company.&lt;/li&gt;
+&lt;li&gt;Current state of developer portals and the use-cases&lt;/li&gt;
+&lt;li&gt;Future of Platform engineering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Join me in discussing this revolutionary phase of elevating Developer Experience!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Your product either lives long enough to become a platform or it dies out]]></title><description><![CDATA[Everything around you is a platform💡 If you are building a software to be used by developers, you can not ignore extensibility. It needs to…]]></description><link>https://orkohunter.net/blog/backstage-internal-developer-portal</link><guid isPermaLink="false">https://orkohunter.net/blog/backstage-internal-developer-portal</guid><pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
     &gt;
