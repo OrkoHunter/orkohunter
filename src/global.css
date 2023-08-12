@@ -50,7 +50,9 @@ h2 {
   /* letter-spacing: 2px; */
 }
 
-p {
+p,
+ul,
+ol {
   line-height: 32px;
   font-size: 20px;
   color: #333;
