@@ -1,4 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Himanshu Mishra | orkohunter.net RSS Feed]]></title><description><![CDATA[Personal website and blog of Himanshu Mishra (@OrkoHunter)]]></description><link>https://orkohunter.net</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Aug 2023 12:52:26 GMT</lastBuildDate><item><title><![CDATA[A brief history of Platform Engineering]]></title><description><![CDATA[I remember the day I heard the word microservices for the first time. For a while, I did not know what it truly meant. But it was a very hot…]]></description><link>https://orkohunter.net/blog/a-brief-history-of-platform-engineering</link><guid isPermaLink="false">https://orkohunter.net/blog/a-brief-history-of-platform-engineering</guid><pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Himanshu Mishra | orkohunter.net RSS Feed]]></title><description><![CDATA[Personal website and blog of Himanshu Mishra (@OrkoHunter)]]></description><link>https://orkohunter.net</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Nov 2023 21:28:21 GMT</lastBuildDate><item><title><![CDATA[You need a Product Mindset]]></title><description><![CDATA[Treat Your Developers Like VIP Customers Your developers are not just users; they're customers who have high expectations from your internal…]]></description><link>https://orkohunter.net/blog/you-need-a-product-mindset</link><guid isPermaLink="false">https://orkohunter.net/blog/you-need-a-product-mindset</guid><pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/062e3da5d387cd7637f45a2339fdb12b/0035e/ProductMindset.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.111111111111114%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAACxLAAAsSwGlPZapAAACEElEQVQoz42S20/UQBSH93+XF4ElJkZIVhKCFwxIYojxjTe8JComKFtwoZSVsmbb3V5n2u102s/McFF48iS/nMtMv57MOZ23Ozs8762ytb5OXdfcN900FEWJkJKiKNB1jdKaSSUJlSSsJEElybUizzI6FxcXeO4p/vk5TdPSti1N20J7FauqoiolIktI0hSUxlMZL8YOb3yHd/4xr/0+u+EZQTSlI6W405GBGGtam1CpGmc8wwlmtlt0w6CMWY4d1uJj1pKf9CKH7dQlNMAyTzlMa7Z+CZ6eCTZ+SasPk5kFT0XFo72AJ5+mnEeC/XGAI0IeZw7d31956H2kGx3wSrhMplM6IsuIanBSRT9VfE8UB4liKM17thSVYu804b0bE5cVl5ngZBazEvfpxQ69ySHLcZ/N/BqoRMbnuOaBk7JzWbDqCVZcwe54ZoFmUGUhkXlG2za2a69MeOn/YHPksD1yeDY6ZCM7ITTA1Dz01ePZYTT3hmKAtdZo3di40ZpQpHyLLtmPfOu/RD5OOiZJkr/Am2H8jxVCooqSShbMhGSWSxtbYBzHV/umNU3TIK/3TQhBnueYc+NN3dRulGYZuchRtbIyG2DudqqquvN3s5e+7xMEAaPRiMFgcJsPh0OOjo7wPA/XdW3+rxlWZ25ujsXFRRYWFqy63a7NjTdaWlq6jU19fn7+NjexkfnOnBnWH/jLJH5QSsliAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/062e3da5d387cd7637f45a2339fdb12b/7c297/ProductMindset.webp 180w,
+/static/062e3da5d387cd7637f45a2339fdb12b/33ecc/ProductMindset.webp 360w,
+/static/062e3da5d387cd7637f45a2339fdb12b/df77d/ProductMindset.webp 720w,
+/static/062e3da5d387cd7637f45a2339fdb12b/5c666/ProductMindset.webp 1080w,
+/static/062e3da5d387cd7637f45a2339fdb12b/95f20/ProductMindset.webp 1440w,
+/static/062e3da5d387cd7637f45a2339fdb12b/f4065/ProductMindset.webp 7680w&quot;
+              sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/062e3da5d387cd7637f45a2339fdb12b/e9ea2/ProductMindset.png 180w,
+/static/062e3da5d387cd7637f45a2339fdb12b/53918/ProductMindset.png 360w,
+/static/062e3da5d387cd7637f45a2339fdb12b/242a6/ProductMindset.png 720w,
+/static/062e3da5d387cd7637f45a2339fdb12b/b4ad3/ProductMindset.png 1080w,
+/static/062e3da5d387cd7637f45a2339fdb12b/89066/ProductMindset.png 1440w,
+/static/062e3da5d387cd7637f45a2339fdb12b/0035e/ProductMindset.png 7680w&quot;
+            sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/062e3da5d387cd7637f45a2339fdb12b/242a6/ProductMindset.png&quot;
+            alt=&quot;ProductMindset&quot;
+            title=&quot;ProductMindset&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Treat Your Developers Like VIP Customers&lt;/h2&gt;
+&lt;p&gt;Your developers are not just users; they&apos;re customers who have high expectations from your internal developer platform. Comprising a blend of in-house and third-party tools, this platform is essential for your developers to deliver top-notch software products. The takeaway? Treat your internal platform like a product, not just a service. Let&apos;s dive into the &quot;how&quot; and &quot;why.&quot;&lt;/p&gt;
+&lt;h2&gt;Product Managers are Crucial to Platform Engineering&lt;/h2&gt;
+&lt;p&gt;What Happens When You Think Like a Product Manager?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You solve real problems your developers face.&lt;/li&gt;
+&lt;li&gt;You actively collect and listen to feedback.&lt;/li&gt;
+&lt;li&gt;You define KPIs and keep an eye on adoption rates.&lt;/li&gt;
+&lt;li&gt;You forge meaningful relationships to enhance the developer experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sound familiar? Companies with excellent engineering cultures are already doing this. If you’re not, it’s high time to start.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Actionable Tip&lt;/strong&gt;: Consider hiring a Product Manager focused solely on &quot;Developer Effectiveness.&quot; This role could be a game-changer for both new and experienced engineers.&lt;/p&gt;
+&lt;p&gt;Key responsibilities that you should expect from this role&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep understanding of the engineering culture&lt;/li&gt;
+&lt;li&gt;Gathering feedback from developers&lt;/li&gt;
+&lt;li&gt;Building action oriented roadmap of your platform&lt;/li&gt;
+&lt;li&gt;Directly responsible for platform tools like Internal Developer Portal&lt;/li&gt;
+&lt;li&gt;Building consensus among platform providers on best practices and tools of choice&lt;/li&gt;
+&lt;li&gt;Create Golden Paths for new joiners&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Internal Customer Advisory Board: A new paradigm&lt;/h2&gt;
+&lt;p&gt;The platform org at Spotify runs a Customer Advisory Board (CAB) every year for their internal customers i.e. developers. This is a day when all platform product managers and stakeholders gather in front of dozens of developers and allow them to yell about their problems. Well not exactly but you get the idea. It results in murals of problems and ideas which they take back to platform engineers who implement them. I was one of them. :)
+Not every company runs a CAB for their external customers. Doing it for internal platform users is a sign of how strong of an engineering culture you have.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In a great organization, both internal and external customers are almost indistinguishable&lt;/strong&gt;. Just like &lt;a href=&quot;https://www.linkedin.com/pulse/brief-history-platform-engineering-himanshu-mishra/&quot;&gt;Mr Bezos had mandated&lt;/a&gt; in early 2000s for Amazon.&lt;/p&gt;
+&lt;h2&gt;KPIs and Metrics: The Navigational Tools for Success&lt;/h2&gt;
+&lt;p&gt;Three Ways to Measure Platform Health&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Formal feedback via surveys and in-app mechanisms&lt;/li&gt;
+&lt;li&gt;Informal feedback loops with platform engineers and product managers&lt;/li&gt;
+&lt;li&gt;Data-driven approaches, like DORA metrics and tools like Software Engineering Insights&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Actionable Tip&lt;/strong&gt;: Conduct a biannual developer survey to identify bottlenecks and rate overall satisfaction.
+Ask them to rate their experience with internal tools and overall satisfaction with the internal platform. Ask them how easy it is for them to find information internally like services, APIs and documentation. Ask them where they spend their most time being blocked on other people or processes.&lt;/p&gt;
+&lt;h2&gt;Hackathons: Your R&amp;#x26;D Lab for Developer Experience&lt;/h2&gt;
+&lt;p&gt;Hackathons are not just coding marathons; they&apos;re your innovation playground. Encourage engineers to ideate and create; you&apos;ll be surprised at the brilliant internal tools and solutions that emerge. After all your customers are hackers who take pride in solving problems.&lt;/p&gt;
+&lt;h2&gt;Quick Wins: Practical Steps for Applying the Product Mindset&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Staff Up: Hire roles that focus on Developer Effectiveness.&lt;/li&gt;
+&lt;li&gt;Identify Pain Points: What slows down your developers?&lt;/li&gt;
+&lt;li&gt;Implement Feedback Loops: Consider setting up a Customer Advisory Board or dedicated channels.&lt;/li&gt;
+&lt;li&gt;Set KPIs: Metrics to measure adoption and success are crucial.&lt;/li&gt;
+&lt;li&gt;Organize Hackdays: Let your developers be the problem-solvers they naturally are.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Conclusion: Your Next Steps&lt;/h2&gt;
+&lt;p&gt;If you&apos;re an engineering leader wondering where to begin, start by evaluating your current state with an &lt;a href=&quot;https://assessment.harness.io/assessment/invite&quot;&gt;engineering assessment&lt;/a&gt;. The road to a better platform and a satisfied developer community starts with adopting a product mindset.&lt;/p&gt;
+&lt;p&gt;Thank you for reading. Let me know your thoughts in comments and what would you like to read next.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A brief history of Platform Engineering]]></title><description><![CDATA[I remember the day I heard the word microservices for the first time. For a while, I did not know what it truly meant. But it was a very hot…]]></description><link>https://orkohunter.net/blog/a-brief-history-of-platform-engineering</link><guid isPermaLink="false">https://orkohunter.net/blog/a-brief-history-of-platform-engineering</guid><pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
     &gt;
