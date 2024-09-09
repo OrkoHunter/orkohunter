@@ -8,6 +8,9 @@ Hey! I'm @OrkoHunter.
 <a href="https://www.linkedin.com/in/orkohunter">
   LinkedIn <img alt="Himanshu's LinkedIn" width="22px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/src/images/logos/linkedin.svg" />
 </a>
+<a href="https://www.youtube.com/@orkohunter">
+  <img alt="Himanshu's YouTube" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1024px-YouTube_Logo_2017.svg.png?20230929095411" />
+</a>
 <!-- Not interested in displaying the profile views. -->
 <img width="0" height="0" src="https://komarev.com/ghpvc/?username=orkohunter" />
 </div>
