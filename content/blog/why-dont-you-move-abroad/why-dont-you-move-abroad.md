@@ -30,7 +30,7 @@ I was 18 back then. The confusion made sense.
 
 A decade has gone by. I got married, switched multiple jobs, wrote a lot of code, lived in three different continents, spoke at many conferences and made a lot of friends for life. I am now back living in India.
 
-_“Dude, so when are you moving to the US?”,_ I get asked frequently by friends, colleagues and my well-wishers.
+_“Dude, so when are you moving to the US?”,_ I frequently get asked by friends, colleagues and my well-wishers.
 
 _“I’m not”._
 
@@ -38,7 +38,7 @@ My answer falls flat on most people. It’s as if, I’ve just said, _“I do no
 
 In this blog post I want to add more colors to my answer. Hope some of you relate with this, especially if you are someone like me considering your decision of moving abroad or moving back.
 
-But first, let me take you back to my teens when life was much simpler and Physics was the most favorite thing in life.
+But first, let me take you back to my teens when life was much simpler and Physics was my most favorite thing in life.
 
 ## The IIT Dream
 
