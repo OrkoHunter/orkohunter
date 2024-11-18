@@ -37,9 +37,7 @@ const About = () => (
       }}
     />
 
-    <SubTitle>
-      Open Source | Software Engineer | Developer Relations | Writer
-    </SubTitle>
+    <SubTitle>Creator | Platform Engineering and Developer Experience</SubTitle>
   </Container>
 );
 

@@ -16,7 +16,7 @@ const Container = styled.div`
 `;
 
 const Content = styled.div`
-  font-family: Roboto, serif;
+  font-family: Montserrat, serif;
 `;
 
 export default function Template({

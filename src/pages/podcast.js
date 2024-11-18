@@ -10,7 +10,7 @@ const Container = styled.main`
   max-width: 80ch;
   margin-left: auto;
   margin-right: auto;
-  font-family: Roboto, serif;
+  font-family: Montserrat, serif;
 `;
 
 const PodcastPage = () => (
