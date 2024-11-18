@@ -146,7 +146,7 @@ Silence. I had no words to explain what I was feeling. It was definitely the _Ch
 
 After few minutes, he said something that unlocked a door in my perception that I had never opened. He said, _“You know you can always come back right? No one is forcing you to live there. You can have an amazing life back in India too.”_
 
-To be honest, I didn’t know this. I really did not know this! All I knew, was that you are supposed to move abroad when you grow up. Moving abroad is synonymous with being successful, filling up your bank account. It takes your career to the moon and gives you the highest level of status possible among your peers. I thought that was the only, most respectful away.
+To be honest, I didn’t know this. I really did not know this! All I knew, was that you are supposed to move abroad when you grow up. Moving abroad is synonymous with being successful, filling up your bank account. It takes your career to the moon and gives you the highest level of status possible among your peers. I thought that was the only, most respectful way.
 
 The very next day, I wrote an email to my General Manager that I am moving to India. Spotify didn’t permit engineers to work from India, so I knew this was not going to work out. But at that moment, I just wanted to go back home and hug my father - and no job or salary was going to stop me from doing that.
 
