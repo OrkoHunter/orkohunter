@@ -12,13 +12,23 @@ slug: "/blog/why-dont-you-move-abroad"
 
 ![](./header.png)
 
+```toc
+# This code block gets replaced with the TOC
+exclude: Table of Contents
+tight: false
+ordered: false
+from-heading: 2
+to-heading: 6
+class-name: "table-of-contents"
+```
+
 I just wrapped up a tech conference here this week in Salt Lake City. I was one of the speakers. It was a special moment for me. Strangely enough, the very first time I came to US, it was also as a speaker at a conference.
 
 _“Did you just say you are a speaker at this thing?”_, asked the US Visa officer, before stamping a B1/B2 on my Passport for ten years.
 
 I was 18 back then. The confusion made sense.
 
-A decade has gone by. I got married, switched multiple jobs, wrote a lot of code, lived in three different continents, spoke at many conferences and made a lot of friends for live. I am now back living in India.
+A decade has gone by. I got married, switched multiple jobs, wrote a lot of code, lived in three different continents, spoke at many conferences and made a lot of friends for life. I am now back living in India.
 
 _“Dude, so when are you moving to the US?”,_ I get asked frequently by friends, colleagues and my well-wishers.
 
