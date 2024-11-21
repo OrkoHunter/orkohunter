@@ -42,7 +42,7 @@ But first, let me take you back to my teens when life was much simpler and Physi
 
 ## The IIT Dream
 
-Just like many Indians of my generation, I spent my childhood in a single bedroom rented house. Every evening, my brother and I would sit in front of an oil lamp and study, mostly maths and science. In the mornings, our _dada ji_ would teach us English and Hindi grammar. It was a household where two things were most valued - Education and Love.
+Just like many Indians of my generation, I spent my childhood in a single bedroom rented house. Every evening, my brother and I would sit in front of a oil lamp (later battery lamp) and study maths and science. In the mornings, our _dada ji_ would teach us English and Hindi grammar. It was a household where two things were most valued - Education and Love.
 
 Education, because that seemed like the only way to escape generational poverty and not having to worry about, if there are enough candlesticks to last the week or not.
 
@@ -50,7 +50,7 @@ And, Love because _familia is everything_.
 
 Millions of students in India prepare to get into IITs every year. With the proper amount of luck and improper amount of childhood sacrifices, I made it into IIT Kharagpur. And that changed everything.
 
-During the admission to engineering colleges, more than two thirds of students want to study Computer Science. This is want increases the chances of landing a job and what everyone seems to be doing. In my hostel room in Kota where I studied for 2 years of IIT prep, I had a note stuck on my wall which listed all the opening and closing ranks of all Computer Science branches in the 7 major IITs. When I saw the results and my rank, it was nowhere close to those CS cutoff ranks and I teared up as if I had failed.
+During the admission to engineering colleges, more than two thirds of students want to study Computer Science. This is what increases the chances of landing a job and what everyone seems to be doing. In my hostel room in Kota where I studied for 2 years of IIT prep, I had a note stuck on my wall which listed all the opening and closing ranks of all Computer Science branches in the 7 major IITs. When I saw the results and my rank, it was nowhere close to those CS cutoff ranks and I teared up as if I had failed.
 
 And just like that, 99.99% of Indian students start their education journey by the system telling them that they are not worth it and they don’t even get to decide what they study.
 
@@ -68,7 +68,7 @@ Very quickly, people started referring me with my [GitHub handle](https://github
 
 ## Twitter @ San Francisco
 
-I was having a blast with the altruism that came with organizing Open Source workshops for students, helping them write their first useful Python application and making their first Pull Request. In 2017, we organized our first ever Open Source conference in college. We had about a thousand attendees, two days of talks, tutorials and lots of fun. We had full flown AV setup, speakers and attendees coming from multiple cities. We had a large budget too. I was leading it, being one of the three co-chairs of the conference. We were living the dream!
+I was having a blast with the altruism that came with organizing Open Source workshops for students, helping them write their first useful Python application and making their first Pull Request. In 2017, we organized our first ever Open Source conference in college. We had about a thousand attendees, two days of talks, tutorials and lots of fun. We had full blown AV setup, speakers and attendees coming from multiple cities. We had a large budget too. I was leading it, being one of the three co-chairs of the conference. We were living the dream!
 
 One night during the summit, I received an email from a recruiter at Twitter - _“Hey Himanshu, We saw your GitHub profile. Would you like to join us for an internship at Twitter San Francisco office in the Open Source team?”_. I was so busy with the conference that I forgot to respond for 24 hours. She reached back - _“Himanshu, are you interested?”_
 
