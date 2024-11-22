@@ -10,7 +10,7 @@ image: ./header.png
 slug: "/blog/why-dont-you-move-abroad"
 ---
 
-![](./header.png)
+<!-- ![](./header.png) -->
 
 ```toc
 # This code block gets replaced with the TOC
@@ -21,6 +21,10 @@ from-heading: 2
 to-heading: 6
 class-name: "table-of-contents"
 ```
+
+_Edit: This article reached the [front page of Hacker News](https://news.ycombinator.com/item?id=42191805). I am surprised to learn how the broader international community of young migrants relate with this as well. Many thanks - you got this!_
+
+---
 
 I just wrapped up a tech conference here this week in Salt Lake City. I was one of the speakers. It was a special moment for me. Strangely enough, the very first time I came to US, it was also as a speaker at a conference.
 
