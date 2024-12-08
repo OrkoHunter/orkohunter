@@ -7,10 +7,10 @@ import Seo from "../components/Seo";
 
 const Container = styled.main`
   margin-top: 56px;
-  max-width: 80ch;
+  max-width: 100ch;
   margin-left: auto;
   margin-right: auto;
-  font-family: Montserrat, serif;
+  /* font-family: Montserrat, serif; */
 `;
 
 const PodcastPage = () => (

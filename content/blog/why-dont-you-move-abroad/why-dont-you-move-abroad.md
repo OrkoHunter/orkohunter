@@ -10,7 +10,7 @@ image: ./header.png
 slug: "/blog/why-dont-you-move-abroad"
 ---
 
-<!-- ![](./header.png) -->
+![](./header.png)
 
 ```toc
 # This code block gets replaced with the TOC

@@ -36,7 +36,7 @@ const OrkoHunter = styled(Link)`
 const NavContainer = styled.nav`
   display: flex;
   flex-direction: row;
-  gap: 16px;
+  gap: 2em;
 
   a {
     text-decoration: none;
@@ -52,10 +52,11 @@ const Header = ({ siteTitle }) => (
 
     <NavContainer>
       <Link to="/blog">Blog</Link>
-      <Link to="/podcast">Podcast</Link>
+      <Link to="/blog/introducing-discord">Discord</Link>
+      {/* <Link to="/podcast">Podcast</Link> */}
       <Link to="/letters">Letters</Link>
-      <Link to="/notes">Notes</Link>
-      <Link to="/files/cv.pdf">CV</Link>
+      {/* <Link to="/notes">Notes</Link> */}
+      {/* <Link to="/files/cv.pdf">CV</Link> */}
     </NavContainer>
 
     <SocialNav />

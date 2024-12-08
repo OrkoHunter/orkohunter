@@ -10,13 +10,13 @@ import Scroll from "../components/ScrollToTop";
 
 const Container = styled.div`
   margin-top: 56px;
-  max-width: 80ch;
+  max-width: 120ch;
   margin-left: auto;
   margin-right: auto;
 `;
 
 const Content = styled.div`
-  font-family: Montserrat, serif;
+  /* font-family: Montserrat, serif; */
 `;
 
 export default function Template({

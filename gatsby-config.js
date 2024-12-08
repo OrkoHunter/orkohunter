@@ -34,11 +34,23 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               withWebp: true,
-              // showCaptions: true,
-              maxWidth: 720,
+              showCaptions: true,
+              maxWidth: 2500,
               quality: 100,
             },
           },
+          {
+            resolve: `gatsby-remark-table-of-contents`,
+            options: {
+              exclude: "Table of Contents",
+              tight: false,
+              ordered: false,
+              fromHeading: 1,
+              toHeading: 6,
+              className: "table-of-contents",
+            },
+          },
+          `gatsby-remark-autolink-headers`,
           {
             resolve: `gatsby-remark-prismjs`,
             options: {
@@ -192,21 +204,18 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: `gatsby-omni-font-loader`,
       options: {
-        plugins: [
+        enableListener: true,
+        preconnect: [
+          `https://fonts.googleapis.com`,
+          `https://fonts.gstatic.com`,
+        ],
+        web: [
           {
-            resolve: `gatsby-remark-table-of-contents`,
-            options: {
-              exclude: "Table of Contents",
-              tight: false,
-              ordered: false,
-              fromHeading: 1,
-              toHeading: 6,
-              className: "table-of-contents",
-            },
+            name: `Arimo`,
+            file: `https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap`,
           },
-          `gatsby-remark-autolink-headers`,
         ],
       },
     },

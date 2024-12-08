@@ -7,7 +7,7 @@ const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-family: Montserrat, serif;
+  /* font-family: Montserrat, serif; */
 `;
 
 const Title = styled.h1`
@@ -37,7 +37,9 @@ const About = () => (
       }}
     />
 
-    <SubTitle>Creator | Platform Engineering and Developer Experience</SubTitle>
+    <SubTitle>
+      Open Source | Platform Engineering | Developer Experience | Hacker Mindset
+    </SubTitle>
   </Container>
 );
 

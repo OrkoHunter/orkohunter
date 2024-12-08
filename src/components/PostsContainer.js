@@ -5,11 +5,10 @@ import DateTimeContainer from "./DateTimeContainer";
 import { SubTitle } from "./Typography";
 
 const AllPostsContainer = styled.div`
-  font-family: Montserrat, serif;
   margin-top: 96px;
   display: flex;
   flex-direction: column;
-  max-width: 80ch;
+  max-width: 100ch;
   margin-left: auto;
   margin-right: auto;
   gap: 32px;
@@ -49,7 +48,7 @@ const Button = styled.button`
   /* background-color: #356a8d; */
   background-color: rgba(0, 0, 0, 1);
 
-  font-family: Montserrat, serif;
+  /* font-family: Montserrat, serif; */
   font-size: 20px;
   font-weight: 700;
   color: white;

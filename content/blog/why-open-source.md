@@ -9,8 +9,6 @@ featured: true
 slug: "/blog/why-do-open-source-in-college"
 ---
 
-> If you are planning to stay close to Software after graduation, this article might win you over to do Open Source.
-
 More and more students are now being involved with Open Source programming. Thanks to programs like [Google Summer of Code](https://en.wikipedia.org/wiki/Google_Summer_of_Code) who have seriously changed the lives of many and introduced hundreds of thousands of young students to Open Source programming.
 
 However, this number is small in the grand scheme of things.

@@ -8,6 +8,7 @@ import {
   FaYoutube,
   FaEnvelope,
   FaRssSquare,
+  FaDiscord,
 } from "react-icons/fa";
 
 const Container = styled.nav`
@@ -25,17 +26,17 @@ const Link = styled.a`
 
 const SocialNav = () => (
   <Container>
-    <Link target="_blank" href="https://github.com/OrkoHunter">
-      <FaGithub size={32} />
-    </Link>
     <Link target="_blank" href="https://linkedin.com/in/OrkoHunter">
       <FaLinkedin size={32} />
+    </Link>
+    <Link target="_blank" href="https://github.com/OrkoHunter">
+      <FaGithub size={32} />
     </Link>
     <Link target="_blank" href="https://twitter.com/OrkoHunter">
       <FaTwitter size={32} />
     </Link>
-    <Link target="_blank" href="https://instagram.com/OrkoHunter">
-      <FaInstagramSquare size={32} />
+    <Link target="_blank" href="https://discord.gg/34nvjv6egq">
+      <FaDiscord size={32} />
     </Link>
     <Link
       target="_blank"
