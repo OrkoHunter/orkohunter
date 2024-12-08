@@ -12,6 +12,8 @@ slug: "/blog/introducing-discord"
 
 ![GATSBY_EMPTY_ALT](./banner.png)
 
+👉🏻 [Join the OrkoHunter Discord Community](https://discord.gg/34nvjv6egq)
+
 10 years ago, I arrived as a naive fresher in my engineering college. And like many, my first year was pretty bad in terms of both social and academic growth. I made very little effort to make new friends, skipped most classes, scored 7 point something CGPA and had no idea what I was going to do in life.
 
 Although I had prior understanding of programming, my first hands-on keyboard experience was my Data Structures and Algorithms course. Those juicy Sun Microsystems computers and fully air conditioned labs used to put me to sleep after lunch. I was a slow learner in that class. I was started struggling a lot when the time came to implement linked lists or perform string manipulations in character arrays. Segmentation Fault used to be the highlight of most days.
