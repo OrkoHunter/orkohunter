@@ -213,8 +213,8 @@ module.exports = {
         ],
         web: [
           {
-            name: `Arimo`,
-            file: `https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap`,
+            name: `Inter`,
+            file: `https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap`,
           },
         ],
       },

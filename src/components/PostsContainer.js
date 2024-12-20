@@ -29,7 +29,7 @@ const BlogListRowContainer = styled.div`
 
   &:hover {
     /* color: rgb(63, 81, 181) !important; */
-    color: rgba(0, 0, 0, 0.6) !important;
+    /* color: rgba(0, 0, 0, 0.6) !important; */
   }
 `;
 
@@ -56,7 +56,7 @@ const Button = styled.button`
   &:hover {
     cursor: pointer;
     /* background-color: rgb(63, 81, 181); */
-    background-color: rgba(0, 0, 0, 0.6);
+    /* background-color: rgba(0, 0, 0, 0.6); */
     transition: 0.5s;
   }
 `;
