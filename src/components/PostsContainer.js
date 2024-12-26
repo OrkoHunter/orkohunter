@@ -2,10 +2,9 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
 import DateTimeContainer from "./DateTimeContainer";
-import { SubTitle } from "./Typography";
 
 const AllPostsContainer = styled.div`
-  margin-top: 96px;
+  margin-top: 5em;
   display: flex;
   flex-direction: column;
   max-width: 100ch;
@@ -14,22 +13,43 @@ const AllPostsContainer = styled.div`
   gap: 32px;
 `;
 
-const TitleContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-`;
-
 const BlogListRowContainer = styled.div`
   color: black;
-  text-decoration: none;
+  /* text-decoration: none; */
   display: flex;
-  align-items: start;
+  /* align-items: start; */
   /* min-height: 104px; */
-  flex-direction: column;
+  /* flex-direction: column; */
 
-  &:hover {
-    /* color: rgb(63, 81, 181) !important; */
-    /* color: rgba(0, 0, 0, 0.6) !important; */
+  @media only screen and (max-width: 767px) {
+    flex-direction: column;
+    font-size: 1.2em;
+  }
+`;
+
+const P = styled.p`
+  position: relative;
+  font-size: 1.2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-weight: 500;
+
+  &::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px; /* Thickness of the underline */
+    bottom: 0;
+    left: 0;
+    background-color: #000; /* Underline color */
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+
+  &:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
   }
 `;
 
@@ -41,7 +61,7 @@ const StyledLink = styled(Link)`
 const Button = styled.button`
   margin-left: auto;
   margin-right: auto;
-  width: 160px;
+  width: 200px;
   height: 64px;
   border-radius: 32px;
   border: none;
@@ -63,13 +83,12 @@ const Button = styled.button`
 
 const PostsContainer = ({ posts, featured, letters, notes }) => (
   <AllPostsContainer>
-    {featured && <h1>Featured Posts</h1>}
     {letters && (
-      <p>
+      <P>
         These are some of my letters and their responses which I have made
         public. Read more on the{" "}
         <Link to="/blog/letters">announcement blog post</Link>.
-      </p>
+      </P>
     )}
     {notes && (
       <p>
@@ -79,6 +98,7 @@ const PostsContainer = ({ posts, featured, letters, notes }) => (
         </Link>
       </p>
     )}
+
     {posts.map(post => (
       <Link to={post.node.frontmatter.slug}>
         <BlogListRowContainer>
@@ -86,17 +106,15 @@ const PostsContainer = ({ posts, featured, letters, notes }) => (
             date={post.node.frontmatter.date}
             timeToRead={post.node.timeToRead}
           />
-          <TitleContainer>
-            <h2>{post.node.frontmatter.title}</h2>
-            <SubTitle>{post.node.frontmatter.subtitle}</SubTitle>
-          </TitleContainer>
+          <P>{post.node.frontmatter.title}</P>
         </BlogListRowContainer>
       </Link>
     ))}
+
     {featured && (
       <StyledLink to="/blog">
         <Button>
-          <span>All Posts</span>
+          <span>See All Posts</span>
         </Button>
       </StyledLink>
     )}

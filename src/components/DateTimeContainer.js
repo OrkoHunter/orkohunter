@@ -7,10 +7,11 @@ const Container = styled.div`
   align-items: center;
   gap: 8px;
   min-width: 240px;
+  font-weight: 300;
   /* margin-top: 32px;
   margin-bottom: 32px; */
   font-size: 16px;
-  color: rgba(0, 0, 0, 0.6);
+  /* color: rgba(0, 0, 0, 0.6); */
 
   @media only screen and (max-width: 1024px) {
     margin-bottom: 0px;

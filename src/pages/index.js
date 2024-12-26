@@ -16,9 +16,9 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <Seo />
-      <About />
-      <Divider />
       <PostsContainer posts={posts} featured />
+      <Divider />
+      <About />
     </Layout>
   );
 };
