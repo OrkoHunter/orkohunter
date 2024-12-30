@@ -60,7 +60,7 @@ And just like that, 99.99% of Indian students start their education journey by t
 
 While I couldn’t get into the Computer Science department, I knew what I wanted to study. My father has been a software engineer since the 90s and my brother is an absolute rockstar with computers. We didn’t have cartoons in TV back in our childhood but had our hands on keyboard ever since I could possibly remember.
 
-So, I was ready to join IIT and say _“Fuck you,”_ to the education system, “_I’m going to be the best programmer the world has ever seen.”_
+[So, I was ready to join IIT and say _“Fuck you,”_ to the education system, “_I’m going to be the best programmer the world has ever seen.”_](https://bauva.com/blog/be-like-ekalavya/)
 
 ## College and Open Source
 
