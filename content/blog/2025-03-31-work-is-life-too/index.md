@@ -44,7 +44,7 @@ I remember my first few months at Spotify. I was debugging an unexpected authent
 
 At the standup, my favorite engineer said, _“Nice work, man.”_ It meant the world to me. However, another one sort of joked - _“Well, now we all have to catch up because Himanshu has worked over the weekend.”_
 
-For me, that weekend was more meaningful than any trip or party I could’ve gone on to. I was lit up. That’s what I want more people to feel, every once in a while. As Charles Bukowski would say, _go all the way_.
+For me, that weekend was more meaningful than any trip or party I could’ve gone on to. I was lit up. That’s what I want more people to feel, every once in a while. As Charles Bukowski would say, _if you are going to try, go all the way_.
 
 ## Don’t Just Work. Care About What You Build.
 
@@ -64,8 +64,6 @@ If you haven’t found what you love doing, you owe it to yourself to keep looki
 
 ## Meaning and Balance
 
-The rule of thumb here should be to spend most of the time in a meaningful way. As we grow older, we don't find much time. So, as you are sitting with your child, instead of scrolling through the phone, play along with them. Similarly, when at work, don't just fill hours, solve something real. Automate the boring stuff. Volunteer for the good problems, ask for it. Switch to a better, more interesting project. If it's not possible to do that in your current company, move on to a different one. It sounds hard, but it’s worth it.
+The rule of thumb here should be to spend most of the time in a meaningful way. As we grow older, we don't find much time. So, as you are sitting with your child, instead of scrolling through the phone, play along with them. Similarly, when at work, don't just fill hours, solve something real. Automate the boring stuff. Volunteer for the good problems, ask for them. If you can't find it, switch to a better, more interesting project. If it's not possible to do that in your current company, move on to a different one. It sounds hard, but it’s amazing to work on something you care about.
 
-Balance is important, but it's not a balance between _Work_ and _Life_ - it's the balance between the things you do for yourself and for others around you.
-
-Don’t aim for balance. Aim for meaning. 🧘
+Don’t aim for **balance** between _work_ and _life_. Aim for **meaning**, both at _work_ and in _life_.
