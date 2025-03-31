@@ -22,7 +22,7 @@ Where did that creative joy go? When did the artist in all of us _die_? Does it 
 
 ## The 8-8-8 Rule
 
-**“Work-life balance” is a broken phrase**. It suggests that _work_ and _life_ are two opposite forces. Like the opposite ends of a seasaw.
+**“Work-life balance” is a broken phrase**. It suggests that _work_ and _life_ are two opposite forces. Like the opposite ends of a seesaw.
 
 We forget that 8-hour shifts and time clocks were only invented a few centuries ago, to keep the factories running. In the Industrial Revolution, it made sense for the factory jobs that needed 24x7 shifts to keep the machines running. Most of those jobs, no longer exist as more and more machines are designed to operate independently with little to no supervision.
 
