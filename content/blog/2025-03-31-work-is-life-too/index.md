@@ -2,7 +2,7 @@
 date: "2025-03-31"
 title: "Work is Life Too"
 subtitle: ""
-summary: ""
+summary: "Don’t aim for balance between work and life. Aim for meaning, both at work and in life"
 draft: false
 featured: true
 categories: []
